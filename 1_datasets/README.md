@@ -4,7 +4,7 @@ For our *"Solar Energy in Conflict Zones"* project, we kicked things off with **
 
 We're looking at things like:
 
-![1](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/images/1.png)
+![1](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/1_datasets/1_datasets/images/1.png)
 
 This model is our *blueprint* for understanding how *conflict*, *urgent humanitarian needs*, and *solar solutions* interact. We're identifying the *landmarks* – such as *bombed-out power grids*, *families forced to flee*, and the *necessity of communication* – and figuring out how *solar energy* fits in as this vital *"survival infrastructure."*
 
