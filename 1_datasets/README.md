@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD031 MD033 MD013 -->
 # Non- Technical Explanation of Domain Modeling
 
 For our *"Solar Energy in Conflict Zones"* project, we kicked things off with **domain modeling**. Think of it as sketching out a simplified map of how *solar power* actually fits into the incredibly messy reality of *conflict*. It's how we begin to visualize the *key players* and *connections* within these highly challenging environments.
