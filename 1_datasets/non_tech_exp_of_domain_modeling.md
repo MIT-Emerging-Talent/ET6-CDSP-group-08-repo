@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD031 MD033 MD013 MD001 MD04 MD045 MD049 MD041-->
+<!-- markdownlint-disable MD031 MD033 MD013 MD012 MD001 MD04 MD045 MD049 MD041-->
 ## Domain Modeling (non-technical explanation)
 
 Imagine trying to understand how people survive in war-torn areas when the lights go out — literally. That’s where our project begins. We built something called a **domain model**, which is just a fancy way of saying: _"Let’s draw a simple map to make sense of a really messy situation."_
@@ -36,5 +36,3 @@ Our domain model focuses on three main areas:
 Now, let’s be real — collecting data in conflict zones is **really hard**. A lot of info is missing, unreliable, or never even written down (what we call **“dark data”**). So sometimes we have to connect the dots using smart guesses — like using import numbers as a hint for solar activity.
 
 In the end, our domain model is like the gameboard that helps us play this complex game: **What happens to energy when everything else falls apart — and how can solar make things better?**
-
-
