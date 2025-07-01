@@ -175,8 +175,7 @@ timeline
             Define the problem & research question : ✅ Completed
     section June 17 - June 30
         Data Collection :
-            Decide how to model our problem domain and collect data : 🔄 In progress
-    section July 1 - July 21
+            Decide how to model our problem domain and collect data : ✅ Completed
         Data Analysis:
             Analyze data and interpret results : ⏳ Not Started
     section July 22 - August 11
