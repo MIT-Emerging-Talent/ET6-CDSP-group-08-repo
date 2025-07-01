@@ -1,24 +1,23 @@
-<!-- markdownlint-disable MD031 MD033 MD013 MD001 MD04 MD045 MD049 MD041-->
-## Non- Technical Explanation of Domain Modeling
+<!-- markdownlint-disable MD031 MD033 MD013 MD012 MD001 MD04 MD045 MD049 MD041-->
+## Domain Modeling (non-technical explanation)
 
-Our _"Solar Energy in Conflict Zones"_ project began with **domain modeling**. This is essentially creating a simplified map of how **solar power** integrates into the complex realities of **conflict**. It helps us visualize the **key players** and **connections** within these challenging environments.
+Imagine trying to understand how people survive in war-torn areas when the lights go out — literally. That’s where our project begins. We built something called a **domain model**, which is just a fancy way of saying: _"Let’s draw a simple map to make sense of a really messy situation."_
 
-We're looking at things like:
+At the center of it all is **solar energy** — not just as a clean tech solution, but as a **lifeline** when everything else fails. When power lines are bombed, families are displaced, and normal life disappears, solar can step in as **survival infrastructure** — helping people charge phones, power lights, and keep hospitals or schools running. We're looking at things like:
+
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/1_datasets/1_datasets/images/1.png" width="650"/></td>
     <td><img src="https://raw.githubusercontent.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/1_datasets/1_datasets/images/2.png" width="300"/></td>
   </tr>
 </table>
+To understand how this all works, we looked at three big clues (datasets):
 
-This model is our **plan** for understanding how **conflict**, **urgent needs**, and **solar solutions** work together. We're pointing out the **key issues** – like **destroyed power lines**, **families who've had to leave their homes**, and the **need to stay in touch**; and figuring out how **solar energy** becomes this crucial **"survival infrastructure."**
+- **On-Grid and Off-Grid Data** _tells us how traditional electricity drops off during conflict. It’s like tracking where the lights go out and shows how people start using solar systems when the grid fails — kind of like switching from the main power to a backup generator._
+- **Renewable and Non-Renewables** _helps us compare how energy use shifts in crisis: are countries using more solar or still relying on fossil fuels_
+- **UN Comtrade Data** _tracks the flow of solar equipment (like panels and batteries) into countries over time, revealing how conflict affects supply chains and access to solar tech._
 
----
-
-### **From Concept to Data: The Core Ideas & Why It's Hard**
-
-To wrestle this incredibly complex issue into something we can actually analyze *data-wise*, our model focuses on a few **core ideas**:
-
+Our domain model focuses on three main areas:  
 <table>
   <tr>
     <td style="vertical-align: top; width: 70%;">
@@ -34,11 +33,6 @@ To wrestle this incredibly complex issue into something we can actually analyze 
   </tr>
 </table>
 
-Turning this conceptual stuff into actual data means pinning down **measurable entities.** Things like specific conflict events (their intensity, where they happened), details about the solar systems themselves (capacity, installation type), and then using proxies for energy consumption where direct data is elusive
+Now, let’s be real — collecting data in conflict zones is **really hard**. A lot of info is missing, unreliable, or never even written down (what we call **“dark data”**). So sometimes we have to connect the dots using smart guesses — like using import numbers as a hint for solar activity.
 
-But let’s be real; collecting data in *active conflict zones* presents major challenges:
-
-- **Data Scarcity & Reliability**: Comprehensive, consistent data? *Forget about it.* Ongoing conflict and access issues make it *extremely rare*.
-- **Bias & Underreporting**: Available data is often *incomplete*, *selective*, or *heavily biased*.
-- **Attribution Challenges**: It’s difficult to *isolate the exact impact of conflict* from other influencing factors.
-- **"Dark Data"**: And a ton of vital info, especially about informal energy use, just never gets recorded. It's 'dark data' for a reason.
+In the end, our domain model is like the gameboard that helps us play this complex game: **What happens to energy when everything else falls apart — and how can solar make things better?**
