@@ -138,7 +138,7 @@ security challenges.
 - **Geographic Regions:** Syria, Iraq, Sudan, South Sudan, Palestine, Mali, Ethiopia, Ukraine, Yemen, Libya, Afghanistan, Nigeria, Central African Republic, Somalia,Pakistan, Mozambique and Myanmar (17 countries)
 - **Analysis Dimensions:** Deployment patterns, capacity utilization, household consumption.
 
-### [Methodology & System Approach](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/0_domain_study/understanding_of_problem_domain.md)
+### Methodology & System Approach
 
 To ground our data‑driven work in real‑world context, we've prepared a detailed [systems analysis](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/0_domain_study/understanding_of_problem_domain.md) of the electrical power challenges in conflict‑affected areas:
 
@@ -149,9 +149,9 @@ To ground our data‑driven work in real‑world context, we've prepared a detai
 
 <!-- markdownlint-disable MD031 MD033 MD013 MD001 MD04 MD045 MD049 MD041 MD022 MD042 MD018-->
 
-## [Data Collection]()
+## Data Collection
 
-### [Domain Modeling]()
+### [Domain Modeling](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/non_tech_exp_of_domain_modeling.md)
 
 The model focuses on three key ideas: solar’s evolving role across the **conflict lifecycle** (before and after conflict), its impact through **deployment**, **utilization**, and **household use**, and the reality that in data-scarce zones, we often rely on smart proxies to make sense of what's happening. It helps us answer a critical question: *how does solar energy help people survive when everything else fails?*
 
