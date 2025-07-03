@@ -9,26 +9,26 @@ _Displaced. Determined. Data-Driven._
 
 ## Project Overview
 
-We are a team united by purpose and shaped by displacement, using data science
- to drive real-world impact. This project applies data exploration, modeling,
+We are a team united by _purpose and shaped by displacement_, using data science
+ to **drive real-world impact.** This project applies data exploration, modeling,
  and visualization to explore how renewable energy, specifically solar energy (i.e. PV cells),
  serves as critical survival infrastructure in conflict-affected communities worldwide.
 
 
-<!-- markdownlint-disable MD031 MD033 MD004 MD009 MD013 MD045 -->
+<!-- markdownlint-disable MD031 MD033 MD004 MD009 MD013 MD045 MD001 -->
 ## [Domain Research & Background](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/0_domain_study/README.md)
 
 > Solar Energy acts as a vital **survival infrastructure** in conflict zones.
 
 Citizens in conflict-affected countries require stable electricity sources,
 yet ongoing clashes and targeted attacks on power infrastructure have
-severely disrupted their access to reliable power. 
+severely disrupted their access to reliable power.   
 This project examines how solar photovoltaic systems function not as 
 environmental solutions, but as **critical survival technology** that 
 enables families to maintain essential services when all
 other energy sources fail.
 
-### The Humanitarian Energy Crisis
+#### The Humanitarian Energy Crisis
 
 Armed conflicts create immediate survival challenges that go 
 far beyond traditional security concerns. As of 2024, over 130 million people
@@ -48,7 +48,7 @@ This energy poverty doesn't just limit comfort, it directly threatens
 survival by compromising medical services, water access, communication
 systems, and basic safety through adequate lighting.
 
-### Solar PV as Critical Survival Technology
+#### Solar PV as Critical Survival Technology
 
 In this context, solar photovoltaic systems have emerged not as environmental
 solutions, **but as survival infrastructure**. Unlike centralized power grids
@@ -101,12 +101,11 @@ affect three critical dimensions of solar deployment:
 
 ### Actionable Research Question
 
-
 > **How have armed conflicts over the past 15 years influenced the deployment,
 > capacity utilization, and household consumption of solar photovoltaic
 > systems—both environmentally and socially—in conflict-affected communities?**
 
-### Research Focus & Significance
+#### Research Focus & Significance
 
 By examining the relationships between conflict intensity,
 solar system adoption rates, capacity factors, and 
@@ -132,14 +131,14 @@ security challenges.
  increasingly recognize the need for resilient, sustainable,
  and decentralized energy solutions in conflicted areas.
 
-## Project Scope
+### Project Scope
 
 - **Time Period**: 15 years (2010-2024)
 - **Renewable Energy Focus:** Solar Photovoltaic Systems 
-- **Geographic Regions:** Afghanistan, Sudan, Syria, Ukraine, Gaza
+- **Geographic Regions:** Syria, Iraq, Sudan, South Sudan, Palestine, Mali, Ethiopia, Ukraine, Yemen, Libya, Afghanistan, Nigeria, Central African Republic, Somalia,Pakistan, Mozambique and Myanmar (17 countries)
 - **Analysis Dimensions:** Deployment patterns, capacity utilization, household consumption.
 
-## [Methodology & System Approach](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/0_domain_study/understanding_of_problem_domain.md)
+### Methodology & System Approach
 
 To ground our data‑driven work in real‑world context, we've prepared a detailed [systems analysis](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/0_domain_study/understanding_of_problem_domain.md) of the electrical power challenges in conflict‑affected areas:
 
@@ -147,6 +146,24 @@ To ground our data‑driven work in real‑world context, we've prepared a detai
 * **Underlying structures** that make the grid vulnerable. 
 * **Mental models** shaping decision‑making on both sides.  
 * **Potential interventions** from distributed solar microgrids to local maintenance committ
+
+<!-- markdownlint-disable MD031 MD033 MD013 MD001 MD04 MD045 MD049 MD041 MD022 MD042 MD018-->
+
+## Data Collection
+
+### [Domain Modeling](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/non_tech_exp_of_domain_modeling.md)
+
+The model focuses on three key ideas: solar’s evolving role across the **conflict lifecycle** (before and after conflict), its impact through **deployment**, **utilization**, and **household use**, and the reality that in data-scarce zones, we often rely on smart proxies to make sense of what's happening. It helps us answer a critical question: *how does solar energy help people survive when everything else fails?*
+
+### [Data Sets](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/README.md)
+
+1. **[Raw: Off-grid Renewable Energy Statistics 2024](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/IRENA_OFGStats.raw.xlsx)** to _[Cleaned: Off-grid](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/2_data_preparation/IRENA_OFG_cleaned.ipynb)_
+2. **[Raw: On-grid Renewable Energy Statistics 2024](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/IRENA_Stats_extract_2025_H1_raw.xlsx)** to _[Cleaned: On-grid](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/2_data_preparation/IRENA_ONG_cleaned.ipynb)_
+3. **[Raw: UN Comtrade data](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/UN_Comtrade_imports_dataset_raw.xlsx)** to _[Cleaned: UN Comtrade](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/2_data_preparation/UN_comtrade_data_cleaning.ipynb)_
+
+For more details refer to [/2_data_preparation](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/2_data_preparation) keeping all our cleaning, transformation, and prep scripts and [/3_data_exploration](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/3_data_exploration) exploring, visualizing, and get a feel for our datasets. 
+
+---
 ```mermaid
 timeline
     title Project Timeline
@@ -158,8 +175,7 @@ timeline
             Define the problem & research question : ✅ Completed
     section June 17 - June 30
         Data Collection :
-            Decide how to model our problem domain and collect data : 🔄 In progress
-    section July 1 - July 21
+            Decide how to model our problem domain and collect data : ✅ Completed
         Data Analysis:
             Analyze data and interpret results : ⏳ Not Started
     section July 22 - August 11
@@ -169,7 +185,7 @@ timeline
         Final Presentation:
             Present the full journey and lessons learned : ⏳ Not Started
 ```
----- 
+---
 
 ## Repository structure
 
@@ -189,9 +205,9 @@ project/
 
 ## Team Members
 
-<img align="right" width="250" height="auto" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czk1Mm91em13OGpzbTBxaXhpYTlpbWtyNTR0OWdiY2pwazc3aGNneCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8CtkDP78zAJ2BTGo2G/giphy.gif">
+<img align="right" width="350" height="auto" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czk1Mm91em13OGpzbTBxaXhpYTlpbWtyNTR0OWdiY2pwazc3aGNneCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8CtkDP78zAJ2BTGo2G/giphy.gif">
 
-_Who's behind all this? Meet the passionate minds driving this project:_
+_Who's behind all this? Meet the passionate minds Github driving this project:_
 
 - **ِ[Abdallah Alnajjar](https://github.com/theabdallahnjr)**
 - **[Ahd Basan](https://github.com/ahdbasan)**
@@ -199,12 +215,17 @@ _Who's behind all this? Meet the passionate minds driving this project:_
 - **[Mariia Ermishina](https://github.com/ermishina)**
 - **[Mohamed Altayeb](https://github.com/Mo-Altayeb)**
 - **[Mohamed Saeed👨‍💻](https://github.com/Tbaosman)**
+- **[Mohamed Elnajeeb](https://github.com/Mohamed-Elnageeb)**
+- **[Muhannad Assaf](https://github.com/MuhannadGTR)**
+- **[Eman Alfalouji](https://github.com/Emanfalouji)**
+- **[Zeinab Mohammed](https://github.com/Zeinab15)**
+- **[Maria Alejandra Cardeno](https://github.com/mariacommits)**
 
 ## [Contributing](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/CONTRIBUTING.md)
 
  To set up the project locally and understand our contribution guidelines, please see our [CONTRIBUTING.md](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/CONTRIBUTING.md) file.
 
-##  Notes
+##  [Notes](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/notes)
 
 This is a work in progress. More updates and details will be added soon to
 this readme. Stay tuned!
