@@ -71,9 +71,11 @@ This script processes the **on-grid electricity data** from the IRENA dataset.
 
 2. **Process**
 
-    - Dropped irrelevant columns
-    - Inspected the data to the its shape and whether it has null values or not
-    - Filled the null values
+    - Dropped irrelevant columns.
+    - Inspected the data to the its shape and whether it has null values or not.
+    - Filled the null values.
+    - Added a conflict status column.
+    - removed any row with `Bioenergy` technology in it.
 
 3. **Output datasets**
 
