@@ -93,3 +93,29 @@ Checked for nulls using df.isnull().sum() — no major issues found.
 - **Do you have the right question?**
  The guiding question — “How does solar capacity evolve in conflict-affected countries, and does conflict hinder or encourage adoption?” — is solid.  
 But to answer it robustly, we must merge energy data with conflict datasets to measure correlation or causality, not just trend lines.
+
+---
+
+## Of-Grid data preparation
+
+### 1. **Input dataset** 
+
+  File:../1_datasets/cleaned_data/IRENA_OFGStats.cleaned.xlsx
+
+### 2. Exploratory Data Analysis (EDA) Steps
+
+- Loaded the clean dataset.
+- checked for general information using df.info()
+- Made several visuals to understand the gist of the dateset ->
+  - Line plots to capture the off-grid capacity and off-grid energy access over time.
+  - Bar plots to illustrate Total Off-grid Solar Capacity and Energy access by Region and Conflict Status.
+  - Box plots to show Distribution of Off-grid Capacity and Energy access by Conflict Status.
+  - bar plots to view the entries by: conflict status and group technology.
+
+### 3. Key Questions
+
+- **Do you have the right data?** 
+  - This dataset is highly relevant to our case study, but it need to be accompanied by other data.
+
+- **Do you need other data?**
+  - Yes, we need more comprehensive conflict data and a wider array of socioeconomic indicators.
