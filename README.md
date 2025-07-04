@@ -81,21 +81,21 @@ in conflict zones, significant knowledge gaps
 remain about how armed conflicts specifically
 affect three critical dimensions of solar deployment:
 
-1. **Deployment Patterns**: How do conflict dynamics influence where,
+1. <details><summary><b>Deployment Patterns</b></summary><p>How do conflict dynamics influence where,
     when, and why households and communities install solar PV systems?
     Do installations increase during active conflict due to grid
-    failures, or decrease due to economic constraints and physical dangers?
+    failures, or decrease due to economic constraints and physical dangers?</p></details>
 
-2. **Capacity Utilization**: How effectively do solar systems operate
+2. <details><summary><b>Capacity Utilization</b></summary><p>How effectively do solar systems operate
     under conflict conditions? Evidence from Gaza shows that 64.8%
     of solar panels have been damaged by ongoing hostilities, yet families
     continue using compromised systems because they provide essential survival
-    power.
+    power.</p></details>
 
-3. **Household Consumption**: How do energy consumption patterns
+3. <details><summary><b>Household Consumption</b></summary><p>How do energy consumption patterns
     change when families transition from grid dependence
     to solar-powered systems during conflicts? What services do
-    households prioritize when energy becomes scarce and self-generated?
+    households prioritize when energy becomes scarce and self-generated?</p></details>
 
 ## [Research Question & Objectives](0_domain_study/progress.md)
 
@@ -116,7 +116,7 @@ post-conflict reconstruction efforts, and resilient
 infrastructure design for communities facing ongoing
 security challenges.
 
-**Why This Matters:**
+<details><summary><b>Why This Matters?</b></summary>
 
 - Solar energy offers fast, decentralized, and life-saving power in conflict-affected areas,
   where 733 million people still lack electricity. This technology empowers vulnerable
@@ -129,7 +129,9 @@ security challenges.
 
 - The humanitarian community and affected populations
  increasingly recognize the need for resilient, sustainable,
- and decentralized energy solutions in conflicted areas.
+ and decentralized energy solutions in conflicted areas.</details>
+
+---
 
 ### Project Scope
 
@@ -176,8 +178,9 @@ timeline
     section June 17 - June 30
         Data Collection :
             Decide how to model our problem domain and collect data : ✅ Completed
+    section July 1 - July 21
         Data Analysis:
-            Analyze data and interpret results : ⏳ Not Started
+            Analyze data and interpret results : 🔄 In progress
     section July 22 - August 11
         Communicating results:
             Translate findings for a target audience : ⏳ Not Started
