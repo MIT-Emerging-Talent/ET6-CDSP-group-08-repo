@@ -64,21 +64,6 @@ Checked for nulls using df.isnull().sum() — no major issues found.
   - Plotted solar vs other renewables over time
   - Showed variation in growth rates and technology mix across countries
 
-### 3. Key Questions
-
-- **Do you have the right data?**  
- Partially. The dataset provides reliable installed capacity data across countries, years, and technology types, especially for renewable energy trends.
-- **Do you need other data?**  
- Yes. To fully understand the role of solar adoption in conflict zones, we need:
-  - Conflict event timelines, intensity & frequency (e.g., ACLED or UCDP)
-  - Government energy policies during conflict years
-  - Grid reliability and access metrics
-- **Do you have the right question?**
- The guiding question — “How does solar capacity evolve in conflict-affected countries, and does conflict hinder or encourage adoption?” — is solid.  
-But to answer it robustly, we must merge energy data with conflict datasets to measure correlation or causality, not just trend lines.
-
-Based on the analysis shown in these visualizations, here are the key findings from EDA 1 and recommendations for EDA 2:
-
 ## EDA 1
 
 The analysis revealed a substantial gap in electricity capacity between conflict and non-conflict countries, with conflict-affected regions showing significantly lower infrastructure development.
@@ -94,20 +79,17 @@ War-torn areas are actually adopting solar faster than peaceful ones!
 
 **Overall Insight:** While conflict regions face significant challenges in traditional energy infrastructure, they're experiencing remarkable growth in solar capacity, potentially leapfrogging traditional energy systems.
 
-### Focus Shift for EDA 2
-
- Given this stark disparity, the next phase will conduct a deeper dive exclusively into conflict-affected countries to understand the internal dynamics of energy development within these challenging environments.
-1. **Granular Conflict Analysis**
-   - Break down by conflict phases (pre, active and post)
-   - Analyze conflict duration vs energy development patterns
-2. **Patterns**
-   - Analysis of off-grid vs on-grid solutions in conflict zones
-3. **Geographic and Temporal Deep Dive**
-   - Country-specific case studies (identify which conflict countries are leading solar adoption)
-   - Regional clustering analysis
-
 ## EDA 2
 
+### 3. Key Questions
+
+- **Do you have the right data?**  
+ Partially. The dataset provides reliable installed capacity data across countries, years, and technology types, especially for renewable energy trends.
+- **Do you need other data?**  
+ Yes. To fully understand the role of solar adoption in conflict zones, we need:
+  - Conflict event timelines.
+- **Do you have the right question?**
+Yes.
 ---
 
 ## Off-Grid data preparation
