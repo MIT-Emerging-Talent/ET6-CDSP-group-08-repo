@@ -1,6 +1,6 @@
 # Data Exploration
 
-<!-- markdownlint-disable MD031 MD033 MD032 MD004 MD009 MD013 MD045 MD024 -->
+<!-- markdownlint-disable MD031 MD033 MD035 MD032 MD004 MD009 MD013 MD045 MD024 -->
 
 ## UN Comtrade data preparation script
 
@@ -40,6 +40,23 @@ The research question is well-formulated, but to address it thoroughly, we need
 
     File: ../1_datasets/cleaned_data/IRENA_ONGRIDStats.cleaned.xlsx  
 
+### EDA 1
+
+The analysis revealed a substantial gap in electricity capacity between conflict and non-conflict countries, with conflict-affected regions showing significantly lower infrastructure development.
+
+**Main Discoveries:**
+- Conflict areas are getting MORE solar power, not less - went from almost zero to 8,000+ MW in 15 years
+- People skip regular electricity and go straight to solar in conflict zones
+- Solar growth exploded after 2015 in conflict areas
+- Peaceful countries grow solar slowly and steadily
+
+**Surprising Finding:**
+War-torn areas are actually adopting solar faster than peaceful ones!
+
+**Overall Insight:** While conflict regions face significant challenges in traditional energy infrastructure, they're experiencing remarkable growth in solar capacity, potentially leapfrogging traditional energy systems.
+
+### EDA 2
+
 ### 2. Exploratory Data Analysis (EDA) Steps
 
 - Load Dataset  
@@ -66,33 +83,17 @@ Checked for nulls using df.isnull().sum() — no major issues found.
   - Plotted solar vs other renewables over time
   - Showed variation in growth rates and technology mix across countries
 
-## EDA 1
-
-The analysis revealed a substantial gap in electricity capacity between conflict and non-conflict countries, with conflict-affected regions showing significantly lower infrastructure development.
-
-**Main Discoveries:**
-- Conflict areas are getting MORE solar power, not less - went from almost zero to 8,000+ MW in 15 years
-- People skip regular electricity and go straight to solar in conflict zones
-- Solar growth exploded after 2015 in conflict areas
-- Peaceful countries grow solar slowly and steadily
-
-**Surprising Finding:**
-War-torn areas are actually adopting solar faster than peaceful ones!
-
-**Overall Insight:** While conflict regions face significant challenges in traditional energy infrastructure, they're experiencing remarkable growth in solar capacity, potentially leapfrogging traditional energy systems.
-
-## EDA 2
-
 ### 3. Key Questions
 
 - **Do you have the right data?**  
  Partially. The dataset provides reliable installed capacity data across countries, years, and technology types, especially for renewable energy trends.
 - **Do you need other data?**  
- Yes. To fully understand the role of solar adoption in conflict zones, we need:
-  - Conflict event timelines.
+ Yes. To fully understand the role of solar adoption in conflict zones, we needed:
+  - Conflict event timelines added
 - **Do you have the right question?**
 Yes.
----
+
+-------
 
 ## Off-Grid data preparation
 
