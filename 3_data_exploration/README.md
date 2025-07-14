@@ -1,6 +1,6 @@
 # Data Exploration
 
-<!-- markdownlint-disable MD031 MD033 MD004 MD009 MD013 MD045 MD024 -->
+<!-- markdownlint-disable MD031 MD033 MD032 MD004 MD009 MD013 MD045 MD024 -->
 
 ## UN Comtrade data preparation script
 
@@ -10,40 +10,29 @@
 
 ### 2. Exploratory Data Analysis (EDA) Steps
 
-- Load the cleaned dataset from GitHub
-
-- Display general dataset information and description
-
-- Generate descriptive statistics for numeric columns:
-  
+- Load the cleaned dataset from GitHub.  
+- Display general dataset information and description.  
+- Generate descriptive statistics for numeric columns:  
    'Mean, standard deviation, minimum, and maximum values'
-
 - Identify potential outliers in relevant columns using simple statistical
    boxplot charts
-
 - Analyze relationships between key variables
-
 - Generate initial visualizations for selected conflict-affected countries
   (e.g., Sudan, Palestine, Ukraine) to highlight trade patterns and potential correlations.
 
 ### 3. Key Questions
 
-- Do you have the right data?
-
+- Do you have the right data?  
 The dataset contains relevant trade information; however, it is not
  comprehensive enough to address all aspects of our research questions.
-
-- Do you need other data?
-
+- Do you need other data?  
 Yes, we require additional data on conflict events such as their dates,
 intensity, and duration to provide a more complete analysis.
-
 - Do you have the right question?
-  
 The research question is well-formulated, but to address it thoroughly, we need
  to collect additional data.
 
-## On-Grid data preparation script
+## EDA 1
 
 ### 1. Input dataset
 
@@ -51,31 +40,25 @@ The research question is well-formulated, but to address it thoroughly, we need
 
 ### 2. Exploratory Data Analysis (EDA) Steps
 
-- Load Dataset
-  - Loaded from GitHub using pandas.read_excel() with openpyxl engine.
-
-- General Information
+- Load Dataset  
+  - Loaded from GitHub using pandas.read_excel() with openpyxl engine.  
+- General Information  
   - Used .info() and .describe() to inspect structure, types, nulls, and distributions.
-
-- Descriptive Statistics
+- Descriptive Statistics  
   - Analyzed Electricity Installed Capacity (MW):  
     - Mean: Provided insight into average installed capacity
     - Std deviation: Identified variance across countries and years
     - Min/Max: Helped identify extreme values (potential outliers)
-
 - Missing Values
 Checked for nulls using df.isnull().sum() — no major issues found.
-
 - Outlier Detection
   - Used boxplots on:
     - Electricity Installed Capacity (MW) by RE or Non-RE
-
 - Key Variable Relationships
   - Compared capacity trends by:
     - Year vs Conflict_Status
     - Producer Type (On-grid/Off-grid) vs Conflict_Status
     - Visualized using seaborn lineplot and countplot
-
 - Initial Country Visuals
   - Filtered for conflict-affected countries (e.g., Sudan, Palestine, Ukraine)
   - Plotted solar vs other renewables over time
@@ -94,9 +77,40 @@ Checked for nulls using df.isnull().sum() — no major issues found.
  The guiding question — “How does solar capacity evolve in conflict-affected countries, and does conflict hinder or encourage adoption?” — is solid.  
 But to answer it robustly, we must merge energy data with conflict datasets to measure correlation or causality, not just trend lines.
 
+Based on the analysis shown in these visualizations, here are the key findings from EDA 1 and recommendations for EDA 2:
+
+## EDA 1
+
+The analysis revealed a substantial gap in electricity capacity between conflict and non-conflict countries, with conflict-affected regions showing significantly lower infrastructure development.
+
+**Main Discoveries:**
+- Conflict areas are getting MORE solar power, not less - went from almost zero to 8,000+ MW in 15 years
+- People skip regular electricity and go straight to solar in conflict zones
+- Solar growth exploded after 2015 in conflict areas
+- Peaceful countries grow solar slowly and steadily
+
+**Surprising Finding:**
+War-torn areas are actually adopting solar faster than peaceful ones!
+
+**Overall Insight:** While conflict regions face significant challenges in traditional energy infrastructure, they're experiencing remarkable growth in solar capacity, potentially leapfrogging traditional energy systems.
+
+### Focus Shift for EDA 2
+
+ Given this stark disparity, the next phase will conduct a deeper dive exclusively into conflict-affected countries to understand the internal dynamics of energy development within these challenging environments.
+1. **Granular Conflict Analysis**
+   - Break down by conflict phases (pre, active and post)
+   - Analyze conflict duration vs energy development patterns
+2. **Patterns**
+   - Analysis of off-grid vs on-grid solutions in conflict zones
+3. **Geographic and Temporal Deep Dive**
+   - Country-specific case studies (identify which conflict countries are leading solar adoption)
+   - Regional clustering analysis
+
+## EDA 2
+
 ---
 
-## Of-Grid data preparation
+## Off-Grid data preparation
 
 ### 1. **Input dataset** 
 
