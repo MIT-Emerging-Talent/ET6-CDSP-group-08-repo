@@ -57,6 +57,8 @@ War-torn areas are actually adopting solar faster than peaceful ones!
 
 ### EDA 2
 
+Based on this [**research document**](https://docs.google.com/document/d/1uxgQp8gesLcbfaCGLQAHn3Kgvyu2ZDGxgG-LSWEfq8s/edit?tab=t.0#heading=h.eeoohb5d7fi7) the phases of the 9 conflict countries were added.
+
 ### 2. Exploratory Data Analysis (EDA) Steps
 
 - Load Dataset  
