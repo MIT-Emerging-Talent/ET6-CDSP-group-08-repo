@@ -32,7 +32,9 @@ intensity, and duration to provide a more complete analysis.
 The research question is well-formulated, but to address it thoroughly, we need
  to collect additional data.
 
-## EDA 1
+------
+
+## On-Grid Data Prepration
 
 ### 1. Input dataset
 
