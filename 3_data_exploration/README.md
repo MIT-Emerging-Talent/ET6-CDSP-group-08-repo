@@ -34,7 +34,7 @@ The research question is well-formulated, but to address it thoroughly, we need
 
 ------
 
-## On-Grid Data Prepration
+## On-Grid Data Preparation
 
 ### 1. Input dataset
 
@@ -59,6 +59,26 @@ War-torn areas are actually adopting solar faster than peaceful ones!
 
 Based on this [**research document**](https://docs.google.com/document/d/1uxgQp8gesLcbfaCGLQAHn3Kgvyu2ZDGxgG-LSWEfq8s/edit?tab=t.0#heading=h.eeoohb5d7fi7) the phases of the 9 conflict countries were added.
 
+**Main Discoveries:**
+- **Ukraine has 8,000+ MW** - 30x more than any other country
+- **Conflict stops solar growth** - capacity drops during wars
+- **Three waves**: Early starters (2004-2010), Middle (2015-2018), Recent (2018-2025)
+- **Rapid growth possible** - 500%+ increases in stable periods
+
+**Suprising Findings:**
+- **War zones still build solar** - Yemen hit 250 MW during conflict
+- **2018-2022 was golden period** - most countries started then
+- **Recovery is slow** - Sudan/Ethiopia recover best, Afghanistan/Libya struggle
+
+**Key Insight**
+**Conflict disrupts but doesn't stop solar development.** Countries can rapidly build solar capacity during brief stable periods, but growth becomes highly volatile during wars.
+
+**Numbers:**
+- Ukraine: 8,000+ MW
+- Yemen: 250 MW  
+- Sudan: 100 MW
+- Others: Under 50 MW
+  
 ### 2. Exploratory Data Analysis (EDA) Steps
 
 - Load Dataset  
