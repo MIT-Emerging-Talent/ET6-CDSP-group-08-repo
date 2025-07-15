@@ -42,7 +42,7 @@ The research question is well-formulated, but to address it thoroughly, we need
 
 ### EDA 1
 
-The analysis revealed a substantial gap in electricity capacity between conflict and non-conflict countries, with conflict-affected regions showing significantly lower infrastructure development.
+The analysis revealed a substantial gap in electricity capacity between conflict and comparison countries, with conflict-affected regions showing significantly lower infrastructure development.
 
 **Main Discoveries:**
 - Conflict areas are getting MORE solar power, not less - went from almost zero to 8,000+ MW in 15 years
@@ -62,7 +62,7 @@ Focused only on the 9 conflict countries and phases :
 - The research question specifically targets **conflict-affected regions.**
 - EDA 1 showed _extreme disparities in energy trends_ between conflict and other countries.
 - Comparison countries dominate the dataset, making comparisons **statistically unbalanced.**
-- Many "non-conflict" countries did not experience a full-cycle phases periods of conflict in the past 25 years — making classification unclear.
+- Many "comparison" countries did not experience a full-cycle phases periods of conflict in the past 25 years — making classification unclear.
 - Conflict countries showed unexpected patterns, like the solar surge in 2015–2020, which deserve deeper investigation individually.
 - A focused analysis allows context-specific insights into how conflict influences solar adoption and on-grid and off-grid.
 
@@ -107,11 +107,11 @@ Checked for nulls using df.isnull().sum() — no major issues found.
     - Electricity Installed Capacity (MW) by RE or Non-RE
 - Key Variable Relationships
   - Compared capacity trends by:
-    - Year vs Conflict_Status
-    - Producer Type (On-grid/Off-grid) vs Conflict_Status
+    - Year vs Classification
+    - Producer Type (On-grid/Off-grid) vs Classification
     - Visualized using seaborn lineplot and countplot
 - Initial Country Visuals
-  - Filtered for conflict-affected countries (e.g., Sudan, Palestine, Ukraine)
+  - Filtered for conflict-affected countries (e.g., Sudan, Syria, Ukraine)
   - Plotted solar vs other renewables over time
   - Showed variation in growth rates and technology mix across countries
 
