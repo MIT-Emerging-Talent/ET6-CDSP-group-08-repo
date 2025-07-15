@@ -57,6 +57,15 @@ War-torn areas are actually adopting solar faster than peaceful ones!
 
 ### EDA 2
 
+Focused only on the 9 conflict countries and phases :  
+**Why EDA 2 Focuses on Conflict-Affected Countries?**
+- The research question specifically targets **conflict-affected regions.**
+- EDA 1 showed _extreme disparities in energy trends_ between conflict and other countries.
+- Comparison countries dominate the dataset, making comparisons **statistically unbalanced.**
+- Many "non-conflict" countries did not experience a full-cycle phases periods of conflict in the past 25 years — making classification unclear.
+- Conflict countries showed unexpected patterns, like the solar surge in 2015–2020, which deserve deeper investigation individually.
+- A focused analysis allows context-specific insights into how conflict influences solar adoption and on-grid and off-grid.
+
 Based on this [**research document**](https://docs.google.com/document/d/1uxgQp8gesLcbfaCGLQAHn3Kgvyu2ZDGxgG-LSWEfq8s/edit?tab=t.0#heading=h.eeoohb5d7fi7) the phases of the 9 conflict countries were added.
 
 **Main Discoveries:**
@@ -72,7 +81,7 @@ Based on this [**research document**](https://docs.google.com/document/d/1uxgQp8
 
 **Key Insight:**
 - Conflict disrupts but doesn't stop solar development.
-  *Countries can rapidly build solar capacity during brief stable periods, but growth becomes highly volatile during wars.*
+  _Countries can rapidly build solar capacity during brief stable periods, but growth becomes highly volatile during wars._
 
 **Numbers:**
 - Ukraine: 8,000+ MW
