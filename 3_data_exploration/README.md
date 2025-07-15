@@ -70,8 +70,9 @@ Based on this [**research document**](https://docs.google.com/document/d/1uxgQp8
 - **2018-2022 was golden period** - most countries started then
 - **Recovery is slow** - Sudan/Ethiopia recover best, Afghanistan/Libya struggle
 
-**Key Insight**
-**Conflict disrupts but doesn't stop solar development.** Countries can rapidly build solar capacity during brief stable periods, but growth becomes highly volatile during wars.
+**Key Insight:**
+- Conflict disrupts but doesn't stop solar development.
+  *Countries can rapidly build solar capacity during brief stable periods, but growth becomes highly volatile during wars.*
 
 **Numbers:**
 - Ukraine: 8,000+ MW
