@@ -70,14 +70,14 @@ Based on this [**research document**](https://docs.google.com/document/d/1uxgQp8
 
 **Main Discoveries:**
 - **Ukraine has 8,000+ MW** - 30x more than any other country
-- **Conflict stops solar growth** - capacity drops during wars
+- **Active Conflict stops solar growth** - capacity drops during wars
 - **Three waves**: Early starters (2004-2010), Middle (2015-2018), Recent (2018-2025)
 - **Rapid growth possible** - 500%+ increases in stable periods
 
 **Suprising Findings:**
 - **War zones still build solar** - Yemen hit 250 MW during conflict
 - **2018-2022 was golden period** - most countries started then
-- **Recovery is slow** - Sudan/Ethiopia recover best, Afghanistan/Libya struggle
+- **Recovery is slow** - Sudan/Ethiopia recover best, Libya struggled
 
 **Key Insight:**
 - Conflict disrupts but doesn't stop solar development.
