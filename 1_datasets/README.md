@@ -120,7 +120,7 @@ The United Nations Comtrade database aggregates detailed global annual and month
   - _Step 4_: You can preview the data before downloading it in the preferred format.
 
 - **<p>How it is related to our problem?<br>**
-This data set provides detailed solar energy devices (panels, batteries, inverters) import data for the following countries in the period from 2007 to 2024:
+This data set provides detailed solar energy devices (panels, batteries, inverters) import data for the following countries in the period from 2000 to 2024:
 - Syria
 - Iraq
 - Sudan
@@ -138,6 +138,10 @@ This data set provides detailed solar energy devices (panels, batteries, inverte
 - Pakistan
 - Mozambique
 - Myanmar
+- Morocco
+- Gremany
+- Saudi Arabia
+- Rwanda
 
 By observing this data set one can get valuable insights about the effect of conflicts and events on the overall deployment and use of solar energy. For example in 2013 in Pakistan a single coordinated attack in August  destroyed four 220 kV towers, cutting off some 100 MW to 15 districts and extending daily load‑shedding by several hours. By observing the imports data of solar panels and batteries to Pakistan in 2013 and 2014, one can notice a dramatic surge in the imported amounts of these products, which could indicate a clear shift to off grid solar energy as a result of that event (this is an initial observation that needs to be analyzed further to draw concrete results from it).
 
