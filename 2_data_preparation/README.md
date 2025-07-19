@@ -1,5 +1,6 @@
 # Data Preparation
 
+<!-- markdownlint-disable MD031 MD033 MD035 MD032 MD004 MD009 MD013 MD045 MD024 -->
 ## On-Grid Data Preparation Script
 
 This script processes the **on-grid electricity data** from the IRENA dataset.
@@ -12,16 +13,34 @@ This script processes the **on-grid electricity data** from the IRENA dataset.
 
 ### Process
 
-- Added `Conflict_Status` column by filtering conflict-affected countries.
+- Added `Classification` column by filtering conflict-affected countries.
 - Fills missing values in key columns
 - Filtered out years according to project scope (2010 - 2024)
 - Drops unused column `M49 code`
+
+#### **Selected Conflict-Affected Countries**
+
+Nine countries were chosen based on having experienced pre-conflict, active conflict, and in some cases post-conflict phases within the past 25 years:  
+ **Syria, Iraq, Sudan, South Sudan, Ethiopia, Ukraine, Yemen, Libya, Afghanistan**
+
+Country Classification:  
+- **"Conflict Countries"**: Countries that experienced identifiable pre-conflict phases (all 9 selected countries: Syria, Iraq, Sudan, South Sudan, Ethiopia, Ukraine, Yemen, Libya, Afghanistan)
+- **"Comparison Countries"**: Additional countries with mixed conflict/non-conflict status that did not experience pre-conflict phases, included for comparative analysis
+
+Key Selection Criteria:  
+- Time frame: Past 25 years
+- Must include pre-conflict phase (primary distinguishing factor) to see the solar adoption increases or decreases when active conflict.
+- Represent different stages of conflict progression (pre-conflict → active conflict → post-conflict where applicable)
+
+ Based on this [**research document**](https://docs.google.com/document/d/1uxgQp8gesLcbfaCGLQAHn3Kgvyu2ZDGxgG-LSWEfq8s/edit?tab=t.0#heading=h.eeoohb5d7fi7) the phases of the 9 conflict countries were added.
 
 ### Output
 
 - **File**: `IRENA_ONGRIDStats.cleaned.xlsx`
   - **Sheet**: `Cleaned_OnGrid_Data`
   - **Path**: `1_datasets/cleaned_data/`
+
+---
 
 ## UN Comtrade data preparation script
 
@@ -57,3 +76,26 @@ This script processes the **on-grid electricity data** from the IRENA dataset.
 `../1_datasets/cleaned_data/UN_comtrade_clean_dataset.xlsx`
 
 - No other files are created or saved under `/1_datasets`.
+
+---
+
+### Off-Grid data preparation script
+
+1. **Input dataset**
+    - **File**: ["IRENA_OFGStats.raw"](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/IRENA_OFGStats.raw.xlsx)
+    - **Sheet**: `data`
+    - **Path**: `1_datasets/raw_data/`
+
+2. **Process**
+
+    - Dropped irrelevant columns.
+    - Inspected the data to the its shape and whether it has null values or not.
+    - Filled the null values.
+    - Added a conflict status column.
+    - removed any row with `Bioenergy` technology in it.
+
+3. **Output datasets**
+
+- **File**: `IRENA_OFGStats.cleaned.xlsx`
+  - **Sheet**: `Cleaned_Data`
+  - **Path**: `1_datasets/cleaned_data/`
