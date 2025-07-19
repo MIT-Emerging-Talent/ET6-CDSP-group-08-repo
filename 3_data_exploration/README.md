@@ -93,7 +93,7 @@ Based on this [**research document**](https://docs.google.com/document/d/1uxgQp8
 
 - **File**: `../1_datasets/cleaned data\ONG_conflictcountriesonly.xlsx`  
     - - **Path**: `1_datasets/cleaned_data/`
-    - **Description:** Contains annual solar electricity installed capacity (MW) per the 9 countries only, with corresponding conflict phase classification.
+    - **Description:** Contains annual electricity installed capacity (MW) per the 9 countries only, with corresponding conflict phase classification.
     - **File Link**: [ONG_conflict countriesonly](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/cleaned_data/ONG_conflictcountriesonly.xlsx)
     - **Conflict Phases Defined:**
 - Pre-conflict
