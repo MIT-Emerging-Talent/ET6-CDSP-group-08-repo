@@ -1,6 +1,6 @@
 # Data Exploration
 
-<!-- markdownlint-disable MD031 MD033 MD035 MD032 MD004 MD009 MD013 MD045 MD024 -->
+<!-- markdownlint-disable MD031 MD033 MD035 MD032 MD004 MD009 MD013 MD045 MD024 MD007 -->
 
 ## UN Comtrade data preparation script
 
@@ -88,6 +88,21 @@ Based on this [**research document**](https://docs.google.com/document/d/1uxgQp8
 - Yemen: 250 MW  
 - Sudan: 100 MW
 - Others: Under 50 MW
+
+### 2. Output dataset
+
+- **File**: `../1_datasets/cleaned data\ONG_conflictcountriesonly.xlsx`  
+    - - **Path**: `1_datasets/cleaned_data/`
+    - **Description:** Contains annual solar electricity installed capacity (MW) per the 9 countries only, with corresponding conflict phase classification.
+    - **File Link**: [ONG_conflict countriesonly](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/cleaned_data/ONG_conflictcountriesonly.xlsx)
+    - **Conflict Phases Defined:**
+- Pre-conflict
+- Active conflict
+- Post-conflict  
+(Defined manually per country using historical conflict timelines)
+
+ Conflicted- Affected Countries (9) in the past _25 years_: **Syria, Iraq, Sudan, South Sudan, Ethiopia, Ukraine, Yemen, Libya, Afghanistan**  
+Based on this [**research document**](https://docs.google.com/document/d/1uxgQp8gesLcbfaCGLQAHn3Kgvyu2ZDGxgG-LSWEfq8s/edit?tab=t.0#heading=h.eeoohb5d7fi7) the phases of the 9 conflict countries were added.
   
 ### 2. Exploratory Data Analysis (EDA) Steps
 
