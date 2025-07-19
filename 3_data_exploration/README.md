@@ -104,7 +104,7 @@ Based on this [**research document**](https://docs.google.com/document/d/1uxgQp8
  Conflicted- Affected Countries (9) in the past _25 years_: **Syria, Iraq, Sudan, South Sudan, Ethiopia, Ukraine, Yemen, Libya, Afghanistan**  
 Based on this [**research document**](https://docs.google.com/document/d/1uxgQp8gesLcbfaCGLQAHn3Kgvyu2ZDGxgG-LSWEfq8s/edit?tab=t.0#heading=h.eeoohb5d7fi7) the phases of the 9 conflict countries were added.
   
-### 2. Exploratory Data Analysis (EDA) Steps
+### 3. Exploratory Data Analysis (EDA) Steps
 
 - Load Dataset  
   - Loaded from GitHub using pandas.read_excel() with openpyxl engine.  
