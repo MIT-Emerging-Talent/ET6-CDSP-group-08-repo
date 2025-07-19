@@ -31,11 +31,9 @@ intensity, and duration to provide a more complete analysis.
 - Do you have the right question?
 The research question is well-formulated, but to address it thoroughly, we need
  to collect additional data.
-
-<<<<<<< HEAD
-The research question is well-formulated, but to address it thoroughly, we need
+- The research question is well-formulated, but to address it thoroughly, we need
  to collect additional data.
-=======
+
 ------
 
 ## On-Grid Data Preparation
