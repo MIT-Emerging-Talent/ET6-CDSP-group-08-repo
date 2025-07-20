@@ -1,19 +1,20 @@
 # Data Analysis
 
 <!-- markdownlint-disable MD031 MD033 MD035 MD032 MD004 MD009 MD007 MD013 MD045 MD024 -->
-## Analytical Questions
+## _Analytical Questions_
 
 ## Q1. **What are the trends in solar energy adoption across the conflict cycle—pre-conflict, active conflict, and post-conflict periods—in conflict-affected countries?** 
 
 >[phases analysis.ipynb](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/4_data_analysis/phases_analysis.ipynb)
 
-### 1. **Dataset**  
+## 1. **Dataset**  
 
-A. **Input dataset**  
+### A. **Input dataset**  
+
 - **File**: `../1_datasets/cleaned data\ONG_conflictcountriesonly.xlsx`  
 - **Description:** Contains annual electricity installed capacity (MW) per the 9 countries only, with corresponding conflict phase classification.
 
-B. **Data Quality & Standardization:**  
+### B. **Data Quality & Standardization:**  
 
   - **Missing Data Check:**
     - No missing values were found across all columns, including:
@@ -30,7 +31,7 @@ B. **Data Quality & Standardization:**
     - **Year column**  
        Ensured to be of integer type to allow accurate sorting and grouping by year.
 
-C. **Sorting the Dataset**
+### C. **Sorting the Dataset**
 
 To prepare for time-series analysis and ensure accurate visualizations:
 
@@ -47,29 +48,107 @@ To prepare for time-series analysis and ensure accurate visualizations:
 To answer the question the following steps were taken:
 
 **a. Analysis Techniques Used**:  
-- Line charts were used to show changes in solar capacity over time for each country.
-- Stacked bar charts compared the total installed capacity in each conflict phase (pre, active, post).
-- Heatmaps visualized growth rates and intensity across countries and years.
+- **Line Charts**: Solar adoption trends by country over time.
+- **Stacked Bar Charts**: Comparison of installed capacity per conflict phase.
+- **Heatmaps**: Visual growth intensity per country and year.
+- **Regression Plots**: Basic linear regression during conflict periods.
+- **Archetype Table**: Pattern classification of country behaviors.
 
-b. **Visualizations**
+ Charts and visuals generated using `matplotlib`, `seaborn`.
 
-* All charts were generated using Python (`matplotlib` and `seaborn`).
-* Figures include:
+Output folder:  
+`4_data_analysis/phases_analysis/2.output_graphs`
 
-  * Country-specific trend lines
-  * Grouped bar plots comparing conflict phases
-  * A heatmap of yearly growth patterns across countries
-* Visuals were exported and saved in the `3_outputs/figures/` folder.
+### 3. Assumptions & Limitations
 
-c. **Assumptions & Limitations**
+#### Assumptions
 
-* **Assumptions**:
+- Conflict phase years manually assigned using conflict timelines.
+- Off-grid data may be underreported in national statistics.
+- Growth during conflict may be due to emergency policies or donor funding, not sustained planning.
 
-  * Conflict years were defined manually and may not reflect local or regional variations.
-  * Linear interpolation was used in earlier stages, but final dataset had no missing values.
-  * Off-grid data may be underestimated in some countries due to underreporting.
+#### Limitations
 
-* **Limitations**:
+- Incomplete post-conflict data for countries like Syria and Yemen.
+- Data does not account for:
+  - Localized variations in conflict severity
+  - Influence of external aid or solar subsidies
+- Ukraine’s extreme growth (50,000+ MW) skews comparative visuals.
 
-  * Some countries had limited or short post-conflict periods (e.g., Syria), which makes comparison uneven.
-  * Data does not account for international aid or policy differences which might influence solar growth.
+### 4. Key Findings & Summary
+
+#### Conflict-Phase Solar Adoption Summary
+
+| **Conflict Phase**     | **Key Countries**                       | **Observation**                                                           |
+|------------------------|-----------------------------------------|---------------------------------------------------------------------------|
+| **Pre-Conflict**       | Ethiopia, Sudan                         | Very limited growth — solar was not a strategic priority pre-conflict     |
+| **Active-Conflict**    | Ukraine, Yemen, Sudan, Afghanistan      | Peak solar installation, driven by emergency needs and resilience efforts |
+| **Post-Conflict**      | Iraq, South Sudan, Afghanistan          | Recovery and growth due to international aid and reconstruction support   |
+
+---
+
+#### Archetype-Based Country Patterns
+
+| Archetype                | Countries                          | Traits                                                                |
+|--------------------------|------------------------------------|-----------------------------------------------------------------------|
+| **Conflict-Fueled Growth**     | Ukraine, Yemen, Syria, Sudan       | Rapid adoption during war; survival and independence were key drivers |
+| **Recovery-Driven Growth**     | Iraq, South Sudan, Afghanistan     | Modest growth during war, stronger recovery post-conflict             |
+| **Stalled Post-Conflict**      | Ukraine (dip), Yemen (plateau)     | Growth halted after early gains                                       |
+| **Fragile, Flat Growth**       | Libya, Ethiopia                    | Low growth in all phases                                              |
+
+---
+
+#### Phase-Based Summary Table
+
+| Country        | Pre-Conflict (MW) | Active-Conflict (MW) | Post-Conflict (MW) | Trend        |
+|----------------|-------------------|------------------------|---------------------|--------------|
+| **Ukraine**     | 1,310.7           | 48,770.4               | 0.0                 | Surge → Stalled |
+| **Yemen**       | 2.4               | 2,236.0                | 0.0                 | Surge → Stalled |
+| **Sudan**       | 0.01              | 713.5                  | 0.0                 | Surge → No data |
+| **Afghanistan** | 0.0               | 292.0                  | 160.4               | Growth → Recovery |
+| **Iraq**        | 0.0               | 175.5                  | 273.0               | Recovery        |
+| **South Sudan** | 0.0               | 9.9                    | 53.4                | Recovery        |
+| **Ethiopia**    | 75.1              | 62.6                   | 42.7                | Decline        |
+| **Libya**       | 15.6              | 39.3                   | 29.3                | Weak growth     |
+| **Syria**       | 0.0               | 228.5                  | 0.0                 | Conflict-only   |
+
+---
+
+#### Regression Analysis: Solar Capacity vs. Conflict Period
+
+- **Model Output:**
+  - **Coefficient**: +1359.32
+  - **Intercept**: 568.99
+- **Interpretation:**  
+  > On average, solar capacity grew significantly during conflict periods, suggesting a positive correlation. Conflicts can act as a disruptive yet accelerating factor for decentralized energy systems.
+
+---
+
+#### On-Grid vs Off-Grid Trends
+
+**1. Grid-Connected Solar Dominates:**
+- Avg. grid capacity: ~1,600 MW
+- Avg. off-grid: ~50 MW
+
+**2. Off-Grid Systems Used During Conflict:**
+- Portable and fast to deploy
+- Especially important in rural conflict zones
+
+---
+
+#### Takeaway Insights
+
+- Solar capacity **grew most during active conflicts**, often out of necessity.
+- Post-conflict periods do not guarantee growth — **recovery requires governance, aid, and sustained planning**.
+- **Ukraine’s case is exceptional**, with +4644% growth during war.
+- **Countries behave in archetypal patterns** — useful for forecasting or designing interventions.
+
+---
+
+## 📎 Visual Summary Examples
+
+Include 2–4 key charts in your README (with captions like):
+
+```markdown
+![Solar Adoption by Conflict Phase](./path/to/image.png)
+> Chart showing how solar capacity surged during active conflict in Ukraine and Yemen.
