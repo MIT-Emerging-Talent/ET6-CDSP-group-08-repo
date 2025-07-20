@@ -1,20 +1,23 @@
 # Data Analysis
 
-<!-- markdownlint-disable MD031 MD033 MD035 MD032 MD004 MD009 MD007 MD013 MD045 MD024 -->
+<!-- markdownlint-disable MD031 MD033 MD035 MD032 MD004 MD009 MD007 MD013 MD045 MD024 MD001 -->
 ## _Analytical Questions_
 
 ## Q1. **What are the trends in solar energy adoption across the conflict cycle—pre-conflict, active conflict, and post-conflict periods—in conflict-affected countries?** 
 
->[phases analysis.ipynb](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/4_data_analysis/phases_analysis.ipynb)
+> **Analysis File:** [phases_analysis.ipynb](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/4_data_analysis/phases_analysis.ipynb)  
+> **Technical Explanation:** [tech_exp.md](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/9ab2b7b9b55ea2ae81c0e6b93cc95eeace6f59e7/4_data_analysis/phases_analysis/3.tech_exp.md)  
+> **Non-Technical Explanation:** [non_tech_exp.md](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/1d6bc8faea79a39dbc9175977e4577ed14e26799/4_data_analysis/phases_analysis/2.non_tech_exp.md)
 
-## 1. **Dataset**  
+<details>
+<summary><b>1. Dataset</b></summary>
 
-### A. **Input dataset**  
+#### A. **Input dataset**  
 
 - **File**: `../1_datasets/cleaned data\ONG_conflictcountriesonly.xlsx`  
 - **Description:** Contains annual electricity installed capacity (MW) per the 9 countries only, with corresponding conflict phase classification.
 
-### B. **Data Quality & Standardization:**  
+#### B. **Data Quality & Standardization:**  
 
   - **Missing Data Check:**
     - No missing values were found across all columns, including:
@@ -31,19 +34,22 @@
     - **Year column**  
        Ensured to be of integer type to allow accurate sorting and grouping by year.
 
-### C. **Sorting the Dataset**
+#### C. **Sorting the Dataset**
 
-To prepare for time-series analysis and ensure accurate visualizations:
-
+To prepare for time-series analysis and ensure accurate visualizations:  
 - The dataset was **sorted by `Country` and `Year`** using `pandas.sort_values()`.
-- This ensures that each country’s solar energy data appears in **chronological order**, which is essential for:
+
+This ensures that each country’s solar energy data appears in **chronological order**, which is essential for:
   - **Line plots**
   - **Phase-based comparisons**
   - **Trend analysis over time**
 
 > Sorting prevents jumbled or misleading graphs and allows clear visualization of patterns like solar capacity growth from pre-conflict to post-conflict periods.
 
-### 2. **Conducting Analysis**
+</details>
+
+<details>
+<summary><b>2. Conducting Analysis</b></summary>
 
 To answer the question the following steps were taken:
 
@@ -55,9 +61,12 @@ To answer the question the following steps were taken:
 - **Archetype Table**: Pattern classification of country behaviors.  
   
  Charts and visuals generated using `matplotlib`, `seaborn`.  
-Output folder:  `4_data_analysis/phases_analysis/2.output_graphs`
+Output folder for **graphs only:**  `4_data_analysis/phases_analysis/2.output_graphs`
 
-### 3. Assumptions & Limitations
+</details>
+
+<details>
+<summary><b>3. Assumptions and Limitations</b></summary>
 
 #### - Assumptions
 
@@ -73,7 +82,11 @@ Output folder:  `4_data_analysis/phases_analysis/2.output_graphs`
   - Influence of external aid or solar subsidies
 - Ukraine’s extreme growth (50,000+ MW) skews comparative visuals.
 
-### 4. Key Findings & Summary
+</details>
+
+<details>
+
+<summary><b>4. Key Findings & Summary</b></summary>
 
 #### - Conflict-Phase Solar Adoption Summary
 
@@ -95,6 +108,8 @@ Output folder:  `4_data_analysis/phases_analysis/2.output_graphs`
 | **Fragile, Flat Growth**       | Libya, Ethiopia                    | Low growth in all phases                                              |
 
 ---
+<details>
+<summary><b>More analysis</b></summary>
 
 #### - Regression Analysis: Solar Capacity vs. Conflict Period
 
@@ -113,10 +128,12 @@ Output folder:  `4_data_analysis/phases_analysis/2.output_graphs`
 **2. Off-Grid Systems Used During Conflict:**
 - Portable and fast to deploy
 - Especially important in rural conflict zones
+</details>
+</details>
 
 ### Takeaway Insights
 
-- Solar capacity **grew most during active conflicts**, often out of necessity.
-- Post-conflict periods do not guarantee growth — **recovery requires governance, aid, and sustained planning**.
-- **Ukraine’s case is exceptional**, with +4644% growth during war.
-- **Countries behave in archetypal patterns** — useful for forecasting or designing interventions.
+1. **Conflict as catalyst:** Solar adoption often accelerates during active conflicts out of necessity
+2. **Post-conflict uncertainty:** Recovery phases don't guarantee continued growth without proper governance
+3. **Archetypal patterns:** Countries follow predictable behavioral patterns useful for forecasting interventions
+4. **Grid vs. Off-grid:** Grid-connected systems dominate (~1,600 MW avg) but off-grid crucial during conflicts (~50 MW avg)
