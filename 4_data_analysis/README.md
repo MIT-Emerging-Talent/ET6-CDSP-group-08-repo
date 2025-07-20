@@ -3,7 +3,9 @@
 <!-- markdownlint-disable MD031 MD033 MD035 MD032 MD004 MD009 MD007 MD013 MD045 MD024 -->
 ## Analytical Questions
 
-### Q1. **What are the trends in solar energy adoption across the conflict cycle—pre-conflict, active conflict, and post-conflict periods—in conflict-affected countries?**
+## Q1. **What are the trends in solar energy adoption across the conflict cycle—pre-conflict, active conflict, and post-conflict periods—in conflict-affected countries?** 
+
+>[phases analysis.ipynb](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/4_data_analysis/phases_analysis.ipynb)
 
 ### 1. **Dataset**  
 
