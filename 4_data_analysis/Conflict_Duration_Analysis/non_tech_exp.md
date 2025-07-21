@@ -5,7 +5,6 @@ This study explores how long-term conflicts and economic conditions affect the
  adoption of solar energy in different countries. It uses trade data to see
   which countries import more solar technology and whether conflict or wealth
    plays a bigger role.
-
 **Key Findings**
 
 - Conflict Impact: Countries with continuous conflicts (like Afghanistan) tend to
