@@ -237,7 +237,10 @@ For more details refer to [/2_data_preparation](https://github.com/MIT-Emerging-
 
 --- 
 
-## [M3: Data Analysis]()
+## [M3: Data Analysis](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis)
+
+### Key Conclusion
+Conflict periods are often associated with increased solar energy adoption — but this relationship is **indicative, not causal**. Ukraine’s outsized solar growth strongly skews the overall trend. When analyzed separately, most other countries still showed notable but varied growth patterns during or after conflict.
 
 
 ---
