@@ -1,3 +1,3 @@
 # Data Analysis
 
-conflict duration analysis:
+**conflict duration analysis:**
