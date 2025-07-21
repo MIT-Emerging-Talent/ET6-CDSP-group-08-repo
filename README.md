@@ -1,7 +1,9 @@
 
 <!-- markdownlint-disable MD031 MD033 MD004 MD009 MD013 MD045 MD041 MD032 MD039 MD019 MD012-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=42&duration=4984&pause=1000&color=005CCF&background=B3B3B300&vCenter=true&repeat=false&width=800&height=47&lines=Renewable+Energy+in+Conflict+Zones)](https://git.io/typing-svg)
+
+<!-- markdownlint-disable MD031 MD033 MD004 MD009 MD013 MD045 MD001 -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=40&duration=4963&pause=1000&color=2A5FAC&vCenter=true&repeat=false&width=650&height=40&lines=Solar+Energy+in+Conflict+Zones)](https://git.io/typing-svg)
 
 
 **Welcome aboard the CDSP Group 08 Repository!**   🌌  
@@ -13,14 +15,12 @@ We are a team united by _purpose and shaped by displacement_, using data science
  to **drive real-world impact.**  
  
  This project applies data exploration, modeling,
- and visualization to explore how renewable energy, specifically solar energy (i.e. PV cells),
- serves as critical survival infrastructure in conflict-affected communities worldwide.
+ and visualization to explore how renewable energy, specifically **solar energy** (i.e. PV cells),
+ serves as _critical survival infrastructure in conflict-affected communities_ worldwide.
 
-
-<!-- markdownlint-disable MD031 MD033 MD004 MD009 MD013 MD045 MD001 -->
 ## [Domain Research & Background](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/0_domain_study/README.md)
 
-> Solar Energy acts as a vital **survival infrastructure** in conflict zones.
+> [Solar Energy acts as a vital **survival infrastructure** in conflict zones.]()
 
 Citizens in conflict-affected countries require stable electricity sources,
 yet ongoing clashes and targeted attacks on power infrastructure have
@@ -33,9 +33,9 @@ other energy sources fail.
 #### The Humanitarian Energy Crisis
 
 Armed conflicts create immediate survival challenges that go 
-far beyond traditional security concerns. As of 2024, over 130 million people
+far beyond traditional security concerns. As of 2024, over [130 million people](https://www.unhcr.org/global-trends)
 worldwide have been forcibly displaced by war, persecution, and disaster,
-including 37.6 million refugees and 68.3 million internally displaced persons. 
+including 37.6 million refugees and 68.3 million internally displaced persons.() 
 While humanitarian responses typically prioritize food, shelter, and medical 
 care, these essential services all depend on 
 one critical resource: **reliable energy access**.
