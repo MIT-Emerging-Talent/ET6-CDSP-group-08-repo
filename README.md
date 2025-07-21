@@ -7,10 +7,12 @@
 **Welcome aboard the CDSP Group 08 Repository!**   🌌  
 _Displaced. Determined. Data-Driven._
 
-## Project Overview
+## M0: Project Overview
 
 We are a team united by _purpose and shaped by displacement_, using data science
- to **drive real-world impact.** This project applies data exploration, modeling,
+ to **drive real-world impact.**  
+ 
+ This project applies data exploration, modeling,
  and visualization to explore how renewable energy, specifically solar energy (i.e. PV cells),
  serves as critical survival infrastructure in conflict-affected communities worldwide.
 
@@ -97,7 +99,7 @@ affect three critical dimensions of solar deployment:
     to solar-powered systems during conflicts? What services do
     households prioritize when energy becomes scarce and self-generated?
 
-## [Research Question & Objectives](0_domain_study/progress.md)
+## [M1: Research Question & Objectives](0_domain_study/progress.md)
 
 ### Actionable Research Question
 
@@ -149,11 +151,49 @@ To ground our data‑driven work in real‑world context, we've prepared a detai
 
 <!-- markdownlint-disable MD031 MD033 MD013 MD001 MD04 MD045 MD049 MD041 MD022 MD042 MD018-->
 
-## [Data Collection]()
+## [M2: Data Collection](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/1_datasets)
 
-### [Domain Modeling]()
+### [Domain Modeling](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/non_tech_exp_of_domain_modeling.md)
 
-The model focuses on three key ideas: solar’s evolving role across the **conflict lifecycle** (before and after conflict), its impact through **deployment**, **utilization**, and **household use**, and the reality that in data-scarce zones, we often rely on smart proxies to make sense of what's happening. It helps us answer a critical question: *how does solar energy help people survive when everything else fails?*
+<!-- markdownlint-disable MD031 MD033 MD013 MD012 MD001 MD04 MD045 MD049 MD041-->
+## Domain Modeling (non-technical explanation)
+
+Imagine trying to understand how people survive in war-torn areas when the lights go out — literally. That’s where our project begins. We built something called a **domain model**, which is just a fancy way of saying: _"Let’s draw a simple map to make sense of a really messy situation."_
+
+At the center of it all is **solar energy** — not just as a clean tech solution, but as a **lifeline** when everything else fails. When power lines are bombed, families are displaced, and normal life disappears, solar can step in as **survival infrastructure** — helping people charge phones, power lights, and keep hospitals or schools running. We're looking at things like:
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/1_datasets/1_datasets/images/1.png" width="650"/></td>
+    <td><img src="https://raw.githubusercontent.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/1_datasets/1_datasets/images/2.png" width="300"/></td>
+  </tr>
+</table>
+<details><summary><b>To understand how this all works, we looked at three big clues (datasets): </b></summary>
+
+
+- **On-Grid and Off-Grid Data** _tells us how traditional electricity drops off during conflict. It’s like tracking where the lights go out and shows how people start using solar systems when the grid fails — kind of like switching from the main power to a backup generator._
+- **Renewable and Non-Renewables** _helps us compare how energy use shifts in crisis: are countries using more solar or still relying on fossil fuels_
+- **UN Comtrade Data** _tracks the flow of solar equipment (like panels and batteries) into countries over time, revealing how conflict affects supply chains and access to solar tech._
+</details>
+
+<details><summary><b>Our domain model focuses on three main areas: </b></summary>
+ 
+<table>
+  <tr>
+    <td style="vertical-align: top; width: 70%;">
+      <ul>
+        <li><strong>"Survival Infrastructure"</strong>: We're looking at <em>solar PV</em> as a <em>fundamental tool for human survival</em> - not just another <em>green tech solution</em>.</li>
+        <li><strong>Conflict Lifecycle</strong>: We break down solar's role across the <em>pre-conflict, active conflict, and post-conflict phases</em> – because its utility changes drastically through each.</li>
+        <li><strong>Three Pillars of Impact</strong>: To get measurable, we're zeroing in on <strong>Deployment Patterns, Capacity Utilization, and Household Consumption</strong>. These are our core measurable areas, directly feeding into our main research question.</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top; width: 30%;">
+      <img src="https://raw.githubusercontent.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/1_datasets/1_datasets/images/3.png" width="2000">
+    </td>
+  </tr>
+</table>
+</details>
+
 
 ### [Data Sets](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/README.md)
 
@@ -162,6 +202,10 @@ The model focuses on three key ideas: solar’s evolving role across the **confl
 3. **[Raw: UN Comtrade data](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/UN_Comtrade_imports_dataset_raw.xlsx)** to _[Cleaned: UN Comtrade](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/2_data_preparation/UN_comtrade_data_cleaning.ipynb)_
 
 For more details refer to [/2_data_preparation](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/2_data_preparation) keeping all our cleaning, transformation, and prep scripts and [/3_data_exploration](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/3_data_exploration) exploring, visualizing, and get a feel for our datasets. 
+
+
+## [M3: Data Analysis]()
+
 
 ---
 ```mermaid
@@ -192,16 +236,18 @@ timeline
 
 ```text
 project/
-│  README.md                  # Start here! Everything important in one file.
-│
-├── 0_domain_study/          #  Problem background & context
-├── 1_datasets/              #  Raw + cleaned data
-├── 2_data_preparation/      #  Scripts for cleaning and prepping data
-├── 3_data_exploration/      #  Visualizations & summaries
-├── 4_data_analysis/         #  Modeling, testing, interpreting
-├── 5_communication_strategy/#  Translation of findings to stakeholders
-├── 6_final_presentation/    #  Final delivery magic
-└── Collaboration/           #  Team norms, syncs, retrospectives
+├── README.md                   # Project overview and main instructions
+├── guide.md                    # Detailed guide on using this template
+├── /collaboration/             # Team norms, strategies, and retrospectives
+├── /notes/                     # Shared resources and learning materials
+├── /0_domain_study/            # Domain research and background
+├── /1_datasets/                # Raw and processed datasets
+├── /2_data_preparation/        # Scripts for cleaning and processing data
+├── /3_data_exploration/        # Scripts for initial data understanding
+├── /4_data_analysis/           # Scripts for in-depth analysis
+├── /5_communication_strategy/  # Materials for communicating findings
+└── /6_final_presentation/      # Final presentation materials
+
 ```
 
 ## Team Members
