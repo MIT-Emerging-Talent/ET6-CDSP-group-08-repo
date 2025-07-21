@@ -83,7 +83,8 @@ Output folder for **graphs only:**  `4_data_analysis/phases_analysis/2.output_gr
 - Small dataset (only 9 countries) limits global generalization.
 - "Conflict period" definitions may not fully reflect complex realities.
 - Installed ≠ working — some reported capacity might not be functional.
-
+- Ukraine’s extreme growth (50,000+ MW) skews comparative visuals.
+  
 </details>
 
 <details>
