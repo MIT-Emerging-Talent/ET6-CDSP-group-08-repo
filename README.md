@@ -98,6 +98,7 @@ affect three critical dimensions of solar deployment:
     change when families transition from grid dependence
     to solar-powered systems during conflicts? What services do
     households prioritize when energy becomes scarce and self-generated?</p></details>
+---
 
 ## [M1: Research Question & Objectives](0_domain_study/progress.md)
 
@@ -133,8 +134,6 @@ security challenges.
  increasingly recognize the need for resilient, sustainable,
  and decentralized energy solutions in conflicted areas.</details>
 
----
-
 ### Project Scope
 
 - **Time Period**: 15 years (2010-2024)
@@ -152,7 +151,7 @@ To ground our data‑driven work in real‑world context, we've prepared a detai
 * **Potential interventions** from distributed solar microgrids to local maintenance committ
 
 <!-- markdownlint-disable MD031 MD033 MD013 MD001 MD04 MD045 MD049 MD041 MD022 MD042 MD018-->
-
+---
 ## [M2: Data Collection](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/1_datasets)
 
 ### [Domain Modeling](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/non_tech_exp_of_domain_modeling.md)
@@ -193,15 +192,50 @@ At the center of it all is **solar energy** — not just as a clean tech solutio
 </table>
 </details>
 
+**How We Modeled the Research Question with Data?**  
+We explored how conflict impacts the development and trade of solar energy by combining capacity, off-grid, and trade data with conflict classifications. Countries were categorized by conflict phase (pre-conflict, active-conflict, post-conflict), and we tracked solar adoption trends across these phases using time-series and geospatial analysis.
 
 ### [Data Sets](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/README.md)
 
-1. **[Raw: Off-grid Renewable Energy Statistics 2024](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/IRENA_OFGStats.raw.xlsx)** to _[Cleaned: Off-grid](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/2_data_preparation/IRENA_OFG_cleaned.ipynb)_
-2. **[Raw: On-grid Renewable Energy Statistics 2024](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/IRENA_Stats_extract_2025_H1_raw.xlsx)** to _[Cleaned: On-grid](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/2_data_preparation/IRENA_ONG_cleaned.ipynb)_
-3. **[Raw: UN Comtrade data](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/UN_Comtrade_imports_dataset_raw.xlsx)** to _[Cleaned: UN Comtrade](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/2_data_preparation/UN_comtrade_data_cleaning.ipynb)_
+A detailed description of each dataset, including collection methods, potential limitations, and direct relevance to our problem, can be found in the Datasets Used section.
+1. **IRENA Renewable Energy Statistics:** Providing annual data on both off-grid and on-grid renewable energy capacity and generation worldwide.
+- **[Raw: Off-grid Renewable Energy Statistics 2024](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/IRENA_OFGStats.raw.xlsx)** to _[Cleaned: Off-grid](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/2_data_preparation/IRENA_OFG_cleaned.ipynb)_  
+ Tracks solar and renewable electricity generation across countries and years.
+-  **[Raw: On-grid Renewable Energy Statistics 2024](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/IRENA_Stats_extract_2025_H1_raw.xlsx)** to _[Cleaned: On-grid](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/2_data_preparation/IRENA_ONG_cleaned.ipynb)_  
+Focuses on decentralized solar systems (e.g., mini-grids and solar home systems), crucial for conflict-affected areas.
+
+2. **UN Comtrade:** Offering detailed trade data on solar-related products (e.g., panels, inverters), crucial for understanding import trends in conflict zones. **[Raw: UN Comtrade data](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/UN_Comtrade_imports_dataset_raw.xlsx)** to _[Cleaned: UN Comtrade](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/2_data_preparation/UN_comtrade_data_cleaning.ipynb)_  
+Captures international trade in solar panels and related equipment.
+
+<details>
+<summary><strong>Data Preparation</strong></summary>
+Process:
+- **Timeframe filtered:** All datasets were limited to **2010–2024**.
+- **Conflict labels added:** Countries were tagged by their **conflict phase** (pre-, active-, post-conflict).
+- **Cleaning steps included:**
+  - Removing irrelevant or non-solar data  
+  - Handling missing values (e.g., mean imputation)  
+  - Renaming columns for consistency  
+  - Filtering for solar technologies only
+
+
+</details>
+
+<details>
+<summary><strong>Data Exploration</strong></summary>
+
+Initial data exploration, visualization, and descriptive statistics were performed on the cleaned datasets to understand their characteristics, distributions, and potential relationships. This process, fully documented within the `3_data_exploration/` directory, helped us:
+
+- Gain foundational insights into _data quality_  
+- Identify preliminary patterns  
+- Guide subsequent analytical steps for addressing our research question
+
+</details>
 
 For more details refer to [/2_data_preparation](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/2_data_preparation) keeping all our cleaning, transformation, and prep scripts and [/3_data_exploration](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/3_data_exploration) exploring, visualizing, and get a feel for our datasets. 
 
+
+--- 
 
 ## [M3: Data Analysis]()
 
