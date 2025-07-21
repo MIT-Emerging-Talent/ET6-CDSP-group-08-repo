@@ -20,13 +20,13 @@ We are a team united by _purpose and shaped by displacement_, using data science
 
 ## [Domain Research & Background](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/0_domain_study/README.md)
 
-> [Solar Energy acts as a vital **survival infrastructure** in conflict zones.]()
+> [Solar Energy acts as a vital **survival infrastructure** in conflict zones.](https://www.pv-tech.org/how-solar-can-bring-light-to-war-zones/)
 
 Citizens in conflict-affected countries require stable electricity sources,
 yet ongoing clashes and targeted attacks on power infrastructure have
 severely disrupted their access to reliable power.   
-This project examines how solar photovoltaic systems function not as 
-environmental solutions, but as **critical survival technology** that 
+This project examines how solar photovoltaic systems function [not as 
+environmental solutions](https://www.csis.org/analysis/gazas-solar-power-wartime), but as **critical survival technology** that 
 enables families to maintain essential services when all
 other energy sources fail.
 
@@ -35,18 +35,18 @@ other energy sources fail.
 Armed conflicts create immediate survival challenges that go 
 far beyond traditional security concerns. As of 2024, over [130 million people](https://www.unhcr.org/global-trends)
 worldwide have been forcibly displaced by war, persecution, and disaster,
-including 37.6 million refugees and 68.3 million internally displaced persons.() 
+including 37.6 million refugees and 68.3 million internally displaced persons. 
 While humanitarian responses typically prioritize food, shelter, and medical 
 care, these essential services all depend on 
 one critical resource: **reliable energy access**.
 
 The energy reality for conflict-affected communities is stark. 
-Nearly 90% of refugee settlements lack reliable electricity access,
+Nearly [90%](https://unepccc.org/project/sustainable-energy-use-in-refugee-camps/) of refugee settlements lack reliable electricity access,
 forcing families to rely on dangerous and inadequate alternatives.
-Over 80% of displaced populations still depend on firewood or biomass
+Over [80%](https://energypedia.info/wiki/Energy_Access_in_Displacement_Settings) of displaced populations still depend on firewood or biomass
 for cooking, exposing women and girls to safety risks while contributing
 to indoor air pollution that kills millions annually.
-This energy poverty doesn't just limit comfort, it directly threatens
+This energy poverty doesn't just [limit comfort](https://www.unhcr.org/in/sites/en-in/files/legacy-pdf/4a1d2f422.pdf), it directly threatens
 survival by compromising medical services, water access, communication
 systems, and basic safety through adequate lighting.
 
@@ -60,8 +60,8 @@ independently of broader infrastructure networks.
 
 The deployment patterns reveal this survival imperative clearly.
 Gaza provides the most compelling example: despite ongoing
-conflict, the territory maintains an estimated 12,400 rooftop 
-solar installations. This is likely the highest concentration 
+conflict, the territory maintains an estimated [12,400 rooftop 
+solar installations](https://www.csis.org/analysis/gazas-solar-power-wartime). This is likely the highest concentration 
 globally relative to population size. These systems were 
 not installed for environmental reasons but out of necessity,
 as Gaza residents received grid power for only 6-8 hours 
@@ -71,7 +71,7 @@ powering essential services from medical clinics to water pumping systems.
 
 Similarly, in Afghanistan, solar deployment increased during 
 conflict periods specifically because it was "the only
-approach based on economics and reducing risks to personnel
+approach based on [economics and reducing risks](https://ases.org/wp-content/uploads/2021/11/Hybrid-Solar-Power-in-Afghanistan-War-Zone-%E2%80%93-Unique-Engineering-and-Economic-Factors-.pdf) to personnel
 in a war zone". Mobile clinics, field hospitals, and 
 communication systems rely on solar power when traditional
 energy infrastructure fails or becomes too dangerous to maintain.
