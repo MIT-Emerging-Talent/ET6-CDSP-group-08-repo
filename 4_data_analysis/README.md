@@ -76,11 +76,13 @@ Output folder for **graphs only:**  `4_data_analysis/phases_analysis/2.output_gr
 
 #### - Limitations
 
-- Incomplete post-conflict data for countries like Syria and Yemen.
+- Incomplete post-conflict data for countries like Syria and Yemen, some are even still active.
 - Data does not account for:
   - Localized variations in conflict severity
   - Influence of external aid or solar subsidies
-- Ukraine’s extreme growth (50,000+ MW) skews comparative visuals.
+- Small dataset (only 9 countries) limits global generalization.
+- "Conflict period" definitions may not fully reflect complex realities.
+- Installed ≠ working — some reported capacity might not be functional.
 
 </details>
 
