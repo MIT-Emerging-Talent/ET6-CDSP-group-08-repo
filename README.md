@@ -102,7 +102,7 @@ affect three critical dimensions of solar deployment:
 
 ### Research Question
 
-> **How have armed conflicts over the past 15 years influenced the deployment,
+> **How have armed conflicts over the past 25 years influenced the deployment,
 > capacity utilization, and household consumption of solar photovoltaic
 > systems—both environmentally and socially—in conflict-affected communities?**
 
@@ -120,9 +120,9 @@ security challenges.
 <details><summary><b>Why This Matters?</b></summary>
 
 - Solar energy offers fast, decentralized, and life-saving power in conflict-affected areas,
-  where 733 million people still lack electricity. This technology empowers vulnerable
+  where [675 million](https://www.worldbank.org/en/topic/energy/overview) people still lack electricity. This technology empowers vulnerable
   communities by delivering resilience, dignity, and sustainable
-  energy infrastructure during humanitarian crises.
+  energy infrastructure during [humanitarian crises.](https://solgenpower.com/2023/10/10/the-benefits-of-solar-energy-for-humanitarian-aid/)
 
 - Solving this problem could provide life-saving infrastructure
  in unstable regions, promote energy equity, and support
@@ -134,7 +134,7 @@ security challenges.
 
 ### Project Scope
 
-- **Time Period**: 15 years (2010-2024)
+- **Time Period**: 25 years (2000-2024)
 - **Renewable Energy Focus:** Solar Photovoltaic Systems 
 - **Geographic Regions:** Syria, Iraq, Sudan, South Sudan, Palestine, Mali, Ethiopia, Ukraine, Yemen, Libya, Afghanistan, Nigeria, Central African Republic, Somalia,Pakistan, Mozambique and Myanmar (17 countries)
 - **Analysis Dimensions:** Deployment patterns, capacity utilization, household consumption.
@@ -208,10 +208,15 @@ Captures international trade in solar panels and related equipment.
 
 <details>
 <summary><strong>Data Preparation</strong></summary>
-Process:
-- **Timeframe filtered:** All datasets were limited to **2010–2024**.
-- **Conflict labels added:** Countries were tagged by their **conflict phase** (pre-, active-, post-conflict).
-- **Cleaning steps included:**
+#### Data Preparation Process
+ 
+- **Timeframe filtered:**  
+  All datasets were limited to **2000–2024**.
+
+- **Conflict labels added:**  
+  Countries were tagged by their **conflict phase** (pre-, active-, post-conflict).
+
+- **Cleaning steps included:**  
   - Removing irrelevant or non-solar data  
   - Handling missing values (e.g., mean imputation)  
   - Renaming columns for consistency  
