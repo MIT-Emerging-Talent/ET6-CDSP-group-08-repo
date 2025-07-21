@@ -126,11 +126,11 @@ security challenges.
 
 - Solving this problem could provide life-saving infrastructure
  in unstable regions, promote energy equity, and support
- long-term sustainable development goals.
+ long-term [sustainable development goals.](https://www.hhs.se/sv/om-oss/news/news-from-misum/2016/sdgs-in-conflict/)
 
 - The humanitarian community and affected populations
- increasingly recognize the need for resilient, sustainable,
- and decentralized energy solutions in conflicted areas.</details>
+ increasingly recognize the need for resilient [sustainable
+ and decentralized energy solutions in conflicted areas](https://www.cyis.org/post/renewable-energy-in-conflict-zones-protecting-war-torn-environments)</details>
 
 ### Project Scope
 
@@ -199,7 +199,7 @@ A detailed description of each dataset, including collection methods, potential 
 1. **IRENA Renewable Energy Statistics:** Providing annual data on both off-grid and on-grid renewable energy capacity and generation worldwide.
     - **[Raw: Off-grid Renewable Energy Statistics 2024](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/IRENA_OFGStats.raw.xlsx)** to _[Cleaned: Off-grid](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/2_data_preparation/IRENA_OFG_cleaned.ipynb)_  
  Tracks solar and renewable electricity generation across countries and years.
-    -  **[Raw: On-grid Renewable Energy Statistics 2024](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/IRENA_Stats_extract_2025_H1_raw.xlsx)** to _[Cleaned: On-grid](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/2_data_preparation/IRENA_ONG_cleaned.ipynb)_  
+    - **[Raw: On-grid Renewable Energy Statistics 2024](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/IRENA_Stats_extract_2025_H1_raw.xlsx)** to _[Cleaned: On-grid](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/2_data_preparation/IRENA_ONG_cleaned.ipynb)_  
 Focuses on decentralized solar systems (e.g., mini-grids and solar home systems), crucial for conflict-affected areas.
 
 2. **UN Comtrade:** Offering detailed trade data on solar-related products (e.g., panels, inverters), crucial for understanding import trends in conflict zones.
