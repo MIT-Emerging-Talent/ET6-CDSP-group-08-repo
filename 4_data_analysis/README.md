@@ -59,6 +59,7 @@ To answer the question the following steps were taken:
 - **Heatmaps**: Visual growth intensity per country and year.
 - **Regression Plots**: Basic linear regression during conflict periods.
 - **Archetype Table**: Pattern classification of country behaviors.  
+- Added Economic Status column to help in analysis.
   
  Charts and visuals generated using `matplotlib`, `seaborn`.  
 Output folder for **graphs only:**  `4_data_analysis/phases_analysis/2.output_graphs`
@@ -84,7 +85,7 @@ Output folder for **graphs only:**  `4_data_analysis/phases_analysis/2.output_gr
 - "Conflict period" definitions may not fully reflect complex realities.
 - Installed ≠ working — some reported capacity might not be functional.
 - Ukraine’s extreme growth (50,000+ MW) skews comparative visuals.
-  
+
 </details>
 
 <details>
@@ -134,9 +135,77 @@ Output folder for **graphs only:**  `4_data_analysis/phases_analysis/2.output_gr
 </details>
 </details>
 
-### Takeaway Insights
+## Q2. **To what extent are these datasets comparable, and what differences, if any, exist in what they measure?** 
 
-1. **Conflict as catalyst:** Solar adoption often accelerates during active conflicts out of necessity
-2. **Post-conflict uncertainty:** Recovery phases don't guarantee continued growth without proper governance
-3. **Archetypal patterns:** Countries follow predictable behavioral patterns useful for forecasting interventions
-4. **Grid vs. Off-grid:** Grid-connected systems dominate (~1,600 MW avg) but off-grid crucial during conflicts (~50 MW avg)
+> **Analysis File:** [comparison_analysis.ipynb](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/comparison-analysis/4_data_analysis/data_comparison_analysis/comparison_analysis.ipynb)  
+> **Technical Explanation:** [tech_exp.md](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/comparison-analysis/4_data_analysis/data_comparison_analysis/tech_explanation.md)  
+> **Non-Technical Explanation:** [non_tech_exp.md](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/comparison-analysis/4_data_analysis/data_comparison_analysis/non_tech_explanation.md)
+
+<details>
+<summary><b>1. Dataset</b></summary>
+
+#### A. **Input dataset**  
+
+We used three datasets to analyze solar adoption trends across four conflict-affected countries:
+
+- **UN Comtrade**: Annual solar equipment import values (USD).
+- **IRENA**: On-grid solar capacity (MW), by year and country.
+- **IRENA**: Off-grid solar capacity (MW), by year and country.
+
+The countries examined were:
+
+- **Ukraine** (imports vs on-grid),
+- **Sudan** (on-grid vs off-grid),
+- **Yemen** and **Ethiopia** (imports vs off-grid).
+
+All datasets were filtered to include only solar technologies (e.g., _“Solar photovoltaic”_), and aggregated by year and country.
+
+</details>
+
+<details>
+<summary><strong>2. Conducting Analysis</strong></summary>
+
+### Steps Taken
+
+- **Cleaning & Filtering**: Removed non-solar entries, retained only relevant categories like _“Solar PV (Others)”_.
+- **Aggregation**: Used `.groupby()` and `.sum()` to calculate total imports and capacity per year.
+- **Normalization**: Applied Min-Max scaling to compare variables with different units (USD vs MW).
+- **Merging**: Joined datasets on `Year` and `Country` using `pd.merge()` for aligned year-over-year comparison.
+- **Correlation**: Calculated Pearson correlation coefficients to quantify linear relationships between variables.
+- **Visualization**: Created time-series line and scatter plots for each country and variable pair.
+
+</details>
+
+<details>
+<summary><strong>3. Assumptions and Limitations</strong></summary>
+
+### Assumptions
+
+- Import values are assumed to reflect solar-related purchases.
+- Conflict data was not yet incorporated, despite being core to the broader research focus.
+- On-grid and off-grid systems are considered functionally separate in fragile contexts.
+- Min-Max normalization was used to enable direct trend comparisons.
+
+### Limitations
+
+- **Import ≠ Deployment**: Equipment might be stockpiled, unused, or re-exported.
+- **No time lags modeled**: Imports may impact deployment in future years.
+- **Normalization hides magnitude**: Actual deployment scale is flattened.
+- **Sparse data**: Yemen and Ethiopia had limited off-grid data years.
+- **Linear focus**: Pearson correlation doesn’t detect nonlinear or delayed effects.
+- **Data gaps**: Not all countries had data across all years.
+- **Conflict timelines missing**: Deployment may correlate with conflict intensity or aid, but this was not tested.
+
+</details>
+
+<details>
+<summary><strong>4. Key Findings & Summary</strong></summary>
+
+- **Ukraine**: Some alignment between import and on-grid deployment trends. Pearson correlation = **0.34**. Visual patterns suggest policy or donor-driven surges.
+- **Ethiopia**: Strong correlation (**0.9**) between imports and off-grid deployment (2013–2023), though data range is short.
+- **Yemen**: Similar to Ethiopia but even more limited data coverage.
+- **Sudan**: On-grid and off-grid deployments grew independently. Off-grid systems surged, possibly due to decentralized aid and resilience strategies.
+
+> **Conclusion**: Import trends sometimes reflect deployment trends — but **not reliably across all contexts**. Aid flows, informal markets, and conflict dynamics complicate the relationship.
+
+</details>
