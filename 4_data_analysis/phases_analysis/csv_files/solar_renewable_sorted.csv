@@ -1,0 +1,155 @@
+Region,Sub-region,Country,ISO3 code,RE or Non-RE,Group Technology,Technology,Sub-Technology,Producer Type,Year,Electricity Installed Capacity (MW),Conflict Phase
+Asia,Southern Asia,Afghanistan,AFG,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2009,0.002,active-conflict
+Asia,Southern Asia,Afghanistan,AFG,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2010,0.102,active-conflict
+Asia,Southern Asia,Afghanistan,AFG,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2011,0.12,active-conflict
+Asia,Southern Asia,Afghanistan,AFG,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2012,16.122,active-conflict
+Asia,Southern Asia,Afghanistan,AFG,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2013,16.843,active-conflict
+Asia,Southern Asia,Afghanistan,AFG,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2014,18.363,active-conflict
+Asia,Southern Asia,Afghanistan,AFG,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2015,19.011,active-conflict
+Asia,Southern Asia,Afghanistan,AFG,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2016,20.68,active-conflict
+Asia,Southern Asia,Afghanistan,AFG,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2017,21.121,active-conflict
+Asia,Southern Asia,Afghanistan,AFG,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2017,1.7,active-conflict
+Asia,Southern Asia,Afghanistan,AFG,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2018,20.896,active-conflict
+Asia,Southern Asia,Afghanistan,AFG,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2018,1.7,active-conflict
+Asia,Southern Asia,Afghanistan,AFG,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2019,20.411,active-conflict
+Asia,Southern Asia,Afghanistan,AFG,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2019,31.7,active-conflict
+Asia,Southern Asia,Afghanistan,AFG,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2020,19.833,active-conflict
+Asia,Southern Asia,Afghanistan,AFG,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2020,31.7,active-conflict
+Asia,Southern Asia,Afghanistan,AFG,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2021,20.006,active-conflict
+Asia,Southern Asia,Afghanistan,AFG,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2021,31.7,active-conflict
+Asia,Southern Asia,Afghanistan,AFG,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2022,21.776,post-conflict
+Asia,Southern Asia,Afghanistan,AFG,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2022,31.7,post-conflict
+Asia,Southern Asia,Afghanistan,AFG,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2023,21.776,post-conflict
+Asia,Southern Asia,Afghanistan,AFG,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2023,31.7,post-conflict
+Asia,Southern Asia,Afghanistan,AFG,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2024,21.776,post-conflict
+Asia,Southern Asia,Afghanistan,AFG,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2024,31.7,post-conflict
+Africa,Sub-Saharan Africa,Ethiopia,ETH,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2007,0.001,pre-conflict
+Africa,Sub-Saharan Africa,Ethiopia,ETH,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2008,0.001,pre-conflict
+Africa,Sub-Saharan Africa,Ethiopia,ETH,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2009,0.028,pre-conflict
+Africa,Sub-Saharan Africa,Ethiopia,ETH,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2010,0.028,pre-conflict
+Africa,Sub-Saharan Africa,Ethiopia,ETH,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2011,0.335,pre-conflict
+Africa,Sub-Saharan Africa,Ethiopia,ETH,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2012,1.148,pre-conflict
+Africa,Sub-Saharan Africa,Ethiopia,ETH,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2013,3.344,pre-conflict
+Africa,Sub-Saharan Africa,Ethiopia,ETH,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2014,9.131,pre-conflict
+Africa,Sub-Saharan Africa,Ethiopia,ETH,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2015,9.89,pre-conflict
+Africa,Sub-Saharan Africa,Ethiopia,ETH,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2016,14.04,pre-conflict
+Africa,Sub-Saharan Africa,Ethiopia,ETH,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2017,12.494,pre-conflict
+Africa,Sub-Saharan Africa,Ethiopia,ETH,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2018,12.346,pre-conflict
+Africa,Sub-Saharan Africa,Ethiopia,ETH,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2019,12.346,pre-conflict
+Africa,Sub-Saharan Africa,Ethiopia,ETH,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2020,20.184,active-conflict
+Africa,Sub-Saharan Africa,Ethiopia,ETH,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2021,21.184,active-conflict
+Africa,Sub-Saharan Africa,Ethiopia,ETH,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2022,21.184,active-conflict
+Africa,Sub-Saharan Africa,Ethiopia,ETH,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2023,21.184,post-conflict
+Africa,Sub-Saharan Africa,Ethiopia,ETH,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2024,21.554,post-conflict
+Asia,Western Asia,Iraq,IRQ,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2013,29.5,active-conflict
+Asia,Western Asia,Iraq,IRQ,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2014,36.5,active-conflict
+Asia,Western Asia,Iraq,IRQ,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2015,36.5,active-conflict
+Asia,Western Asia,Iraq,IRQ,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2016,36.5,active-conflict
+Asia,Western Asia,Iraq,IRQ,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2017,36.5,active-conflict
+Asia,Western Asia,Iraq,IRQ,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2018,36.5,post-conflict
+Asia,Western Asia,Iraq,IRQ,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2018,0.576,post-conflict
+Asia,Western Asia,Iraq,IRQ,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2019,36.5,post-conflict
+Asia,Western Asia,Iraq,IRQ,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2019,0.576,post-conflict
+Asia,Western Asia,Iraq,IRQ,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2020,36.5,post-conflict
+Asia,Western Asia,Iraq,IRQ,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2020,0.576,post-conflict
+Asia,Western Asia,Iraq,IRQ,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2021,36.5,post-conflict
+Asia,Western Asia,Iraq,IRQ,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2021,0.576,post-conflict
+Asia,Western Asia,Iraq,IRQ,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2022,39.0,post-conflict
+Asia,Western Asia,Iraq,IRQ,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2022,2.576,post-conflict
+Asia,Western Asia,Iraq,IRQ,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2023,39.0,post-conflict
+Asia,Western Asia,Iraq,IRQ,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2023,2.576,post-conflict
+Asia,Western Asia,Iraq,IRQ,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2024,39.0,post-conflict
+Asia,Western Asia,Iraq,IRQ,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2024,2.576,post-conflict
+Africa,Northern Africa,Libya,LBY,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2003,0.2,pre-conflict
+Africa,Northern Africa,Libya,LBY,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2004,0.7,pre-conflict
+Africa,Northern Africa,Libya,LBY,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2005,1.2,pre-conflict
+Africa,Northern Africa,Libya,LBY,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2006,1.7,pre-conflict
+Africa,Northern Africa,Libya,LBY,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2007,2.2,pre-conflict
+Africa,Northern Africa,Libya,LBY,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2008,2.7,pre-conflict
+Africa,Northern Africa,Libya,LBY,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2009,3.2,pre-conflict
+Africa,Northern Africa,Libya,LBY,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2010,3.7,pre-conflict
+Africa,Northern Africa,Libya,LBY,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2011,4.2,active-conflict
+Africa,Northern Africa,Libya,LBY,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2014,4.9,active-conflict
+Africa,Northern Africa,Libya,LBY,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2015,4.9,active-conflict
+Africa,Northern Africa,Libya,LBY,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2016,4.9,active-conflict
+Africa,Northern Africa,Libya,LBY,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2017,5.11,active-conflict
+Africa,Northern Africa,Libya,LBY,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2018,5.11,active-conflict
+Africa,Northern Africa,Libya,LBY,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2019,5.11,active-conflict
+Africa,Northern Africa,Libya,LBY,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2020,5.111,active-conflict
+Africa,Northern Africa,Libya,LBY,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2021,6.333,post-conflict
+Africa,Northern Africa,Libya,LBY,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2022,6.333,post-conflict
+Africa,Northern Africa,Libya,LBY,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2023,6.333,post-conflict
+Africa,Northern Africa,Libya,LBY,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2023,2.0,post-conflict
+Africa,Northern Africa,Libya,LBY,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2024,6.333,post-conflict
+Africa,Northern Africa,Libya,LBY,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2024,2.0,post-conflict
+Africa,Sub-Saharan Africa,South Sudan,SSD,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2013,0.098,active-conflict
+Africa,Sub-Saharan Africa,South Sudan,SSD,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2014,0.098,active-conflict
+Africa,Sub-Saharan Africa,South Sudan,SSD,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2015,0.107,active-conflict
+Africa,Sub-Saharan Africa,South Sudan,SSD,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2016,0.969,active-conflict
+Africa,Sub-Saharan Africa,South Sudan,SSD,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2017,1.411,active-conflict
+Africa,Sub-Saharan Africa,South Sudan,SSD,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2018,1.925,active-conflict
+Africa,Sub-Saharan Africa,South Sudan,SSD,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2019,2.124,active-conflict
+Africa,Sub-Saharan Africa,South Sudan,SSD,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2020,2.201,active-conflict
+Africa,Sub-Saharan Africa,South Sudan,SSD,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2020,1.0,active-conflict
+Africa,Sub-Saharan Africa,South Sudan,SSD,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2021,1.987,post-conflict
+Africa,Sub-Saharan Africa,South Sudan,SSD,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2021,1.0,post-conflict
+Africa,Sub-Saharan Africa,South Sudan,SSD,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2022,2.469,post-conflict
+Africa,Sub-Saharan Africa,South Sudan,SSD,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2022,1.0,post-conflict
+Africa,Sub-Saharan Africa,South Sudan,SSD,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2023,2.469,post-conflict
+Africa,Sub-Saharan Africa,South Sudan,SSD,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2023,14.0,post-conflict
+Africa,Sub-Saharan Africa,South Sudan,SSD,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2024,2.469,post-conflict
+Africa,Sub-Saharan Africa,South Sudan,SSD,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2024,28.0,post-conflict
+Africa,Northern Africa,Sudan (The),SDN,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2002,0.009,pre-conflict
+Africa,Northern Africa,Sudan (The),SDN,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2003,0.009,active-conflict
+Africa,Northern Africa,Sudan (The),SDN,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2004,0.105,active-conflict
+Africa,Northern Africa,Sudan (The),SDN,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2005,0.203,active-conflict
+Africa,Northern Africa,Sudan (The),SDN,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2019,80.199,active-conflict
+Africa,Northern Africa,Sudan (The),SDN,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2019,0.29,active-conflict
+Africa,Northern Africa,Sudan (The),SDN,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2020,116.84,active-conflict
+Africa,Northern Africa,Sudan (The),SDN,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2020,0.29,active-conflict
+Africa,Northern Africa,Sudan (The),SDN,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2021,135.57,active-conflict
+Africa,Northern Africa,Sudan (The),SDN,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2021,0.29,active-conflict
+Africa,Northern Africa,Sudan (The),SDN,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2023,135.57,active-conflict
+Africa,Northern Africa,Sudan (The),SDN,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2023,54.29,active-conflict
+Africa,Northern Africa,Sudan (The),SDN,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2024,135.57,active-conflict
+Africa,Northern Africa,Sudan (The),SDN,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2024,54.29,active-conflict
+Asia,Western Asia,Syrian Arab Republic (The),SYR,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2017,0.127,active-conflict
+Asia,Western Asia,Syrian Arab Republic (The),SYR,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2018,1.377,active-conflict
+Asia,Western Asia,Syrian Arab Republic (The),SYR,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2019,2.467,active-conflict
+Asia,Western Asia,Syrian Arab Republic (The),SYR,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2020,11.522,active-conflict
+Asia,Western Asia,Syrian Arab Republic (The),SYR,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2021,33.0,active-conflict
+Asia,Western Asia,Syrian Arab Republic (The),SYR,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2022,2.0,active-conflict
+Asia,Western Asia,Syrian Arab Republic (The),SYR,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2022,58.0,active-conflict
+Asia,Western Asia,Syrian Arab Republic (The),SYR,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2023,2.0,active-conflict
+Asia,Western Asia,Syrian Arab Republic (The),SYR,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2023,58.0,active-conflict
+Asia,Western Asia,Syrian Arab Republic (The),SYR,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2024,2.0,active-conflict
+Asia,Western Asia,Syrian Arab Republic (The),SYR,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2024,58.0,active-conflict
+Europe,Eastern Europe,Ukraine,UKR,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2010,2.5,pre-conflict
+Europe,Eastern Europe,Ukraine,UKR,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2011,188.2,pre-conflict
+Europe,Eastern Europe,Ukraine,UKR,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2012,371.6,pre-conflict
+Europe,Eastern Europe,Ukraine,UKR,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2013,748.4,pre-conflict
+Europe,Eastern Europe,Ukraine,UKR,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2014,819.1,active-conflict
+Europe,Eastern Europe,Ukraine,UKR,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2015,841.2,active-conflict
+Europe,Eastern Europe,Ukraine,UKR,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2016,954.7,active-conflict
+Europe,Eastern Europe,Ukraine,UKR,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2017,1200.0,active-conflict
+Europe,Eastern Europe,Ukraine,UKR,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2018,2002.688,active-conflict
+Europe,Eastern Europe,Ukraine,UKR,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2019,5935.688,active-conflict
+Europe,Eastern Europe,Ukraine,UKR,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2020,7331.0,active-conflict
+Europe,Eastern Europe,Ukraine,UKR,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2021,8062.0,active-conflict
+Europe,Eastern Europe,Ukraine,UKR,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2022,8062.0,active-conflict
+Europe,Eastern Europe,Ukraine,UKR,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2023,8062.0,active-conflict
+Europe,Eastern Europe,Ukraine,UKR,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2024,5500.0,active-conflict
+Asia,Western Asia,Yemen,YEM,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2013,2.369,pre-conflict
+Asia,Western Asia,Yemen,YEM,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2014,5.453,active-conflict
+Asia,Western Asia,Yemen,YEM,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2015,60.249,active-conflict
+Asia,Western Asia,Yemen,YEM,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2016,80.634,active-conflict
+Asia,Western Asia,Yemen,YEM,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2017,103.084,active-conflict
+Asia,Western Asia,Yemen,YEM,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2018,253.341,active-conflict
+Asia,Western Asia,Yemen,YEM,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2019,254.16,active-conflict
+Asia,Western Asia,Yemen,YEM,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2020,257.671,active-conflict
+Asia,Western Asia,Yemen,YEM,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2021,257.711,active-conflict
+Asia,Western Asia,Yemen,YEM,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2022,263.73,active-conflict
+Asia,Western Asia,Yemen,YEM,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2023,269.995,active-conflict
+Asia,Western Asia,Yemen,YEM,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2023,20.0,active-conflict
+Asia,Western Asia,Yemen,YEM,Total Renewable,Solar energy,Solar photovoltaic,Off-grid Solar photovoltaic,Off-grid electricity,2024,269.995,active-conflict
+Asia,Western Asia,Yemen,YEM,Total Renewable,Solar energy,Solar photovoltaic,On-grid Solar photovoltaic,On-grid electricity,2024,140.0,active-conflict
