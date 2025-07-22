@@ -238,8 +238,7 @@ Initial data exploration, visualization, and descriptive statistics were perform
 
 For more details refer to [/2_data_preparation](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/2_data_preparation) keeping all our cleaning, transformation, and prep scripts and [/3_data_exploration](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/3_data_exploration) exploring, visualizing, and get a feel for our datasets. 
 
-
---- 
+---
 
 ## [M3: Data Analysis](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis)
 
@@ -249,9 +248,9 @@ It investigates how solar energy deployment changes across different **phases of
 <details>
 <summary><strong>Analytical Questions</strong></summary>
 
-> **Q1.  What are the trends in solar energy adoption across the full conflict cycle—pre-conflict, active conflict, and post-conflict periods—in conflict-affected countries?**  
+> [**Q1.  What are the trends in solar energy adoption across the full conflict cycle—pre-conflict, active conflict, and post-conflict periods—in conflict-affected countries?**](4_data_analysis\phases_analysis)  
 >
-> **Q2.  To what extent are these datasets comparable, and what differences, if any, exist in what they measure?**
+> [**Q2.  To what extent are these datasets comparable, and what differences, if any, exist in what they measure?**](4_data_analysis\comparison_analysis)
 >
 > **Q3.  What is the effect of conflict duration (continuous vs. periodical or no conflict) on the adoption of solar energy technologies?**
 >
@@ -265,8 +264,6 @@ Conflict periods are often associated with increased solar energy adoption — b
 - **Recovery capacity** varies widely; some countries rebound with aid or reform, others remain paralyzed.
 - Strategic, resilient infrastructure development is possible — but often hinges on **timing, governance, and stability**.
 
-
-
 ### Key Conclusions
 
 - **Solar capacity grows during conflict**, especially in lower-income countries.
@@ -279,7 +276,7 @@ We are **moderately confident** in the trends observed. Core patterns appear con
 
 ### Limitations
 
-- Data gaps in post-conflict years (e.g., Syria, Yemen).
+- Data gaps in post-conflict years.
 - Imports ≠ direct deployment; stockpiling or re-exports possible.
 - No modeling of lag effects between import and deployment.
 - Conflict phase definitions are simplified proxies.
