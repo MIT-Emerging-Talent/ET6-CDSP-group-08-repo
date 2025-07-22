@@ -352,4 +352,5 @@ Visualizations generated using `matplotlib` and `seaborn`, including line plots,
  but also market adaptation to urgent demand.**  
 5. **Country-specific trends reveal how the nature and duration of conflicts
  shape solar product import patterns, useful for targeting aid and development programs.**
+ 
 </details>
