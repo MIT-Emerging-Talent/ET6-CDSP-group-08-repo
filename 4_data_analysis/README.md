@@ -13,7 +13,7 @@
 
 **Analysis File:**[4_data_analysis\duration_analysis\conflict_duration_analysis.ipynb](duration_analysis/conflict_duration_analysis.ipynb)
 
-Technical Explanation: [tech_exp.md](duration_analysis/non_tech_exp.md)
+Technical Explanation: [4_data_analysis/duration_analysis/technical_explanation.md](duration_analysis/technical_explanation.md)
 
 Non-Technical Explanation: [non_tech_exp.md](duration_analysis/non_tech_exp.md)
 
