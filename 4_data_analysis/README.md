@@ -11,6 +11,14 @@
  trends, including product category mix and pricing, while comparing
   conflict-affected countries with stable countries.
 
+**Analysis File:**[4_data_analysis\duration_analysis\conflict_duration_analysis.ipynb](duration_analysis/conflict_duration_analysis.ipynb)
+
+Technical Explanation: [tech_exp.md](duration_analysis/non_tech_exp.md)
+
+Non-Technical Explanation: [non_tech_exp.md](duration_analysis/non_tech_exp.md)
+
+1. Dataset
+
 ### A. Input dataset
 
 - **File:** 4_data_analysis\Conflict_Duration_Analysis\conflict_duration_analysis.ipynb
@@ -45,9 +53,6 @@
   - Solar Lamps  
   - Solar Generators  
   - Other
-
-- **Conflict Years:**  
-  Each record marked if it occurred during the country's conflict period(s).
 
 **Data Cleaning:**  
 
@@ -113,12 +118,6 @@ Visualizations generated using `matplotlib` and `seaborn`, including line plots,
 - Syria and Yemen show notable import surges during conflict, especially for
    portable products.  
 - Ukraine displays sustained import growth throughout conflict periods.
-
-**Price Trends:**  
-
-- Price per kg of PV Modules and Lithium Batteries fluctuates during conflicts,
-   possibly due to supply chain disruptions or demand spikes.  
-- Solar Lamps generally have stable or slightly increasing prices in conflict periods.
 
 ### Takeaway Insights
 
