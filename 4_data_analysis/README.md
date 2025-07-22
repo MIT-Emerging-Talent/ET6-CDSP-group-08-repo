@@ -219,8 +219,8 @@ All datasets were filtered to include only solar technologies (e.g., _“Solar p
  trends, including product category mix and pricing, while comparing
   conflict-affected countries with stable countries.  
 
-> **Analysis File:** [4_data_analysis\duration_analysis\conflict_duration_analysis.ipynb](duration_analysis/conflict_duration_analysis.ipynb) 
-> **Technical Explanation:** [4_data_analysis/duration_analysis/technical_explanation.md](duration_analysis/technical_explanation.md) 
+> **Analysis File:** [4_data_analysis\duration_analysis\conflict_duration_analysis.ipynb](duration_analysis/conflict_duration_analysis.ipynb)   
+> **Technical Explanation:** [4_data_analysis/duration_analysis/technical_explanation.md](duration_analysis/technical_explanation.md)   
 > **Non-Technical Explanation:** [non_tech_exp.md](duration_analysis/non_tech_exp.md)
 
 <details>
