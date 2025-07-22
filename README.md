@@ -243,8 +243,41 @@ For more details refer to [/2_data_preparation](https://github.com/MIT-Emerging-
 
 ## [M3: Data Analysis](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis)
 
-### Key Insights
-Conflict periods are often associated with increased solar energy adoption — but this relationship is **indicative, not causal**. Ukraine’s outsized solar growth strongly skews the overall trend. When analyzed separately, most other countries still showed notable but varied growth patterns during or after conflict.
+It investigates how solar energy deployment changes across different **phases of conflict, economic statuses, duration, technology types and both environmental and social impact** in different conflict-affected countries (2010–2024). Using IRENA and UN Comtrade datasets, we analyzed on-grid/off-grid capacity, import trends, and conflict timelines.
+
+### Key Insight
+Conflict periods are often associated with increased solar energy adoption — but this relationship is **indicative, not causal**. 
+
+### Key Conclusions
+
+- **Solar capacity grows during conflict**, especially in lower-income countries.
+- **Off-grid systems** surge in fragile settings, likely due to humanitarian support.
+- **Solar imports correlate** with deployment in some contexts (e.g., Ethiopia), but **not reliably**.
+
+### Confidence Level
+
+We are **moderately confident** in the trends observed. Core patterns appear consistent across countries, but some data gaps and contextual complexities limit certainty.
+
+### Limitations
+
+- Data gaps in post-conflict years (e.g., Syria, Yemen).
+- Imports ≠ direct deployment; stockpiling or re-exports possible.
+- No modeling of lag effects between import and deployment.
+- Conflict phase definitions are simplified proxies.
+- Ukraine dominates visuals due to extreme outlier values.
+
+[Full list of assumptions and limitations](..\4_data_analysis\README.md)
+
+### Future Work
+
+- Incorporate geospatial conflict intensity data.
+- Analyze lag effects between imports and capacity growth.
+- Study aid-funded vs market-driven solar adoption.
+- Validate results with ground-truth project data or local expert input.
+
+ **Explore more in the analysis folder:**  
+- [`phases_analysis.ipynb`](..4_data_analysis/phases_analysis) – Solar by conflict phase  
+- [`solar_imports_vs_deployment.md`](4_data_analysis/data_comparison_analysis) – Imports vs deployment  
 
 
 ---
