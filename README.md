@@ -242,7 +242,7 @@ For more details refer to [/2_data_preparation](https://github.com/MIT-Emerging-
 
 ## [M3: Data Analysis](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis)
 
-It investigates how solar energy deployment changes across different **phases of conflict, economic statuses, duration, technology types and both environmental and social impact** in different conflict-affected countries (2010–2024). Using IRENA and UN Comtrade datasets, we analyzed on-grid/off-grid capacity, import trends, and conflict timelines.
+It investigates how solar energy deployment changes across different **phases of conflict, economic statuses, duration, technology types and both environmental and social impact** in different conflict-affected countries ( 2000–2024 ); using IRENA and UN Comtrade datasets, analyzing on-grid/off-grid capacity, import trends, and conflict timelines.
 
 
 <details>
@@ -252,9 +252,9 @@ It investigates how solar energy deployment changes across different **phases of
 >
 > [**Q2.  To what extent are these datasets comparable, and what differences, if any, exist in what they measure?**](4_data_analysis\comparison_analysis)
 >
-> **Q3.  What is the effect of conflict duration (continuous vs. periodical or no conflict) on the adoption of solar energy technologies?**
+> [**Q3.  What is the effect of conflict duration (continuous vs. periodical or no conflict) on the adoption of solar energy technologies?**](4_data_analysis\Conflict_Duration_Analysis)
 >
-> **Q4.  What are the environmental and social impact in conflict-affected countries?**
+> [**Q4.  What are the environmental and social impact in conflict-affected countries?**](4_data_analysis)
 </details>
 
 ### Key Insights
@@ -276,11 +276,10 @@ We are **moderately confident** in the trends observed. Core patterns appear con
 
 ### Limitations
 
-- Data gaps in post-conflict years.
+- Data gaps in post-conflict years and low-income countries.
 - Imports ≠ direct deployment; stockpiling or re-exports possible.
 - No modeling of lag effects between import and deployment.
 - Conflict phase definitions are simplified proxies.
-- Ukraine dominates visuals due to extreme outlier values.
 
 [Full list of assumptions and limitations](..\4_data_analysis\README.md)
 
