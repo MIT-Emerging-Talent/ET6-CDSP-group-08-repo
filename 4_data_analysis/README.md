@@ -194,7 +194,7 @@ All datasets were filtered to include only solar technologies (e.g., _“Solar p
 - **Sparse data**: Yemen and Ethiopia had limited off-grid data years.
 - **Linear focus**: Pearson correlation doesn’t detect nonlinear or delayed effects.
 - **Data gaps**: Not all countries had data across all years.
-- **Conflict timelines missing**: Deployment may correlate with conflict intensity or aid, but this was not tested.
+- **Some Conflict timelines missing**: Deployment may correlate with conflict intensity or aid, but this was not tested.
 
 </details>
 
