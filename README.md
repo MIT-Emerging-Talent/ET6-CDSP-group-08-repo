@@ -245,8 +245,27 @@ For more details refer to [/2_data_preparation](https://github.com/MIT-Emerging-
 
 It investigates how solar energy deployment changes across different **phases of conflict, economic statuses, duration, technology types and both environmental and social impact** in different conflict-affected countries (2010–2024). Using IRENA and UN Comtrade datasets, we analyzed on-grid/off-grid capacity, import trends, and conflict timelines.
 
-### Key Insight
+
+<details>
+<summary><strong>Analytical Questions</strong></summary>
+
+> **Q1.  What are the trends in solar energy adoption across the full conflict cycle—pre-conflict, active conflict, and post-conflict periods—in conflict-affected countries?**  
+>
+> **Q2.  To what extent are these datasets comparable, and what differences, if any, exist in what they measure?**
+>
+> **Q3.  What is the effect of conflict duration (continuous vs. periodical or no conflict) on the adoption of solar energy technologies?**
+>
+> **Q4.  What are the environmental and social impact in conflict-affected countries?**
+</details>
+
+### Key Insights
 Conflict periods are often associated with increased solar energy adoption — but this relationship is **indicative, not causal**. 
+
+- Conflict does not automatically suppress development — **windows of opportunity** can exist even in fragile settings.
+- **Recovery capacity** varies widely; some countries rebound with aid or reform, others remain paralyzed.
+- Strategic, resilient infrastructure development is possible — but often hinges on **timing, governance, and stability**.
+
+
 
 ### Key Conclusions
 
@@ -270,14 +289,13 @@ We are **moderately confident** in the trends observed. Core patterns appear con
 
 ### Future Work
 
-- Incorporate geospatial conflict intensity data.
-- Analyze lag effects between imports and capacity growth.
-- Study aid-funded vs market-driven solar adoption.
-- Validate results with ground-truth project data or local expert input.
+- Use maps or data showing how intense conflict is in different areas.
+- Study if there's a delay between importing equipment and solar growth.
+- Compare solar projects funded by aid vs. those driven by local markets.
+- Check the results against real project data or insights from local experts.
 
- **Explore more in the analysis folder:**  
-- [`phases_analysis.ipynb`](..4_data_analysis/phases_analysis) – Solar by conflict phase  
-- [`solar_imports_vs_deployment.md`](4_data_analysis/data_comparison_analysis) – Imports vs deployment  
+For more details refer to [/4_data_analysis](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis) including all scripts, visualizations, technical methodology, and a non-technical summary of our findings, confidence levels, and limitations. 
+
 
 
 ---
