@@ -31,6 +31,8 @@ intensity, and duration to provide a more complete analysis.
 - Do you have the right question?
 The research question is well-formulated, but to address it thoroughly, we need
  to collect additional data.
+- The research question is well-formulated, but to address it thoroughly, we need
+ to collect additional data.
 
 ------
 
@@ -165,3 +167,4 @@ Yes.
 
 - **Do you need other data?**
   - Yes, we need more comprehensive conflict data and a wider array of socioeconomic indicators.
+>>>>>>> b132e0758f4669a11ca690bb73cec2d964fc9cef

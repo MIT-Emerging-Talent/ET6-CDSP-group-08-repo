@@ -1,3 +1,4 @@
+
 # Retrospective
 
 ## Stop Doing
@@ -105,5 +106,5 @@ Not to immerse ourselves in one aspect of the project (e.g. looking for data)
 
 ### Did you need to add things not in your strategy?
 
-- we can  organize additional practice sessions to support one another and become
- more familiar with the data analysis and ml  
+- we can  organize additional practice sessions to support one another and become
+ more familiar with the data analysis and ml  
