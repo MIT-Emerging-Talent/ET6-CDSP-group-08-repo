@@ -76,9 +76,19 @@ This script processes the **on-grid electricity data** from the IRENA dataset.
     - Filled the null values.
     - Added a conflict status column.
     - removed any row with `Bioenergy` technology in it.
+    - Noticed that there are different units for the value columns, which are
+    `1000 m3, thousands, MW`, the 1000 m3 unit was primarily used for bioenergy
+    group technology which is irrelevant to our study so I just deleted any
+    observation that its group technology is Bioenergy. Regarding the other unit
+    which is `thousands`; it mainly measure the number of people using/utilizing
+    that technology and `mw` is the unit of the power produced by a technology
+    so I had to seperate the dataset into two different ones according to the unit.
 
 3. **Output datasets**
 
-- **File**: `IRENA_OFGStats.cleaned.xlsx`
+- **File**: `IRENA_OFGStats_mw.cleaned.xlsx`
+  - **Sheet**: `Cleaned_Data`
+  - **Path**: `1_datasets/cleaned_data/`
+- **File**: `IRENA_OFGStats_thousands.cleaned.xlsx`
   - **Sheet**: `Cleaned_Data`
   - **Path**: `1_datasets/cleaned_data/`
