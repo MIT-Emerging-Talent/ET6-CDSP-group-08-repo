@@ -17,8 +17,6 @@ Technical Explanation: [4_data_analysis/duration_analysis/technical_explanation.
 
 Non-Technical Explanation: [non_tech_exp.md](duration_analysis/non_tech_exp.md)
 
-1. Dataset
-
 ### A. Input dataset
 
 - **File:** 4_data_analysis\Conflict_Duration_Analysis\conflict_duration_analysis.ipynb
