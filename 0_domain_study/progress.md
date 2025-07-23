@@ -113,7 +113,9 @@ and household consumption of solar photovoltaic systems in conflict‐affected c
   - **High Impact:** Enhances resilience, reduces emissions,
      and improves daily life in conflict zones.
 
-- **Regions:** Syria, Iraq, Sudan, South Sudan, Palestine, Mali, Ethiopia, Ukraine, Yemen, Libya, Afghanistan, Nigeria, Central African Republic, Somalia,Pakistan, Mozambique and Myanmar (17 countries)
+- **Regions:** Syria, Iraq, Sudan, South Sudan, Palestine, Mali, Ethiopia,
+  Ukraine, Yemen, Libya, Afghanistan, Nigeria, Central African Republic,
+  Somalia,Pakistan, Mozambique and Myanmar (17 countries)
 
 ---
 
