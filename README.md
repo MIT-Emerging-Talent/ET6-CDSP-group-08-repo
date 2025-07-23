@@ -279,12 +279,13 @@ We are **moderately confident** in the trends observed. Core patterns appear con
 - No modeling of lag effects between import and deployment.
 - Conflict phase definitions are simplified proxies.
 
-### Future Work
+<details><summary><b>Future work</b></summary><p>
 
 - Use maps or data showing how intense conflict is in different areas.
 - Study if there's a delay between importing equipment and solar growth.
 - Compare solar projects funded by aid vs. those driven by local markets.
 - Check the results against real project data or insights from local experts.
+</p></details>
 
 For more details, assumptions and limitations refer to [/4_data_analysis](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis) including all scripts, visualizations, technical methodology, and a non-technical summary of our findings, confidence levels, and limitations. 
 
