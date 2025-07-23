@@ -2,7 +2,7 @@
 
 ## Background Review
 
-<!-- markdownlint-disable MD031 MD033 MD035 MD032 MD004 MD009 MD013 MD045 MD024 -->
+<!-- markdownlint-disable MD012 MD031 MD033 MD035 MD032 MD004 MD009 MD013 MD045 MD024 -->
 
 ### The Role of Solar Energy in Humanitarian and Conflict-Affected Contexts
 
