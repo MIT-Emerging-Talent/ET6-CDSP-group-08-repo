@@ -108,3 +108,27 @@ Just had a call with Evan that clarified a lot of questions and confusions
 - add more data to help make accurate analysis
 - Removed unnecessary or duplicate steps that didn’t align with the main analysis
    goals.
+
+### Mohamed Altayeb
+
+#### **What Went Well**
+
+- Had a better understanding of the difference between data exploration and
+  data analysis.
+- Gained more experience with working with Jupyter Notebooks.
+
+#### **What Didn’t Go as Planned**
+
+- Ongoing power blackout prevented me from properly contributing to the work
+  this milestone>
+- I wasn't able to do a deep enough analysis
+  as I initially desired because of the time limitation and the power situation.
+- I had to include only 4 countries in my analysis during the time frame
+   of this milestone.
+
+#### Did You Need to Add Things That Weren’t In Your Strategy? Or Remove Extra Steps?
+
+- Divided the tasks based on analytical questions rather than data sets.
+  This enabled us to work more individually and combine our results later.
+- I had to reduce the complexity and scope of my analysis to
+  comply with the time constrain.
