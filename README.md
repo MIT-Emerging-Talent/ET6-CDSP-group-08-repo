@@ -2,7 +2,7 @@
 <!-- markdownlint-disable MD031 MD033 MD004 MD009 MD013 MD045 MD041 MD032 MD039 MD019 MD012-->
 
 
-<!-- markdownlint-disable MD031 MD033 MD004 MD009 MD013 MD045 MD001 -->
+<!-- markdownlint-disable MD031 MD033 MD004 MD001 MD009 MD013 MD045 MD001 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=40&duration=4963&pause=1000&color=2A5FAC&vCenter=true&repeat=false&width=650&height=40&lines=Solar+Energy+in+Conflict+Zones)](https://git.io/typing-svg)
 
 
@@ -191,7 +191,7 @@ At the center of it all is **solar energy** — not just as a clean tech solutio
 </details>
 
 **How We Modeled the Research Question with Data?**  
-We explored how conflict impacts the development and trade of solar energy by combining capacity, off-grid, and trade data with conflict classifications. Countries were categorized by conflict phase (pre-conflict, active-conflict, post-conflict), and we tracked solar adoption trends across these phases using time-series and geospatial analysis.
+We explored how conflict impacts the development and trade of solar energy by combining capacity, off-grid, and trade data with conflict classifications. Countries were categorized by conflict phase (pre-conflict, active-conflict, post-conflict), durations of conflict and we tracked solar adoption trends across these phases using time-series and geospatial analysis.
 
 ### [Data Sets](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/README.md)
 
@@ -208,7 +208,6 @@ Captures international trade in solar panels and related equipment.
 
 <details>
 <summary><strong>Data Preparation</strong></summary>
-#### Data Preparation Process
  
 - **Timeframe filtered:**  
   All datasets were limited to **2000–2024**.
@@ -217,10 +216,9 @@ Captures international trade in solar panels and related equipment.
   Countries were tagged by their **conflict phase** (pre-, active-, post-conflict).
 
 - **Cleaning steps included:**  
-  - Removing irrelevant or non-solar data  
+  - Removing irrelevant or non-solar data  for some datasets
   - Handling missing values (e.g., mean imputation)  
   - Renaming columns for consistency  
-  - Filtering for solar technologies only
 
 
 </details>
@@ -228,7 +226,8 @@ Captures international trade in solar panels and related equipment.
 <details>
 <summary><strong>Data Exploration</strong></summary>
 
-Initial data exploration, visualization, and descriptive statistics were performed on the cleaned datasets to understand their characteristics, distributions, and potential relationships. This process, fully documented within the `3_data_exploration/` directory, helped us:
+Initial data exploration, visualization, and descriptive statistics were performed on the cleaned datasets to understand their characteristics, distributions, and potential relationships.   
+This process, fully documented within the `3_data_exploration/` directory, helped us:
 
 - Gain foundational insights into _data quality_  
 - Identify preliminary patterns  
@@ -248,18 +247,17 @@ It investigates how solar energy deployment changes across different **phases of
 <details>
 <summary><strong>Analytical Questions</strong></summary>
 
-> [**Q1.  What are the trends in solar energy adoption across the full conflict cycle—pre-conflict, active conflict, and post-conflict periods—in conflict-affected countries?**](4_data_analysis\phases_analysis)  
+> [**Q1.  What are the trends in solar energy adoption across the full conflict cycle—pre-conflict, active conflict, and post-conflict periods—in conflict-affected countries?**](4_data_analysis/phases_analysis)  
 >
-> [**Q2.  To what extent are these datasets comparable, and what differences, if any, exist in what they measure?**](4_data_analysis\comparison_analysis)
+> [**Q2.  To what extent are these datasets comparable, and what differences, if any, exist in what they measure?**](4_data_analysis/data_comparison_analysis)
 >
-> [**Q3.  What is the effect of conflict duration (continuous vs. periodical or no conflict) on the adoption of solar energy technologies?**](4_data_analysis\Conflict_Duration_Analysis)
+> [**Q3.  What is the effect of conflict duration (continuous vs. periodical or no conflict) on the adoption of solar energy technologies?**](4_data_analysis/duration_analysis)
 >
-> [**Q4.  What are the environmental and social impact in conflict-affected countries?**](4_data_analysis)
+> **Q4.  What are the environmental and social impact in conflict-affected countries?**
 </details>
 
 ### Key Insights
-Conflict periods are often associated with increased solar energy adoption — but this relationship is **indicative, not causal**. 
-
+Conflict periods are often associated with increased solar energy adoption..
 - Conflict does not automatically suppress development — **windows of opportunity** can exist even in fragile settings.
 - **Recovery capacity** varies widely; some countries rebound with aid or reform, others remain paralyzed.
 - Strategic, resilient infrastructure development is possible — but often hinges on **timing, governance, and stability**.
@@ -281,8 +279,6 @@ We are **moderately confident** in the trends observed. Core patterns appear con
 - No modeling of lag effects between import and deployment.
 - Conflict phase definitions are simplified proxies.
 
-[Full list of assumptions and limitations](..\4_data_analysis\README.md)
-
 ### Future Work
 
 - Use maps or data showing how intense conflict is in different areas.
@@ -290,7 +286,7 @@ We are **moderately confident** in the trends observed. Core patterns appear con
 - Compare solar projects funded by aid vs. those driven by local markets.
 - Check the results against real project data or insights from local experts.
 
-For more details refer to [/4_data_analysis](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis) including all scripts, visualizations, technical methodology, and a non-technical summary of our findings, confidence levels, and limitations. 
+For more details, assumptions and limitations refer to [/4_data_analysis](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis) including all scripts, visualizations, technical methodology, and a non-technical summary of our findings, confidence levels, and limitations. 
 
 
 
