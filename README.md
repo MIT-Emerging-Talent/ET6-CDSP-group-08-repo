@@ -356,11 +356,6 @@ _Who's behind all this? Meet the passionate minds Github driving this project:_
 
  To set up the project locally and understand our contribution guidelines, please see our [CONTRIBUTING.md](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/CONTRIBUTING.md) file.
 
-##  [Notes](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/notes)
-
-This is a work in progress. More updates and details will be added soon to
-this readme. Stay tuned!
-
 ## [License](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/LICENSE)
 
 This project is licensed under the MIT License -
