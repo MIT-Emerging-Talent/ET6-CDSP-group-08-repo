@@ -99,7 +99,7 @@ and household consumption of solar photovoltaic systems in conflict‐affected c
 
 ## Project Scope
 
-- **Time Period:** 10 years
+- **Time Period:** 25 years
 - **Renewable Energy Theme:** Solar Energy
 
   _Why Solar Energy?_
@@ -113,7 +113,9 @@ and household consumption of solar photovoltaic systems in conflict‐affected c
   - **High Impact:** Enhances resilience, reduces emissions,
      and improves daily life in conflict zones.
 
-- **Regions:** Sudan, Syria, Ukraine, Gaza
+- **Regions:** Syria, Iraq, Sudan, South Sudan, Palestine, Mali, Ethiopia,
+  Ukraine, Yemen, Libya, Afghanistan, Nigeria, Central African Republic,
+  Somalia,Pakistan, Mozambique and Myanmar (17 countries)
 
 ---
 
