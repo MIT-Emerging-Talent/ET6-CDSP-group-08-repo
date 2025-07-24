@@ -125,8 +125,13 @@
   },
   "cSpell.words": [
     "Altayeb",
+    "comtrade",
     "Ermishina",
+    "figsize",
     "Mariia",
     "Saeed"
+  ],
+  "powerquery.client.additionalSymbolsDirectories": [
+    "c:/Users/Lenovo/AHD MIT/ET6-CDSP-group-08-repo-4/.vscode/excel-pq-symbols"
   ]
 }
