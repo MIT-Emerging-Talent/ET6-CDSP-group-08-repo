@@ -259,9 +259,9 @@ It investigates how solar energy deployment changes across different **phases of
 
 ### Key Insights
 Conflict periods are often associated with increased solar energy adoption..
-- Conflict does not automatically suppress development — **windows of opportunity** can exist even in fragile settings.
+- Conflict does not automatically suppress development; as **windows of opportunity** can exist even in fragile settings.
 - **Recovery capacity** varies widely; some countries rebound with aid or reform, others remain paralyzed.
-- Strategic, resilient infrastructure development is possible — but often hinges on **timing, governance, and stability**.
+- Strategic, resilient infrastructure development is possible, but often hinges on **timing, governance, and stability**.
 
 ### Key Conclusions
 
