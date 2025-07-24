@@ -248,12 +248,11 @@ It investigates how solar energy deployment changes across different **phases of
 <details>
 <summary><strong>Analytical Questions</strong></summary>
 
-
-> [**Q1.  What are the trends in solar energy adoption across the full conflict cycle—pre-conflict, active conflict, and post-conflict periods—in conflict-affected countries?**](4_data_analysis/phases_analysis)  
+> [**Q1.  What are the trends in solar energy adoption across the full conflict cycle—pre-conflict, active conflict, and post-conflict periods—in conflict-affected countries?**](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis/phases_analysis)  
 >
-> [**Q2.  To what extent are these datasets comparable, and what differences, if any, exist in what they measure?**](4_data_analysis/data_comparison_analysis)
+> [**Q2.  To what extent are these datasets comparable, and what differences, if any, exist in what they measure?**](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis/data_comparison_analysis)
 >
-> [**Q3.  What is the effect of conflict duration (continuous vs. periodical or no conflict) on the adoption of solar energy technologies?**](4_data_analysis/duration_analysis)
+> [**Q3.  What is the effect of conflict duration (continuous vs. periodical or no conflict) on the adoption of solar energy technologies?**](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis/duration_analysis)
 >
 > **Q4.  What are the environmental and social impact in conflict-affected countries?**
 </details>
