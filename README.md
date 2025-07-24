@@ -245,16 +245,18 @@ For more details refer to [/2_data_preparation](https://github.com/MIT-Emerging-
 It investigates how solar energy deployment changes across different **phases of conflict, economic statuses, duration, technology types and both environmental and social impact** in different conflict-affected countries ( 2000–2024 ); using IRENA and UN Comtrade datasets, analyzing on-grid/off-grid capacity, import trends, and conflict timelines.
 
 
+
 <details>
 <summary><strong>Analytical Questions</strong></summary>
 
-> [**Q1.  What are the trends in solar energy adoption across the full conflict cycle—pre-conflict, active conflict, and post-conflict periods—in conflict-affected countries?**](4_data_analysis\phases_analysis)  
+<<<<<<< update_the_main_readme
+> [**Q1.  What are the trends in solar energy adoption across the full conflict cycle—pre-conflict, active conflict, and post-conflict periods—in conflict-affected countries?**](4_data_analysis/phases_analysis)  
 >
-> [**Q2.  To what extent are these datasets comparable, and what differences, if any, exist in what they measure?**](4_data_analysis\comparison_analysis)
+> [**Q2.  To what extent are these datasets comparable, and what differences, if any, exist in what they measure?**](4_data_analysis/data_comparison_analysis)
 >
-> [**Q3.  What is the effect of conflict duration (continuous vs. periodical or no conflict) on the adoption of solar energy technologies?**](4_data_analysis\Conflict_Duration_Analysis)
+> [**Q3.  What is the effect of conflict duration (continuous vs. periodical or no conflict) on the adoption of solar energy technologies?**](4_data_analysis/duration_analysis)
 >
-> [**Q4.  What are the environmental and social impact in conflict-affected countries?**](4_data_analysis)
+> **Q4.  What are the environmental and social impact in conflict-affected countries?**
 </details>
 
 ### Key Insights
