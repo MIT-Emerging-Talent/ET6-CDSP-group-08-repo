@@ -243,6 +243,15 @@ For more details refer to [/2_data_preparation](https://github.com/MIT-Emerging-
 
 It investigates how solar energy deployment changes across different **phases of conflict, economic statuses, duration, technology types and both environmental and social impact** in different conflict-affected countries ( 2000–2024 ); using IRENA and UN Comtrade datasets, analyzing on-grid/off-grid capacity, import trends, and conflict timelines.
 
+<details>
+<summary><strong>Key Insights</strong></summary>
+
+Conflict periods are often associated with increased solar energy adoption..
+- Conflict does not automatically suppress development; as **windows of opportunity** can exist even in fragile settings.
+- **Recovery capacity** varies widely; some countries rebound with aid or reform, others remain paralyzed.
+- Strategic, resilient infrastructure development is possible, but often hinges on **timing, governance, and stability**.
+
+</details>
 
 #### Analytical Questions
 
@@ -289,16 +298,6 @@ In Sudan (2010–2023), off-grid solar deployment rises steadily, unlike on-grid
 
 
 </details>
-</details>
-
-<details>
-<summary><strong>Key Insights</strong></summary>
-
-Conflict periods are often associated with increased solar energy adoption..
-- Conflict does not automatically suppress development; as **windows of opportunity** can exist even in fragile settings.
-- **Recovery capacity** varies widely; some countries rebound with aid or reform, others remain paralyzed.
-- Strategic, resilient infrastructure development is possible, but often hinges on **timing, governance, and stability**.
-
 </details>
 
 ### Key Conclusions
