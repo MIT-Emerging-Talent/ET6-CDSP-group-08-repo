@@ -302,10 +302,6 @@ In Sudan (2010–2023), off-grid solar deployment rises steadily, unlike on-grid
 - Periodic conflict allows intermittent adoption.
 - No conflict enables stable, policy-led growth.
 
-**Country Insights:**
-- Ukraine maintained solar imports during war—driven by aid and resilience efforts.
-- Sudan showed early promise pre-2018, but recent data is lacking.
-- Germany exemplifies stable, policy-driven solar investment.
 
 </details>
 
