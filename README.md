@@ -244,24 +244,50 @@ For more details refer to [/2_data_preparation](https://github.com/MIT-Emerging-
 It investigates how solar energy deployment changes across different **phases of conflict, economic statuses, duration, technology types and both environmental and social impact** in different conflict-affected countries ( 2000–2024 ); using IRENA and UN Comtrade datasets, analyzing on-grid/off-grid capacity, import trends, and conflict timelines.
 
 
+#### Analytical Questions
 
-<details>
-<summary><strong>Analytical Questions</strong></summary>
+> [**Q1.  What are the trends in solar energy adoption across the conflict cycle—pre-conflict, active conflict, and post-conflict periods—in 9 conflict-affected countries?**](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis/phases_analysis)  
+>
+<details><summary><b>Overall Pattern</b></summary><p>
 
-> [**Q1.  What are the trends in solar energy adoption across the full conflict cycle—pre-conflict, active conflict, and post-conflict periods—in conflict-affected countries?**](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis/phases_analysis)  
->
-> [**Q2.  To what extent are these datasets comparable, and what differences, if any, exist in what they measure?**](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis/data_comparison_analysis)
->
-> [**Q3.  What is the effect of conflict duration (continuous vs. periodical or no conflict) on the adoption of solar energy technologies?**](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis/duration_analysis)
->
-> **Q4.  What are the environmental and social impact in conflict-affected countries?**
+- **Consistent Growth** :  Steady investment even during conflict _(e.g., Iraq, Afghanistan)._
+- **Conflict-Driven Surge** : Solar peaked during conflict, then declined _(e.g., Ukraine, Sudan)._
+- **Post-Conflict Recovery**: Modest growth after conflict _(e.g., Ethiopia, Libya)._
+- **Stalled Development** : Little to no progress due to prolonged instability _(no clear cases, but Libya and South Sudan came close)._
 </details>
 
-### Key Insights
+![Solar Adoption barchart](4_data_analysis/output_graphs/Average%20Solar%20PV%20Capacity%20by%20Conflict%20Phase%20per%20country-%20stacked%20barchart.png) 
+
+>[**Q2.  To what extent are these datasets comparable, and what differences, if any, exist in what they measure?**](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis/data_comparison_analysis)  
+ <details><summary><b>Overall Pattern</b></summary><p>
+
+
+</details>
+ 
+<table>
+  <tr>
+    <td><img src="4_data_analysis/output_graphs/Sudan-%20Normalized%20Off-Grid%20Solar%20vs%20Ongrid%20Solar.png" alt="Sudan- OffGrid vs OnGrid" width="400"/></td>
+    <td><img src="4_data_analysis/output_graphs/Ukraine-%20Normalized%20Imports%20vs%20Ongrid%20Solar.png" alt="Ukraine- Imports vs Ongrid" width="400"/></td>
+  </tr>
+  <tr>
+</table>
+
+
+> [**Q3.  What is the effect of conflict duration (continuous vs. periodical or no conflict) on the adoption of solar energy technologies?**](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis/duration_analysis)
+ <details><summary><b>Overall Pattern</b></summary><p>
+
+
+</details>
+</details>
+
+<details>
+<summary><strong>Key Insights</strong></summary>
 Conflict periods are often associated with increased solar energy adoption..
 - Conflict does not automatically suppress development; as **windows of opportunity** can exist even in fragile settings.
 - **Recovery capacity** varies widely; some countries rebound with aid or reform, others remain paralyzed.
 - Strategic, resilient infrastructure development is possible, but often hinges on **timing, governance, and stability**.
+
+</details>
 
 ### Key Conclusions
 
