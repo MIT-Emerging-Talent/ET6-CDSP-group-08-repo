@@ -250,7 +250,8 @@ Conflict periods are often associated with increased solar energy adoption..
 - Conflict does not automatically suppress development; as **windows of opportunity** can exist even in fragile settings.
 - **Recovery capacity** varies widely; some countries rebound with aid or reform, others remain paralyzed.
 - Strategic, resilient infrastructure development is possible, but often hinges on **timing, governance, and stability**.
-
+- - Three-way link between **conflict duration, economic status, and solar adoption**—where _conflict increases the need, GDP shapes capacity, and policy ensures sustainability_
+  
 </details>
 
 #### Analytical Questions
@@ -296,8 +297,30 @@ In Sudan (2010–2023), off-grid solar deployment rises steadily, unlike on-grid
 > [**Q3.  What is the effect of conflict duration (continuous vs. periodical or no conflict) on the adoption of solar energy technologies?**](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis/duration_analysis)
  <details><summary><b>Overall Pattern</b></summary><p>
 
+**Solar adoption varies by conflict context:**
+- Continuous conflict triggers emergency-driven import spikes.
+- Periodic conflict allows intermittent adoption.
+- No conflict enables stable, policy-led growth.
+
+**Country Insights:**
+- Ukraine maintained solar imports during war—driven by aid and resilience efforts.
+- Sudan showed early promise pre-2018, but recent data is lacking.
+- Germany exemplifies stable, policy-driven solar investment.
 
 </details>
+
+<table>
+  <tr>
+    <td>
+      <img src="4_data_analysis/output_graphs/Solar%20Product%20Mix%20by%20Conflict%20Geoup%20(%25).png" width="700"/>
+    </td>
+    <td>
+      <img src="4_data_analysis/output_graphs/Solar%20Product%20Imports%20over%20time%20by%20Conflct%20Group.png" width="600"/>
+    </td>
+  </tr>
+</table>
+
+
 </details>
 
 ### Key Conclusions
