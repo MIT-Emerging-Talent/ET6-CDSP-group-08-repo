@@ -269,6 +269,8 @@ It investigates how solar energy deployment changes across different **phases of
 **_Grid power came first:_** By 2018, on-grid non-solar power reached full capacity, mainly from hydropower and thermal sources like the Merowe and Roseires Dams.  
 **_Solar followed slowly:_** Off-grid solar expanded gradually, reaching capacity by 2021 amid post-2019 instability and weak rural infrastructure.  
 
+In Sudan (2010–2023), off-grid solar deployment rises steadily, unlike on-grid deployment, which increases sporadically—likely tied to major government projects. Off-grid growth stagnates in 2022–2023, possibly due to missing data. The dataset likely fails to capture actual declines, especially for on-grid deployment, limiting the accuracy of year-to-year comparisons in the later period.
+
 **On Ukraine:**  
 **Moderate correlation** (r = 0.343); Imports typically occur in short bursts, followed by gradual deployment increases, especially between 2014–2019. Post-2019 declines in imports and 2024 deployment drops likely reflect conflict impacts. 
 </details>
