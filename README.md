@@ -200,7 +200,7 @@ A detailed description of each dataset, including collection methods, potential 
     - **[Raw: Off-grid Renewable Energy Statistics 2024](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/IRENA_OFGStats.raw.xlsx)** to _[Cleaned: Off-grid](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/2_data_preparation/IRENA_OFG_cleaned.ipynb)_  
  Tracks solar and renewable electricity generation across countries and years.
     - **[Raw: On-grid Renewable Energy Statistics 2024](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/IRENA_Stats_extract_2025_H1_raw.xlsx)** to _[Cleaned: On-grid](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/2_data_preparation/IRENA_ONG_cleaned.ipynb)_  
-Focuses on decentralized solar systems (e.g., mini-grids and solar home systems), crucial for conflict-affected areas.
+Focuses on decentralized solar systems, crucial for conflict-affected areas.
 
 2. **UN Comtrade:** Offering detailed trade data on solar-related products (e.g., panels, inverters), crucial for understanding import trends in conflict zones.
     - **[Raw: UN Comtrade data](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/UN_Comtrade_imports_dataset_raw.xlsx)** to _[Cleaned: UN Comtrade](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/2_data_preparation/UN_comtrade_data_cleaning.ipynb)_  
@@ -261,13 +261,18 @@ It investigates how solar energy deployment changes across different **phases of
 >[**Q2.  To what extent are these datasets comparable, and what differences, if any, exist in what they measure?**](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis/data_comparison_analysis)  
  <details><summary><b>Overall Pattern</b></summary><p>
 
+**On Sudan:**  
+**_Grid power came first:_** By 2018, on-grid non-solar power reached full capacity, mainly from hydropower and thermal sources like the Merowe and Roseires Dams.  
+**_Solar followed slowly:_** Off-grid solar expanded gradually, reaching capacity by 2021 amid post-2019 instability and weak rural infrastructure.  
 
+**On Ukraine:**  
+Imports and On-Grid is **inverse relationship** - when imports are high, solar is low, and when imports are low, solar is high. This suggests Ukraine uses **solar power as a substitute for imported energy,** likely switching between them based on availability, cost, or external factors (like trade disruptions).
 </details>
  
 <table>
   <tr>
-    <td><img src="4_data_analysis/output_graphs/Sudan-%20Normalized%20Off-Grid%20Solar%20vs%20Ongrid%20Solar.png" alt="Sudan- OffGrid vs OnGrid" width="400"/></td>
-    <td><img src="4_data_analysis/output_graphs/Ukraine-%20Normalized%20Imports%20vs%20Ongrid%20Solar.png" alt="Ukraine- Imports vs Ongrid" width="400"/></td>
+    <td><img src="4_data_analysis/output_graphs/Sudan-%20Normalized%20Off-Grid%20Solar%20vs%20Ongrid%20Solar.png" alt="Sudan- OffGrid vs OnGrid" width="500"/></td>
+    <td><img src="4_data_analysis/output_graphs/Ukraine-%20Normalized%20Imports%20vs%20Ongrid%20Solar.png" alt="Ukraine- Imports vs Ongrid" width=600"/></td>
   </tr>
   <tr>
 </table>
@@ -282,6 +287,7 @@ It investigates how solar energy deployment changes across different **phases of
 
 <details>
 <summary><strong>Key Insights</strong></summary>
+
 Conflict periods are often associated with increased solar energy adoption..
 - Conflict does not automatically suppress development; as **windows of opportunity** can exist even in fragile settings.
 - **Recovery capacity** varies widely; some countries rebound with aid or reform, others remain paralyzed.
