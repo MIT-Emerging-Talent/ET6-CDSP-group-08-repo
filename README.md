@@ -250,10 +250,14 @@ It investigates how solar energy deployment changes across different **phases of
 >
 <details><summary><b>Overall Pattern</b></summary><p>
 
-- **Consistent Growth** :  Steady investment even during conflict _(e.g., Iraq, Afghanistan)._
-- **Conflict-Driven Surge** : Solar peaked during conflict, then declined _(e.g., Ukraine, Sudan)._
-- **Post-Conflict Recovery**: Modest growth after conflict _(e.g., Ethiopia, Libya)._
-- **Stalled Development** : Little to no progress due to prolonged instability _(no clear cases, but Libya and South Sudan came close)._
+| Pattern Type               | Description                                                                                        | Countries                                                                                  |
+| -------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| **Consistent Growth**      | Countries that sustained or increased solar investment during both active and post-conflict phases | **Iraq**, **Afghanistan**, **South Sudan**                                                 |
+| **Conflict-Driven Surge**  | Countries where solar adoption peaked **during** conflict but dropped or stopped **after**         | **Ukraine**, **Yemen**, **Sudan**, **Syria**                                               |
+| **Post-Conflict Recovery** | Countries with **low or moderate** solar growth during conflict, but **modest recovery afterward** | **Ethiopia**, **Libya**                                                                    |
+| **Stalled Development**    | Countries with **low or no adoption** in both periods, often due to prolonged instability          | **None fully fit this**, but **Libya** and **South Sudan** were on the borderline early on |
+
+
 </details>
 
 ![Solar Adoption barchart](4_data_analysis/output_graphs/Average%20Solar%20PV%20Capacity%20by%20Conflict%20Phase%20per%20country-%20stacked%20barchart.png) 
@@ -266,7 +270,7 @@ It investigates how solar energy deployment changes across different **phases of
 **_Solar followed slowly:_** Off-grid solar expanded gradually, reaching capacity by 2021 amid post-2019 instability and weak rural infrastructure.  
 
 **On Ukraine:**  
-Imports and On-Grid is **inverse relationship** - when imports are high, solar is low, and when imports are low, solar is high. This suggests Ukraine uses **solar power as a substitute for imported energy,** likely switching between them based on availability, cost, or external factors (like trade disruptions).
+**Moderate correlation** (r = 0.343); Imports typically occur in short bursts, followed by gradual deployment increases, especially between 2014–2019. Post-2019 declines in imports and 2024 deployment drops likely reflect conflict impacts. 
 </details>
  
 <table>
