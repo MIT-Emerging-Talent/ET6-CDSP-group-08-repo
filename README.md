@@ -200,7 +200,7 @@ A detailed description of each dataset, including collection methods, potential 
     - **[Raw: Off-grid Renewable Energy Statistics 2024](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/IRENA_OFGStats.raw.xlsx)** to _[Cleaned: Off-grid](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/2_data_preparation/IRENA_OFG_cleaned.ipynb)_  
  Tracks solar and renewable electricity generation across countries and years.
     - **[Raw: On-grid Renewable Energy Statistics 2024](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/IRENA_Stats_extract_2025_H1_raw.xlsx)** to _[Cleaned: On-grid](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/2_data_preparation/IRENA_ONG_cleaned.ipynb)_  
-Focuses on decentralized solar systems (e.g., mini-grids and solar home systems), crucial for conflict-affected areas.
+Focuses on decentralized solar systems, crucial for conflict-affected areas.
 
 2. **UN Comtrade:** Offering detailed trade data on solar-related products (e.g., panels, inverters), crucial for understanding import trends in conflict zones.
     - **[Raw: UN Comtrade data](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/UN_Comtrade_imports_dataset_raw.xlsx)** to _[Cleaned: UN Comtrade](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/2_data_preparation/UN_comtrade_data_cleaning.ipynb)_  
@@ -243,25 +243,81 @@ For more details refer to [/2_data_preparation](https://github.com/MIT-Emerging-
 
 It investigates how solar energy deployment changes across different **phases of conflict, economic statuses, duration, technology types and both environmental and social impact** in different conflict-affected countries ( 2000–2024 ); using IRENA and UN Comtrade datasets, analyzing on-grid/off-grid capacity, import trends, and conflict timelines.
 
-
-
 <details>
-<summary><strong>Analytical Questions</strong></summary>
+<summary><strong>Key Insights</strong></summary>
 
-> [**Q1.  What are the trends in solar energy adoption across the full conflict cycle—pre-conflict, active conflict, and post-conflict periods—in conflict-affected countries?**](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis/phases_analysis)  
->
-> [**Q2.  To what extent are these datasets comparable, and what differences, if any, exist in what they measure?**](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis/data_comparison_analysis)
->
-> [**Q3.  What is the effect of conflict duration (continuous vs. periodical or no conflict) on the adoption of solar energy technologies?**](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis/duration_analysis)
->
-> **Q4.  What are the environmental and social impact in conflict-affected countries?**
-</details>
-
-### Key Insights
 Conflict periods are often associated with increased solar energy adoption..
 - Conflict does not automatically suppress development; as **windows of opportunity** can exist even in fragile settings.
 - **Recovery capacity** varies widely; some countries rebound with aid or reform, others remain paralyzed.
 - Strategic, resilient infrastructure development is possible, but often hinges on **timing, governance, and stability**.
+- - Three-way link between **conflict duration, economic status, and solar adoption**—where _conflict increases the need, GDP shapes capacity, and policy ensures sustainability_
+  
+</details>
+
+#### Analytical Questions
+
+> [**Q1.  What are the trends in solar energy adoption across the conflict cycle—pre-conflict, active conflict, and post-conflict periods—in 9 conflict-affected countries?**](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis/phases_analysis)  
+>
+<details><summary><b>Overall Pattern</b></summary><p>
+
+| Pattern Type               | Description                                                                                        | Countries                                                                                  |
+| -------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| **Consistent Growth**      | Countries that sustained or increased solar investment during both active and post-conflict phases | **Iraq**, **Afghanistan**, **South Sudan**                                                 |
+| **Conflict-Driven Surge**  | Countries where solar adoption peaked **during** conflict but dropped or stopped **after**         | **Ukraine**, **Yemen**, **Sudan**, **Syria**                                               |
+| **Post-Conflict Recovery** | Countries with **low or moderate** solar growth during conflict, but **modest recovery afterward** | **Ethiopia**, **Libya**                                                                    |
+| **Stalled Development**    | Countries with **low or no adoption** in both periods, often due to prolonged instability          | **None fully fit this**, but **Libya** and **South Sudan** were on the borderline early on |
+
+
+</details>
+
+![Solar Adoption barchart](4_data_analysis/output_graphs/Average%20Solar%20PV%20Capacity%20by%20Conflict%20Phase%20per%20country-%20stacked%20barchart.png) 
+
+>[**Q2.  To what extent are these datasets comparable, and what differences, if any, exist in what they measure?**](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis/data_comparison_analysis)  
+ <details><summary><b>Overall Pattern</b></summary><p>
+
+**On Sudan:**  
+**_Grid power came first:_** By 2018, on-grid non-solar power reached full capacity, mainly from hydropower and thermal sources like the Merowe and Roseires Dams.  
+**_Solar followed slowly:_** Off-grid solar expanded gradually, reaching capacity by 2021 amid post-2019 instability and weak rural infrastructure.  
+
+In Sudan (2010–2023), off-grid solar deployment rises steadily, unlike on-grid deployment, which increases sporadically—likely tied to major government projects. Off-grid growth stagnates in 2022–2023, possibly due to missing data. The dataset likely fails to capture actual declines, especially for on-grid deployment, limiting the accuracy of year-to-year comparisons in the later period.
+
+**On Ukraine:**  
+**Moderate correlation** (r = 0.343); Imports typically occur in short bursts, followed by gradual deployment increases, especially between 2014–2019. Post-2019 declines in imports and 2024 deployment drops likely reflect conflict impacts. 
+</details>
+ 
+<table>
+  <tr>
+    <td><img src="4_data_analysis/output_graphs/Sudan-%20Normalized%20Off-Grid%20Solar%20vs%20Ongrid%20Solar.png" alt="Sudan- OffGrid vs OnGrid" width="500"/></td>
+    <td><img src="4_data_analysis/output_graphs/Ukraine-%20Normalized%20Imports%20vs%20Ongrid%20Solar.png" alt="Ukraine- Imports vs Ongrid" width=600"/></td>
+  </tr>
+  <tr>
+</table>
+
+
+> [**Q3.  What is the effect of conflict duration (continuous vs. periodical or no conflict) on the adoption of solar energy technologies?**](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis/duration_analysis)
+ <details><summary><b>Overall Pattern</b></summary><p>
+
+**Solar adoption varies by conflict context:**
+- Continuous conflict triggers emergency-driven import spikes.
+- Periodic conflict allows intermittent adoption.
+- No conflict enables stable, policy-led growth.
+
+
+</details>
+
+<table>
+  <tr>
+    <td>
+      <img src="4_data_analysis/output_graphs/Solar%20Product%20Mix%20by%20Conflict%20Geoup%20(%25).png" width="700"/>
+    </td>
+    <td>
+      <img src="4_data_analysis/output_graphs/Solar%20Product%20Imports%20over%20time%20by%20Conflct%20Group.png" width="600"/>
+    </td>
+  </tr>
+</table>
+
+
+</details>
 
 ### Key Conclusions
 
