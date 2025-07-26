@@ -58,7 +58,7 @@ Peer review next week.
 #### **Communicating Results**
 
 + Each member should propose a fully formatted:
-  + Answer questions on the previous meeting agenda
+  + Answer questions on the previous [meeting agenda](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/issues/111)
   on Slack about communicating results and do a
   small presentation about so we have alot of ideas
     + Target Audience
