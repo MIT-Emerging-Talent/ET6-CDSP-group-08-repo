@@ -263,9 +263,9 @@ All datasets were filtered to include only solar technologies (e.g., _“Solar p
 
 **Data Cleaning:**  
 
-- Country names and years standardized.  
-- Treating null and zero values.  
-- Added new columns to define conflict year status and GDP category.
+- Changed column names and removed unnecessary ones.
+- Treated null and zero values.
+- Added new columns to indicate conflict year status and GDP category.
 </details>
 
 <details>
