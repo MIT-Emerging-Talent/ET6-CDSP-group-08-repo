@@ -292,14 +292,8 @@ In Sudan (2010–2023), off-grid solar deployment rises steadily, unlike on-grid
 > 
  <details><summary><b>Overall Pattern</b></summary><p>
 
-- **Imports rise during conflicts** in countries like Syria, Yemen, and Ukraine, reflecting increased demand for alternative energy.  
-  _→ Conflict often damages centralized power grids, increasing reliance on imported solar products as emergency energy solutions._
-
 - **Conflict-period imports** often exceed pre- and post-conflict levels.  
   _→ During active conflict, demand for decentralized and backup power sources spikes, especially in humanitarian or survival contexts._
-
-- **Stable countries** show more **gradual and steady import growth**.  
-  _→ Without urgent disruption, energy transitions in stable countries tend to follow policy-driven, long-term investment plans._
 
 - **PV Modules** dominate overall imports.  
   _→ PV panels are the core component of solar systems, making them the foundation of any solar energy deployment strategy._
