@@ -154,7 +154,7 @@ To ground our data‑driven work in real‑world context, we've prepared a detai
 
 ### [Domain Modeling](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/non_tech_exp_of_domain_modeling.md)
 
-Imagine trying to understand how people survive in war-torn areas when the lights go out — literally. That’s where our project begins. We built something called a **domain model**, which is just a fancy way of saying: _"Let’s draw a simple map to make sense of a really messy situation."_
+Imagine trying to understand how people survive in war-torn areas when the lights go out — literally. That’s where our project begins.   
 
 At the center of it all is **solar energy** — not just as a clean tech solution, but as a **lifeline** when everything else fails. When power lines are bombed, families are displaced, and normal life disappears, solar can step in as **survival infrastructure** — helping people charge phones, power lights, and keep hospitals or schools running. We're looking at things like:
 
@@ -164,13 +164,6 @@ At the center of it all is **solar energy** — not just as a clean tech solutio
     <td><img src="https://raw.githubusercontent.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/1_datasets/1_datasets/images/2.png" width="300"/></td>
   </tr>
 </table>
-<details><summary><b>To understand how this all works, we looked at three big clues (datasets): </b></summary>
-
-
-- **On-Grid and Off-Grid Data** _tells us how traditional electricity drops off during conflict. It’s like tracking where the lights go out and shows how people start using solar systems when the grid fails — kind of like switching from the main power to a backup generator._
-- **Renewable and Non-Renewables** _helps us compare how energy use shifts in crisis: are countries using more solar or still relying on fossil fuels_
-- **UN Comtrade Data** _tracks the flow of solar equipment (like panels and batteries) into countries over time, revealing how conflict affects supply chains and access to solar tech._
-</details>
 
 <details><summary><b>Our domain model focuses on three main areas: </b></summary>
  
@@ -197,14 +190,11 @@ We explored how conflict impacts the development and trade of solar energy by co
 
 A detailed description of each dataset, including collection methods, potential limitations, and direct relevance to our problem, can be found in the Datasets Used section.
 1. **IRENA Renewable Energy Statistics:** Providing annual data on both off-grid and on-grid renewable energy capacity and generation worldwide.
-    - **[Raw: Off-grid Renewable Energy Statistics 2024](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/IRENA_OFGStats.raw.xlsx)** to _[Cleaned: Off-grid](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/2_data_preparation/IRENA_OFG_cleaned.ipynb)_  
- Tracks solar and renewable electricity generation across countries and years.
+    - **[Raw: Off-grid Renewable Energy Statistics 2024](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/IRENA_OFGStats.raw.xlsx)** to _[Cleaned: Off-grid](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/2_data_preparation/IRENA_OFG_cleaned.ipynb)_    
     - **[Raw: On-grid Renewable Energy Statistics 2024](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/IRENA_Stats_extract_2025_H1_raw.xlsx)** to _[Cleaned: On-grid](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/2_data_preparation/IRENA_ONG_cleaned.ipynb)_  
-Focuses on decentralized solar systems, crucial for conflict-affected areas.
 
 2. **UN Comtrade:** Offering detailed trade data on solar-related products (e.g., panels, inverters), crucial for understanding import trends in conflict zones.
     - **[Raw: UN Comtrade data](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/UN_Comtrade_imports_dataset_raw.xlsx)** to _[Cleaned: UN Comtrade](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/2_data_preparation/UN_comtrade_data_cleaning.ipynb)_  
-Captures international trade in solar panels and related equipment.
 
 <details>
 <summary><strong>Data Preparation</strong></summary>
@@ -269,6 +259,10 @@ Conflict periods are often associated with increased solar energy adoption..
 
 
 </details>
+<details><summary><b>Assumptions</b></summary><p>
+
+
+</details>
 
 ![Solar Adoption barchart](4_data_analysis/output_graphs/Average%20Solar%20PV%20Capacity%20by%20Conflict%20Phase%20per%20country-%20stacked%20barchart.png) 
 
@@ -283,8 +277,14 @@ In Sudan (2010–2023), off-grid solar deployment rises steadily, unlike on-grid
 
 **On Ukraine:**  
 **Moderate correlation** (r = 0.343); Imports typically occur in short bursts, followed by gradual deployment increases, especially between 2014–2019. Post-2019 declines in imports and 2024 deployment drops likely reflect conflict impacts. 
+
 </details>
- 
+ </details>
+<details><summary><b>Assumptions</b></summary><p>
+
+
+</details>
+
 <table>
   <tr>
     <td><img src="4_data_analysis/output_graphs/Sudan-%20Normalized%20Off-Grid%20Solar%20vs%20Ongrid%20Solar.png" alt="Sudan- OffGrid vs OnGrid" width="500"/></td>
@@ -304,11 +304,16 @@ In Sudan (2010–2023), off-grid solar deployment rises steadily, unlike on-grid
 
 
 </details>
+</details>
+<details><summary><b>Assumptions</b></summary><p>
+
+
+</details>
 
 <table>
   <tr>
     <td>
-      <img src="4_data_analysis/output_graphs/Solar%20Product%20Mix%20by%20Conflict%20Geoup%20(%25).png" width="700"/>
+       <img src="4_data_analysis/output_graphs/Solar%20Product%20Mix%20by%20Conflict%20Geoup%20(%25).png" width="700"/>
     </td>
     <td>
       <img src="4_data_analysis/output_graphs/Solar%20Product%20Imports%20over%20time%20by%20Conflct%20Group.png" width="600"/>
