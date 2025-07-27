@@ -237,18 +237,16 @@ Understanding trends in solar capacity deployment, trade patterns, and energy ac
 
 Investigating how solar energy deployment changes across different **phases of conflict, economic statuses, duration, technology types and both environmental and social impact** in different conflict-affected countries ( 2000–2024 ); using IRENA and UN Comtrade datasets, analyzing on-grid/off-grid capacity, import trends, and conflict timelines.
 
-<details>
-<summary><strong>Key Insights</strong></summary>
+#### Key Insights
 
 Conflict periods are often associated with increased solar energy adoption..
-- Conflict does not automatically suppress development; as **windows of opportunity** can exist even in fragile settings.
+- Conflict does not automatically suppress development; but as **windows of opportunity** existing even in fragile settings.
 - **Recovery capacity** varies widely; some countries rebound with aid or reform, others remain paralyzed.
 - Strategic, resilient infrastructure development is possible, but often hinges on **timing, governance, and stability**.
-- - Three-way link between **conflict duration, economic status, and solar adoption**—where _conflict increases the need, GDP shapes capacity, and policy ensures sustainability_
+- Three-way link between **conflict duration, economic status, and solar adoption**—where _conflict increases the need, GDP shapes capacity, and policy ensures sustainability_
   
-</details>
 
-#### Analytical Questions
+### Analytical Questions
 
 > [**Q1.  What are the trends in solar energy adoption across the conflict cycle—pre-conflict, active conflict, and post-conflict periods—in 9 conflict-affected countries?**](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis/phases_analysis)  
 >
@@ -263,10 +261,7 @@ Conflict periods are often associated with increased solar energy adoption..
 
 
 </details>
-<details><summary><b>Assumptions</b></summary><p>
 
-
-</details>
 
 ![Solar Adoption barchart](4_data_analysis/output_graphs/Average%20Solar%20PV%20Capacity%20by%20Conflict%20Phase%20per%20country-%20stacked%20barchart.png) 
 
@@ -283,11 +278,6 @@ In Sudan (2010–2023), off-grid solar deployment rises steadily, unlike on-grid
 **Moderate correlation** (r = 0.343); Imports typically occur in short bursts, followed by gradual deployment increases, especially between 2014–2019. Post-2019 declines in imports and 2024 deployment drops likely reflect conflict impacts. 
 
 </details>
- </details>
-<details><summary><b>Assumptions</b></summary><p>
-
-
-</details>
 
 <table>
   <tr>
@@ -299,20 +289,29 @@ In Sudan (2010–2023), off-grid solar deployment rises steadily, unlike on-grid
 
 
 > [**Q3.  What is the effect of conflict duration (continuous vs. periodical or no conflict) on the adoption of solar energy technologies?**](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis/duration_analysis)
+> 
  <details><summary><b>Overall Pattern</b></summary><p>
 
-**Solar adoption varies by conflict context:**
-- Continuous conflict triggers emergency-driven import spikes.
-- Periodic conflict allows intermittent adoption.
-- No conflict enables stable, policy-led growth.
+- **Imports rise during conflicts** in countries like Syria, Yemen, and Ukraine, reflecting increased demand for alternative energy.  
+  _→ Conflict often damages centralized power grids, increasing reliance on imported solar products as emergency energy solutions._
 
+- **Conflict-period imports** often exceed pre- and post-conflict levels.  
+  _→ During active conflict, demand for decentralized and backup power sources spikes, especially in humanitarian or survival contexts._
+
+- **Stable countries** show more **gradual and steady import growth**.  
+  _→ Without urgent disruption, energy transitions in stable countries tend to follow policy-driven, long-term investment plans._
+
+- **PV Modules** dominate overall imports.  
+  _→ PV panels are the core component of solar systems, making them the foundation of any solar energy deployment strategy._
+
+- **Solar Lamps** and **Lithium Batteries** have a **larger share during conflicts**, indicating a need for portable power.  
+  _→ In emergencies, small-scale, off-grid solutions are critical for lighting, communication, and basic household use — especially when grid access is unreliable._
+
+- **Inverters** and **Lead-Acid Batteries** maintain **smaller, steady shares**.  
+  _→ These components support more permanent solar setups, which are harder to install or maintain during unstable conditions._
 
 </details>
-</details>
-<details><summary><b>Assumptions</b></summary><p>
 
-
-</details>
 
 <table>
   <tr>
