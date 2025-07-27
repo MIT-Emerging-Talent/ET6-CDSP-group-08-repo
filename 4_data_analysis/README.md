@@ -317,25 +317,10 @@ Visualizations generated using `matplotlib` and `seaborn`, including line plots,
 <details>
 <summary><b>Key Findings & Summary</b></summary>
 
-**Import Value Trends:**  
-
-- Imports spike during conflict years in many conflict-affected countries.  
-- Conflict-period imports exceed pre/post-conflict periods for several
- countries.
-- Stable countries show steadier, slower growth in imports.
-
-**Product Mix Differences:**  
-
-- PV Modules dominate imports in both conflict and stable countries.  
-- During conflicts, Solar Lamps and Lithium Batteries have a larger share,
- reflecting urgent needs for portable power.  
-- Lead-Acid Batteries and Inverters maintain smaller shares overall.
-
-**Country Case Studies:**  
-
-- Syria and Yemen show notable import surges during conflict, especially for
-   portable products.  
-- Ukraine displays sustained import growth throughout conflict periods.
+- Solar imports tend to increase in periodical conflict countries rather than in continuous conflict countries.
+- Import patterns vary by economic status.
+- PV modules are the most imported solar product.
+- Conflict type, economy, and stability influence solar adoption.
 
 </details>
 
