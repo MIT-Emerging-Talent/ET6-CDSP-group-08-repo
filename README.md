@@ -217,30 +217,8 @@ A detailed description of each dataset, including collection methods, potential 
 <details>
 <summary><strong>Data Exploration</strong></summary>
 
-Understand trends in solar capacity deployment, trade patterns, and energy access in conflict-affected countries. The analysis revealed unexpected insights, such as rapid solar adoption in war zones and significant disparities between conflict and comparison countries. We visualized capacity growth, explored outliers, and identified key data limitations. While the datasets are valuable, a more complete picture requires integrating conflict timelines and socioeconomic indicators.
-
-
-#### Key EDA Highlights
-
-* **UN Comtrade Trade Data**
-
-  * Cleaned and analyzed imports of solar-related products by year and country.
-  * Visualized trade trends in Sudan, Palestine, and Ukraine.
-  * Found the dataset helpful but lacking conflict context; more event data is needed.
-
-* **On-Grid Solar Capacity**
-
-  * Analyzed trends from 2010–2024 for 9 conflict-affected countries.
-  * Surprising insight: Conflict zones often **leapfrog to solar**, bypassing traditional grids.
-  * Ukraine leads with 8,000+ MW capacity; Yemen and Sudan showed growth even during active conflict.
-  * Introduced conflict phase classification: pre-conflict, active, post-conflict.
-
-* **Off-Grid Solar Capacity**
-
-  * Explored energy access and technology mix by region and conflict status.
-  * Visualizations highlighted disparities and growth patterns in remote/conflict-affected areas.
-  * Revealed growing reliance on off-grid systems where on-grid is unviable.
-
+Understanding trends in solar capacity deployment, trade patterns, and energy access in conflict-affected countries.  
+ The analysis revealed unexpected insights, such as rapid solar adoption in war zones and significant disparities between conflict and comparison countries. We visualized capacity growth, explored outliers, and identified key data limitations. While the datasets are valuable, a more complete picture requires integrating conflict timelines and socioeconomic indicators.
 
 </details>
 
