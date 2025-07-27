@@ -16,7 +16,7 @@ We are a team united by _purpose and shaped by displacement_, using data science
  and visualization to explore how renewable energy, specifically **solar energy** (i.e. PV cells),
  serves as _critical survival infrastructure in conflict-affected communities_ worldwide.
 
-## [Domain Research & Background](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/0_domain_study/README.md)
+## [M1: Domain Research & Background](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/0_domain_study/README.md)
 
 > [Solar Energy acts as a vital **survival infrastructure** in conflict zones.](https://www.pv-tech.org/how-solar-can-bring-light-to-war-zones/)
 
@@ -98,7 +98,7 @@ affect three critical dimensions of solar deployment:
     households prioritize when energy becomes scarce and self-generated?</p></details>
 ---
 
-## [M1: Research Question & Objectives](0_domain_study/progress.md)
+## [Research Question & Objectives](0_domain_study/progress.md)
 
 ### Research Question
 
@@ -149,14 +149,13 @@ To ground our data‑driven work in real‑world context, we've prepared a detai
 * **Potential interventions** from distributed solar micro-grids to local maintenance commit
 
 
-> For more details refer to [0_domain_study](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/0_domain_studyn) keeping all our references, and more background studies.
+> For more details refer to [0_domain_study](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/0_domain_studyn) keeping more background studies, problem domain understanding and our process about how we reached our research question.
 > 
 <!-- markdownlint-disable MD031 MD033 MD013 MD001 MD04 MD045 MD049 MD041 MD022 MD042 MD018-->
 ---
 ## [M2: Data Collection](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/1_datasets)
 
 ### [Domain Modeling](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/non_tech_exp_of_domain_modeling.md)
-
 Imagine trying to understand how people survive in war-torn areas when the lights go out — literally. That’s where our project begins.   
 
 At the center of it all is **solar energy** — not just as a clean tech solution, but as a **lifeline** when everything else fails. When power lines are bombed, families are displaced, and normal life disappears, solar can step in as **survival infrastructure** — helping people charge phones, power lights, and keep hospitals or schools running. We're looking at things like:
@@ -186,17 +185,16 @@ At the center of it all is **solar energy** — not just as a clean tech solutio
 </table>
 </details>
 
-**How We Modeled the Research Question with Data?**  
-We explored how conflict impacts the development and trade of solar energy by combining capacity, off-grid, and trade data with conflict classifications. Countries were categorized by conflict phase (pre-conflict, active-conflict, post-conflict), durations of conflict and we tracked solar adoption trends across these phases using time-series and geospatial analysis.
 
 ### [Data Sets](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/README.md)
 
 A detailed description of each dataset, including collection methods, potential limitations, and direct relevance to our problem, can be found in the Datasets Used section.
-1. **IRENA Renewable Energy Statistics:** Providing annual data on both off-grid and on-grid renewable energy capacity and generation worldwide.
+1. **IRENA Renewable Energy Statistics:** Provides annual data on renewable energy capacity and generation, including both on-grid and off-grid solar PV deployment across countries and regions.
+
     - **[Raw: Off-grid Renewable Energy Statistics 2024](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/IRENA_OFGStats.raw.xlsx)** to _[Cleaned: Off-grid](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/2_data_preparation/IRENA_OFG_cleaned.ipynb)_    
     - **[Raw: On-grid Renewable Energy Statistics 2024](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/IRENA_Stats_extract_2025_H1_raw.xlsx)** to _[Cleaned: On-grid](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/2_data_preparation/IRENA_ONG_cleaned.ipynb)_  
 
-2. **UN Comtrade:** Offering detailed trade data on solar-related products (e.g., panels, inverters), crucial for understanding import trends in conflict zones.
+2. **UN Comtrade:** Offers detailed trade data on solar-related products (e.g., panels, inverters), crucial for understanding import trends in conflict zones.
     - **[Raw: UN Comtrade data](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/raw_data/UN_Comtrade_imports_dataset_raw.xlsx)** to _[Cleaned: UN Comtrade](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/2_data_preparation/UN_comtrade_data_cleaning.ipynb)_  
 
 <details>
@@ -205,12 +203,12 @@ A detailed description of each dataset, including collection methods, potential 
 - **Timeframe filtered:**  
   All datasets were limited to **2000–2024**.
 
-- **Conflict labels added:**  
+- **Conflict Status labels added:**  
   Countries were tagged by their **conflict phase** (pre-, active-, post-conflict).
 
 - **Cleaning steps included:**  
   - Removing irrelevant or non-solar data  for some datasets
-  - Handling missing values (e.g., mean imputation)  
+  - Handling missing values (e.g., zero or no data was covered)  
   - Renaming columns for consistency  
 
 
@@ -219,14 +217,39 @@ A detailed description of each dataset, including collection methods, potential 
 <details>
 <summary><strong>Data Exploration</strong></summary>
 
-Initial data exploration, visualization, and descriptive statistics were performed on the cleaned datasets to understand their characteristics, distributions, and potential relationships.   
-This process, fully documented within the `3_data_exploration/` directory, helped us:
+Understand trends in solar capacity deployment, trade patterns, and energy access in conflict-affected countries. The analysis revealed unexpected insights, such as rapid solar adoption in war zones and significant disparities between conflict and comparison countries. We visualized capacity growth, explored outliers, and identified key data limitations. While the datasets are valuable, a more complete picture requires integrating conflict timelines and socioeconomic indicators.
 
-- Gain foundational insights into _data quality_  
-- Identify preliminary patterns  
-- Guide subsequent analytical steps for addressing our research question
+
+#### Key EDA Highlights
+
+* **UN Comtrade Trade Data**
+
+  * Cleaned and analyzed imports of solar-related products by year and country.
+  * Visualized trade trends in Sudan, Palestine, and Ukraine.
+  * Found the dataset helpful but lacking conflict context; more event data is needed.
+
+* **On-Grid Solar Capacity**
+
+  * Analyzed trends from 2010–2024 for 9 conflict-affected countries.
+  * Surprising insight: Conflict zones often **leapfrog to solar**, bypassing traditional grids.
+  * Ukraine leads with 8,000+ MW capacity; Yemen and Sudan showed growth even during active conflict.
+  * Introduced conflict phase classification: pre-conflict, active, post-conflict.
+
+* **Off-Grid Solar Capacity**
+
+  * Explored energy access and technology mix by region and conflict status.
+  * Visualizations highlighted disparities and growth patterns in remote/conflict-affected areas.
+  * Revealed growing reliance on off-grid systems where on-grid is unviable.
+
 
 </details>
+
+* **Overall Insights**
+
+  * Conflict disrupts but does not prevent solar adoption.
+  * Solar development can surge during brief periods of stability.
+  * Additional data on conflict intensity and socioeconomic factors is needed for deeper analysis.
+  
 
 > For more details refer to [/2_data_preparation](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/2_data_preparation) keeping all our cleaning, transformation, and prep scripts and [/3_data_exploration](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/3_data_exploration) exploring, visualizing, and get a feel for our datasets. 
 
@@ -234,7 +257,7 @@ This process, fully documented within the `3_data_exploration/` directory, helpe
 
 ## [M3: Data Analysis](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis)
 
-It investigates how solar energy deployment changes across different **phases of conflict, economic statuses, duration, technology types and both environmental and social impact** in different conflict-affected countries ( 2000–2024 ); using IRENA and UN Comtrade datasets, analyzing on-grid/off-grid capacity, import trends, and conflict timelines.
+Investigating how solar energy deployment changes across different **phases of conflict, economic statuses, duration, technology types and both environmental and social impact** in different conflict-affected countries ( 2000–2024 ); using IRENA and UN Comtrade datasets, analyzing on-grid/off-grid capacity, import trends, and conflict timelines.
 
 <details>
 <summary><strong>Key Insights</strong></summary>
@@ -340,7 +363,7 @@ We are **moderately confident** in the trends observed. Core patterns appear con
 ### Limitations
 
 - Data gaps in post-conflict years and low-income countries.
-- Imports ≠ direct deployment; stockpiling or re-exports possible.
+- Imports ≠ direct deployment; stockpiling or re-exports possibles.(black markets or secondhand use)
 - No modeling of lag effects between import and deployment.
 - Conflict phase definitions are simplified proxies.
 
@@ -371,10 +394,10 @@ timeline
             Decide how to model our problem domain and collect data : ✅ Completed
     section July 1 - July 21
         Data Analysis:
-            Analyze data and interpret results : 🔄 In progress
+            Analyze data and interpret results : ✅ Completed
     section July 22 - August 11
         Communicating results:
-            Translate findings for a target audience : ⏳ Not Started
+            Translate findings for a target audience : 🔄 In progress
     section August 12 - August 25
         Final Presentation:
             Present the full journey and lessons learned : ⏳ Not Started
