@@ -146,8 +146,11 @@ To ground our data‑driven work in real‑world context, we've prepared a detai
 * **Patterns & trends** in how and where outages occur. 
 * **Underlying structures** that make the grid vulnerable. 
 * **Mental models** shaping decision‑making on both sides.  
-* **Potential interventions** from distributed solar microgrids to local maintenance committ
+* **Potential interventions** from distributed solar micro-grids to local maintenance commit
 
+
+> For more details refer to [0_domain_study](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/0_domain_studyn) keeping all our references, and more background studies.
+> 
 <!-- markdownlint-disable MD031 MD033 MD013 MD001 MD04 MD045 MD049 MD041 MD022 MD042 MD018-->
 ---
 ## [M2: Data Collection](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/1_datasets)
@@ -225,7 +228,7 @@ This process, fully documented within the `3_data_exploration/` directory, helpe
 
 </details>
 
-For more details refer to [/2_data_preparation](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/2_data_preparation) keeping all our cleaning, transformation, and prep scripts and [/3_data_exploration](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/3_data_exploration) exploring, visualizing, and get a feel for our datasets. 
+> For more details refer to [/2_data_preparation](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/2_data_preparation) keeping all our cleaning, transformation, and prep scripts and [/3_data_exploration](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/3_data_exploration) exploring, visualizing, and get a feel for our datasets. 
 
 ---
 
@@ -349,7 +352,7 @@ We are **moderately confident** in the trends observed. Core patterns appear con
 - Check the results against real project data or insights from local experts.
 </p></details>
 
-For more details, assumptions and limitations refer to [/4_data_analysis](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis) including all scripts, visualizations, technical methodology, and a non-technical summary of our findings, confidence levels, and limitations. 
+>For more details, assumptions and limitations refer to [/4_data_analysis](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis) including all scripts, visualizations, technical methodology, and a non-technical summary of our findings, confidence levels, and limitations. 
 
 
 
