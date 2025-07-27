@@ -327,15 +327,15 @@ Visualizations generated using `matplotlib` and `seaborn`, including line plots,
 <details>
 <summary><b>Takeaway Insights</b></summary>
 
-1. **Conflict periods often coincide with increased solar imports in affected
+- **Conflict periods often coincide with increased solar imports in affected
  countries, likely due to humanitarian aid and urgent energy needs.**  
-2. **Product mixes shift towards portable and off-grid solutions (solar lamps,
+- **Product mixes shift towards portable and off-grid solutions (solar lamps,
  lithium batteries) during conflicts, emphasizing resilience needs.**  
-3. **Stable countries exhibit steadier import growth, indicating planned,
+- **Stable countries exhibit steadier import growth, indicating planned,
  long-term solar adoption rather than reactive demand.**  
-4. **Price fluctuations during conflict highlight supply chain vulnerability
+- **Price fluctuations during conflict highlight supply chain vulnerability
  but also market adaptation to urgent demand.**  
-5. **Country-specific trends reveal how the nature and duration of conflicts
+- **Country-specific trends reveal how the nature and duration of conflicts
  shape solar product import patterns, useful for targeting aid and development programs.**
  
 </details>
