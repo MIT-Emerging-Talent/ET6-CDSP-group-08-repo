@@ -132,6 +132,17 @@ security challenges.
  increasingly recognize the need for resilient [sustainable
  and decentralized energy solutions in conflicted areas](https://www.cyis.org/post/renewable-energy-in-conflict-zones-protecting-war-torn-environments)</details>
 
+<details><summary><b>Why Solar Energy?</b></summary>
+ 
+* **Fast Power:** Quick to set up where grids are down.
+* **Resilient:** Decentralized, harder to disrupt than central power.
+* **Low Upkeep:** No moving parts, minimal repairs needed.
+* **Cost-Saving:** Cheaper than fuel-dependent generators.
+* **Life-Saving:** Powers clinics, water, and communications.
+* **Safer:** Provides light, boosting security.
+* **Clean:** No pollution, better for health and environment.
+</details>
+
 ### Project Scope
 
 - **Time Period**: 25 years (2000-2024)
