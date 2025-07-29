@@ -332,14 +332,6 @@ In Sudan (2010–2023), off-grid solar deployment rises steadily, unlike on-grid
 
 </details>
 
-### Results and Interpretation
-- **Raw Result: "Solar capacity grows during conflict."**  
-Interpretation: _Solar becomes a survival tool, not just an environmental solution, as communities adapt to grid failures with decentralized energy._
-- **Raw Result: "Off-grid systems surge in fragile settings."**  
-Interpretation: _Signals the need for localized, self-sufficient power when central infrastructure collapses—often supported by humanitarian aid._
-- **Raw Result: "Solar Lamps and Lithium Batteries have a larger share during conflicts."**  
-Interpretation: _Reflects urgent demand for portable energy for lighting, phone charging, and safety—vital for displaced populations._
-
 ### Confidence Level
 
 We are **moderately confident** in the trends observed. Core patterns appear consistent across countries, but some data gaps and contextual complexities limit certainty.
@@ -351,6 +343,16 @@ We are **moderately confident** in the trends observed. Core patterns appear con
 - No modeling of lag effects between import and deployment.
 - Conflict phase definitions are simplified proxies.
 
+<details><summary><b>Results and Interpretation</b></summary><p>
+ 
+- **Raw Result: "Solar capacity grows during conflict."**  
+Interpretation: _Solar becomes a survival tool, not just an environmental solution, as communities adapt to grid failures with decentralized energy._
+- **Raw Result: "Off-grid systems surge in fragile settings."**  
+Interpretation: _Signals the need for localized, self-sufficient power when central infrastructure collapses—often supported by humanitarian aid._
+- **Raw Result: "Solar Lamps and Lithium Batteries have a larger share during conflicts."**  
+Interpretation: _Reflects urgent demand for portable energy for lighting, phone charging, and safety—vital for displaced populations._
+</p></details>
+
 <details><summary><b>Future work</b></summary><p>
 
 - Use maps or data showing how intense conflict is in different areas.
@@ -358,6 +360,8 @@ We are **moderately confident** in the trends observed. Core patterns appear con
 - Compare solar projects funded by aid vs. those driven by local markets.
 - Check the results against real project data or insights from local experts.
 </p></details>
+
+
 
 >For more details, assumptions and limitations refer to [/4_data_analysis](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis) including all scripts, visualizations, technical methodology, and a non-technical summary of our findings, confidence levels, and limitations. 
 
