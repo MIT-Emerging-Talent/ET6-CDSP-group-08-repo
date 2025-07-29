@@ -332,11 +332,13 @@ In Sudan (2010–2023), off-grid solar deployment rises steadily, unlike on-grid
 
 </details>
 
-### Key Conclusions
-
-- **Solar capacity grows during conflict**, especially in lower-income countries.
-- **Off-grid systems** surge in fragile settings, likely due to humanitarian support.
-- **Solar imports correlate** with deployment in some contexts (e.g., Ethiopia), but **not reliably**.
+### Results and Interpretation
+- **Raw Result: "Solar capacity grows during conflict."**
+Interpretation: _Solar becomes a survival tool, not just an environmental solution, as communities adapt to grid failures with decentralized energy._
+- **Raw Result: "Off-grid systems surge in fragile settings."**
+Interpretation: _Signals the need for localized, self-sufficient power when central infrastructure collapses—often supported by humanitarian aid._
+- **Raw Result: "Solar Lamps and Lithium Batteries have a larger share during conflicts."**
+Interpretation: _Reflects urgent demand for portable energy for lighting, phone charging, and safety—vital for displaced populations._
 
 ### Confidence Level
 
