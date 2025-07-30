@@ -296,26 +296,30 @@ Visualizations generated using `matplotlib` and `seaborn`, including line plots,
 </details>
 
 <details>
-<summary><b>Assumptions and Limitations</b></summary>
+<summary><b>3. Assumptions and Limitations</b></summary>
 
-- Conflict periods are defined based on available historical data but may
-   not fully capture localized, intermittent, or unreported violence within
-    countries.  
-- Import data represents officially recorded legal trade and may omit
- informal, unreported, or smuggled goods, especially common in conflict zones.  
-- Product categorization relies on keyword matching in product descriptions,
-   which may lead to misclassification or omission of some items.  
-- Some import data is missing for key conflict periods in certain
-  countries—for example, Syria after 2011 and Sudan after 2018—potentially
-   biasing trend analyses
- for these regions.  
-- Stable countries were selected as regional comparators; however, they differ
-   in socio-economic and political contexts, which may influence import trends
-   independently of conflict status.
+- **Imports rise during conflicts** in countries like Syria, Yemen, and Ukraine, reflecting increased demand for alternative energy.  
+  _→ Conflict often damages centralized power grids, increasing reliance on imported solar products as emergency energy solutions._
+
+- **Conflict-period imports** often exceed pre- and post-conflict levels.  
+  _→ During active conflict, demand for decentralized and backup power sources spikes, especially in humanitarian or survival contexts._
+
+- **Stable countries** show more **gradual and steady import growth**.  
+  _→ Without urgent disruption, energy transitions in stable countries tend to follow policy-driven, long-term investment plans._
+
+- **PV Modules** dominate overall imports.  
+  _→ PV panels are the core component of solar systems, making them the foundation of any solar energy deployment strategy._
+
+- **Solar Lamps** and **Lithium Batteries** have a **larger share during conflicts**, indicating a need for portable power.  
+  _→ In emergencies, small-scale, off-grid solutions are critical for lighting, communication, and basic household use — especially when grid access is unreliable._
+
+- **Inverters** and **Lead-Acid Batteries** maintain **smaller, steady shares**.  
+  _→ These components support more permanent solar setups, which are harder to install or maintain during unstable conditions._
+
 </details>
 
 <details>
-<summary><b>Key Findings & Summary</b></summary>
+<summary><b>4. Key Findings & Summary</b></summary>
 
 **Import Value Trends:**  
 
@@ -340,7 +344,7 @@ Visualizations generated using `matplotlib` and `seaborn`, including line plots,
 </details>
 
 <details>
-<summary><b>Takeaway Insights</b></summary>
+<summary><b>5. Takeaway Insights</b></summary>
 
 1. **Conflict periods often coincide with increased solar imports in affected
  countries, likely due to humanitarian aid and urgent energy needs.**  
