@@ -1,6 +1,6 @@
 # Data Preparation
 
-<!-- markdownlint-disable MD031 MD033 MD035 MD032 MD004 MD009 MD013 MD045 MD024 -->
+<!-- markdownlint-disable MD031 MD033 MD035 MD032 MD004 MD009 MD013 MD045 MD024 MD007 MD029 -->
 ## On-Grid Data Preparation Script
 
 This script processes the **on-grid electricity data** from the IRENA dataset.
@@ -32,13 +32,12 @@ Key Selection Criteria:
 - Must include pre-conflict phase (primary distinguishing factor) to see the solar adoption increases or decreases when active conflict.
 - Represent different stages of conflict progression (pre-conflict → active conflict → post-conflict where applicable)
 
- Based on this [**research document**](https://docs.google.com/document/d/1uxgQp8gesLcbfaCGLQAHn3Kgvyu2ZDGxgG-LSWEfq8s/edit?tab=t.0#heading=h.eeoohb5d7fi7) the phases of the 9 conflict countries were added.
-
 ### Output
 
-- **File**: `IRENA_ONGRIDStats.cleaned.xlsx`
+1. **File**: `IRENA_ONGRIDStats.cleaned.xlsx`
   - **Sheet**: `Cleaned_OnGrid_Data`
   - **Path**: `1_datasets/cleaned_data/`
+  - **File Link**: [IRENA_ONGRIDStats.cleaned.xlsx](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/cleaned_data/IRENA_ONGRIDStats.cleaned.xlsx)
 
 ---
 
