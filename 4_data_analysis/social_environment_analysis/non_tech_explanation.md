@@ -100,15 +100,16 @@ It could take years for the full impact on solar power development to become cle
 Solar power isn't just about providing electricity; it's also a superhero in
 the fight against climate change. By using solar, we avoid burning dirty fuels
 that release greenhouse gases (GHGs) into the air, which warm our planet.
-We estimated how much pollution was avoided by the solar power installed.
+an estimation can be done to show how much pollution was avoided by the
+solar power installed.
 
-- **Less Pollution Avoided in Conflict Zones:** Our estimates show that while
-solar power in conflict areas does help reduce pollution, the amount is much,
-much smaller compared to peaceful regions. This is simply because there's less
-solar power installed in war-torn places, also the excessive use of fuel in cars,
-planes and other military vehicles is extremely high during conflicts and the usage
-is uncontrolled. So, conflicts don't just hurt people;
-they also slow down our planet's healing process by limiting clean energy.
+- **Less Pollution Avoided in Conflict Zones:** while
+solar power in conflict areas may help in reducing pollution, the amount will be
+much, much smaller compared to peaceful regions. This is simply
+because there will be less solar power installed in war-torn places,
+also the excessive use of fuel in cars, planes and other military vehicles is extremely
+high during conflicts and its usage is uncontrolled. So, conflicts don't just hurt
+people; they also slow down our planet's healing process by limiting clean energy.
 
 ## What Solar Access Means for People
 
