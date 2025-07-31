@@ -317,7 +317,7 @@ In Sudan (2010–2023), off-grid solar deployment rises steadily, unlike on-grid
 
 </details>
 
-
+</details>
 <table>
   <tr>
     <td>
@@ -328,6 +328,15 @@ In Sudan (2010–2023), off-grid solar deployment rises steadily, unlike on-grid
     </td>
   </tr>
 </table>
+
+> [**Q4. What are the environmental and social impact in conflict-affected countries?**](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis/social_environment_analysis)
+>
+ <details><summary><b>Overall Pattern</b></summary><p>
+
+- **Slower Growth in Conflict Areas:** While solar power still grew in conflict zones, it was at a much slower pace. This suggests that wars make it harder to build big solar projects.
+- **Slower Access to renewable energy:** this has tremendous consequences, in conflict zones, the relying in fossil fuels increase which will eventually lead to more CO2 emissions.
+- **Less Pollution Avoided in Conflict Zones:** while solar power in conflict areas may help in reducing pollution, the amount will be much, much smaller compared to peaceful regions. This is simply because there will be less solar power installed in war-torn places, also the excessive use of fuel in cars, planes and other military vehicles is extremely high during conflicts and its usage is uncontrolled. So, conflicts don't just hurt people; they also slow down our planet's healing process by limiting clean energy.
+- The conflict doesn't just **stop** the lights from coming on; it **holds back health**, education, and economic growth.
 
 
 </details>
@@ -342,6 +351,8 @@ We are **moderately confident** in the trends observed. Core patterns appear con
 - Imports ≠ direct deployment; stockpiling or re-exports possibles.(black markets or secondhand use)
 - No modeling of lag effects between import and deployment.
 - Conflict phase definitions are simplified proxies.
+- <details><summary>Many Other Factors: The amount of solar power a country installs or how many people get connected depends on many things, not just conflict. Things like a country's wealth, its government's policies, help from other countries, and even its geography all play a huge role.</summary>
+  <ul><li> Statistical analysis showed that there is no significant difference in mean solar PV capacity nor the number of people connected between conflict and non-conflict regions.</li></ul></details>
 
 <details><summary><b>Results and Interpretation</b></summary><p>
  
