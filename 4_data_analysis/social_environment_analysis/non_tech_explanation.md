@@ -59,41 +59,78 @@ more complicated than a simple 'yes' or 'no' to conflict.
 
 Our study, like any other, has some limitations that are important to understand:
 
-- Conflict" is Too Simple: Our data just said "Conflict" or "No Conflict."
+- **Conflicts is not just too Simple:** Our data just said "Conflict" or "No Conflict."
 But conflicts aren't all the same. Some are short and small, others are long and
 devastating. This simple label might hide the real, complex ways conflicts affect
 things.
 
-- Many Other Factors: The amount of solar power a country installs or how many
+- **Many Other Factors:** The amount of solar power a country installs or how many
 people get connected depends on many things, not just conflict. Things like
 a country's wealth, its government's policies, help from other countries, and
 even its geography all play a huge role. Our simple models didn't include all
 these other factors, which is why the statistical results weren't as strong
 as the visual trends.
 
-- Big Picture Data: Our data was for whole countries, year by year.
+- **Big Picture Data:** Our data was for whole countries, year by year.
 But conflicts often happen only in certain parts of a country. So,
 if a country is big and only a small part is in conflict, the national
 data might not show the true local impact.
 
-- Cause and Effect: We can see if conflict and solar power go together,
+- **Cause and Effect:** We can see if conflict and solar power go together,
 but it's hard to say if one directly causes the other. Maybe places that
 are already struggling (and thus have less solar power) are also more
 likely to have conflicts.
 
-- Different Types of Solar: We grouped many types of solar power together.
+- **Different Types of Solar:** We grouped many types of solar power together.
 A small solar lamp for a home is very different from a large solar mini-grid.
 Their impacts and how they are affected by conflict might be different.
 
-- People social classes: to truly measure the affect of people wealth, we
+- **People social classes:** to truly measure the affect of people wealth, we
 need to incorporate more data about poverty rates and economics.
 
-- Data Challenges: Even though the data was clean, collecting information
+- **Data Challenges:** Even though the data was clean, collecting information
 in conflict zones is very difficult. So, there might be some gaps or
 inaccuracies in the data itself.
 
-- Time Delays: The effects of a conflict might not be seen immediately.
+- **Time Delays:** The effects of a conflict might not be seen immediately.
 It could take years for the full impact on solar power development to become clear.
+
+## The Green Side: Avoiding Pollution
+
+Solar power isn't just about providing electricity; it's also a superhero in
+the fight against climate change. By using solar, we avoid burning dirty fuels
+that release greenhouse gases (GHGs) into the air, which warm our planet.
+We estimated how much pollution was avoided by the solar power installed.
+
+- **Less Pollution Avoided in Conflict Zones:** Our estimates show that while
+solar power in conflict areas does help reduce pollution, the amount is much,
+much smaller compared to peaceful regions. This is simply because there's less
+solar power installed in war-torn places, also the excessive use of fuel in cars,
+planes and other military vehicles is extremely high during conflicts and the usage
+is uncontrolled. So, conflicts don't just hurt people;
+they also slow down our planet's healing process by limiting clean energy.
+
+## What Solar Access Means for People
+
+When we talk about people getting connected to solar power, it’s more than just
+having a light bulb. It’s about a whole range of improvements in their lives:
+
+- **Better Health:** No more breathing in smoke from kerosene lamps or wood fires
+, leading to fewer lung problems.
+
+- **Brighter Futures for Kids:** Children can study longer and more safely after
+dark, boosting their chances at a good education.
+
+- **New Opportunities:** Small businesses can stay open longer,
+and people can charge their phones or other devices, helping them earn a living.
+
+- **Safer Communities:** Light at night can make streets and homes feel safer,
+especially in areas where security is a concern.
+
+Because fewer people are connected to solar in conflict zones, it means these
+vital benefits are also much harder to come by for those living in the toughest
+situations. The conflict doesn't just stop the lights from coming on; it holds
+back health, education, and economic growth.
 
 ## In a Nutshell
 

@@ -52,6 +52,17 @@ not statistically significant (p = 0.255). The model's R-squared was very low
 (0.007), suggesting that 'Year' and 'Conflict Status' explain very little
 variance in capacity.
 
+#### Greenhouse Gas Emissions Avoided
+
+To quantify a direct environmental benefit, greenhouse gas (GHG) emissions
+avoided can be estimated by applying a general emission factor for solar PV
+(e.g., 50 gCO2eq/kWh) to the deployed solar PV capacity, considering factors
+such as capacity factor and operational lifespan. The annual GHG emissions
+avoided will vary significantly based on conflict status, with deployments in conflict
+zones typically showing lower mitigation impacts compared to non-conflict regions
+due to disparities in installed capacity. This highlights a reduced environmental
+benefits in conflict-affected areas.
+
 ### Social Impact (Thousands of People Connected)
 
 - **Trends:** Visual inspection suggested a higher number of people connected
@@ -68,6 +79,20 @@ coefficient (19.2464), indicating an increase in connections over time.
 'Conflict Status' was not statistically significant (p = 0.774).
 The R-squared was very low (0.004), implying that these variables
 explain minimal variance in connections.
+
+#### Holistic Social Impact: Interpretation of People Connected
+
+The metric of 'People Connected' to solar PV systems serves as a holistic
+indicator of social impact, encompassing various benefits beyond mere electricity
+provision. These benefits include, but are not limited to, improved health outcomes
+(reduced indoor air pollution from traditional fuels), enhanced educational
+opportunities (lighting for study), increased safety and security
+(illumination of homes and public spaces), and economic empowerment
+(support for small businesses, mobile phone charging). The observed disparities
+in 'People Connected' between conflict and non-conflict zones directly reflect
+differential access to these multifaceted social advantages. The limited reach
+of solar PV in conflict-affected areas therefore implies a constrained realization
+of these critical social benefits, exacerbating existing vulnerabilities.
 
 ## Conclusion
 
