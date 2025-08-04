@@ -53,14 +53,13 @@ Solar isn’t just green tech — it’s **crisis tech**. But to fulfill its pro
 
 ## Audience
 
-| Stakeholder Group         | Description                                                                                          | Example(s)                                          | Preferred Format(s)                                  |
-|---------------------------|------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------|
-| NGOs & Aid Organizations  | Operate on the ground to provide critical services in conflict zones, often needing reliable energy. | UNHCR, MSF (Doctors Without Borders), local NGOs    | Briefs, technical reports, infographics |
-| Funders / Donors          | Provide financial support for humanitarian relief and energy interventions in fragile settings.     | USAID, GIZ, philanthropic foundations               | Dashboards, impact stories, executive summaries        |
-| Solar Energy Initiatives  | Deploy solar solutions in underserved or conflict-affected communities.                             | SolarAid, UNDP's Solar for Health, Power for Refugees | Case studies, data visualizations, videos              |
-| General Public            | Raise awareness, influence policy, and support energy access in crisis through advocacy or donations. | Voters, online campaigns, diaspora, student groups  | Social media, short videos, storytelling visuals, Interactive website       |
-
-
+| Stakeholder Group         | Description                                                                                          | Example(s)                                          | Preferred Format(s)                                             |
+|---------------------------|------------------------------------------------------------------------------------------------------|-----------------------------------------------------|------------------------------------------------------------------|
+| NGOs & Aid Organizations  | Operate on the ground to provide critical services in conflict zones, often needing reliable energy. | UNHCR, MSF (Doctors Without Borders), local NGOs    | Briefs, technical reports, infographics                         |
+| Funders / Donors          | Provide financial support for humanitarian relief and energy interventions in fragile settings.     | USAID, GIZ, philanthropic foundations               | Dashboards, impact stories, executive summaries                  |
+| Solar Energy Initiatives  | Deploy solar solutions in underserved or conflict-affected communities.                             | SolarAid, UNDP's Solar for Health, Power for Refugees | Case studies, data visualizations, videos                         |
+| General Public            | Raise awareness, influence policy, and support energy access in crisis through advocacy or donations. | Voters, online campaigns, diaspora, student groups  | Social media, short videos, storytelling visuals, interactive websites |
+| Journalists               | Report and amplify issues related to energy, conflict, and humanitarian conditions.                   | Investigative reporters, energy/environmental media | Press releases, human-interest stories, data briefs, interviews  |
 
 
 ### Sharing Findings
