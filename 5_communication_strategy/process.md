@@ -46,6 +46,17 @@ Solar isn’t just green tech — it’s **crisis tech**. But to fulfill its pro
 
 
 ### Format
+#### BLOG POST 
+
+**💡 Pros of blog format:**
+- **Accessible:** Translates complex findings for non-experts.
+- **Shareable:** Easy to post on LinkedIn, Twitter/X, Medium.
+- **Narrative-driven:** Great for framing a compelling message.
+- **Connects emotionally:** Can show real-world impact, photos, quotes.
+- **Boosts visibility** A well-SEO’d blog can reach new audiences.
+
+
+
 
 ### Platform 
 
