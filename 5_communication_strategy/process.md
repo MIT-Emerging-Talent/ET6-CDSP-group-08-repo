@@ -64,12 +64,21 @@ Solar isn’t just green tech — it’s **crisis tech**. But to fulfill its pro
 
 ### Sharing Findings
 
-- **Presentations**: Schedule meetings with relevant NGOs, government bodies, or foundations.
-- **Online Platforms**: Share on professional networks (e.g., LinkedIn), relevant forums, or your project repository+ Interactive Website
-- **Direct Outreach**: Email your brief or slides to key contacts.
-- **Publications**: Consider submitting a summary to a relevant industry publication or blog.
+1. **Presentations**: Schedule meetings with relevant NGOs, government bodies, or foundations.
+2. **Online Platforms**: Share on professional networks (e.g., LinkedIn), relevant forums, or your project repository+ Interactive Website
+3. **Direct Outreach**: Email your brief or slides to key contacts.
 
 ----
+  
+## Action
+
+- **Allocate more funding**: Give money to support solar projects or research in these areas.  
+- **Integrate decentralized solar into their emergency response plans:** Organizations to actually use your findings to include solar power in how they help people during crises.
+- **Support policy changes for energy resilience:** Push for new rules or laws that make it easier to use strong, reliable energy like solar in unstable places.
+- **Share your findings with their networks**: Spread the word about your important discoveries to others who can make a difference.
+
+----
+
 ## Changes 
 - Reduced energy poverty in conflict zones.
 - Improved humanitarian aid delivery through reliable power.
