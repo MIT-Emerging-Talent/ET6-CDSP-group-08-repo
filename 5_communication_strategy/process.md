@@ -111,7 +111,7 @@ Solar isn’t just green tech — it’s **crisis tech**. But to fulfill its pro
 ## Action
 
 - **Allocate more funding**: Give money to support solar projects or research in these areas.  
-- **Integrate decentralized solar into their emergency response plans:** Organizations to actually use your findings to include solar power in how they help people during crises.
+- **Integrate decentralized solar into their emergency response plans:** Organizations to actually use our findings to include solar power in how they help people during crises.
 - **Support policy changes for energy resilience:** Push for new rules or laws that make it easier to use strong, reliable energy like solar in unstable places.
 - **Share your findings with their networks**: Spread the word about your important discoveries to others who can make a difference.
 
