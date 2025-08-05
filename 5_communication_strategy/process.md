@@ -25,7 +25,30 @@ _It demonstrates surprising resilience and critical adaptation._
 
 ### **1. Beginning – The Problem**  
 In conflict zones, energy systems fail. **90% of refugee settlements lack reliable electricity.**  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=14&pause=1000&color=D43737&vCenter=true&repeat=false&width=850&height=40&lines=📈+Solar+once+offered+hope+%E2%80%94+but+rising+costs+now+threaten+its+role+as+*survival+infrastructure*.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=14&pause=1000&color=D43737&vCenter=true&repeat=false&width=850&height=40&lines=%F0%9F%93%88+Solar+once+offered+hope+%E2%80%94+but+rising+costs+in+conflicted+communities+threaten+its+role+as+*survival+infrastructure*.)](https://git.io/typing-svg)
+<details>
+<summary><b>Solar energy is often seen as a cost-effective and scalable solution for energy access — but in conflict zones, this promise is threatened by a range of economic and systemic challenges: </b></summary>
+
+- **Solar is more expensive in conflict zones**  
+  Even though solar is generally affordable worldwide, in areas affected by war or instability, solutions like solar kits can cost up to **57% more**, making them unaffordable for the communities that need them most.
+
+- **People without electricity mostly live in these places**  
+  An estimated **64% of people lacking electricity access live in conflict-affected regions**, meaning that high costs disproportionately impact the most vulnerable populations.
+
+- **Investors see conflict zones as risky**  
+  Due to **unstable governments**, **weak currencies**, and **political volatility**, investing in renewable energy in these regions is seen as high-risk and expensive. This discourages private sector involvement and leads to limited project implementation.
+
+- **Humanitarian funding is falling short**  
+  Traditional **grant-based aid is insufficient** for delivering sustainable solar solutions. Because energy is often categorized as a “development” goal rather than a humanitarian need, it receives **lower priority in emergency funding** — despite being essential for survival.
+
+- **Private companies don’t want to invest**  
+  Many businesses avoid refugee or displacement settings, viewing them as **temporary** and **not commercially viable**, which further reduces investment in renewable energy for those communities.
+
+These interconnected barriers threaten the role of solar energy as a reliable form of survival infrastructure in the very places where it’s needed most.
+
+
+</details>
+
 
 ### **2. Middle – The Discovery**  
 Our data tells a surprising story:  
