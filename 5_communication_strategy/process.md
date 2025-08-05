@@ -77,34 +77,34 @@ Solar isn’t just green tech — it’s **crisis tech**. But to fulfill its pro
 | Journalists               | Report and amplify issues related to energy, conflict, and humanitarian conditions.                   | Investigative reporters, energy/environmental media | Press releases, human-interest stories, data briefs, interviews  |
 
 ### Personas (Digging Deeper)
+#### Funders / Donors 
 
 
-### Sharing Findings
-
-1. **Presentations**: Schedule meetings with relevant NGOs, government bodies, or foundations.
-2. **Online Platforms**: Share on professional networks (e.g., LinkedIn), relevant forums, or your project repository+ Interactive Website
-3. **Direct Outreach**: Email your brief or slides to key contacts.
 
 ----
-  ## Medium 
+## Medium 
+#### Blog Post
 
-### Consider Audience
-
-
-### Format
-#### BLOG POST 
-
-**💡 Pros of blog format:**
+<details>
+<summary><b>Pros of blog format: </b></summary>
+  
 - **Accessible:** Translates complex findings for non-experts.
 - **Shareable:** Easy to post on LinkedIn, Twitter/X, Medium.
 - **Narrative-driven:** Great for framing a compelling message.
 - **Connects emotionally:** Can show real-world impact, photos, quotes.
 - **Boosts visibility** A well-SEO’d blog can reach new audiences.
+</details>
 
 
+### Sharing Findings
 
+1. **Presentation**: Schedule meeting with the targeted audience.
+2. **Online Platforms**: Share on professional networks (e.g., LinkedIn, medium, X), relevant forums, and share project repository
+3. **Direct Outreach**: Email brief and link to repo to key contacts + Blog Post
 
-### Platform 
+#### Presentation
+#### Online Platforms
+#### Direct Outreach
 
 ----
 
