@@ -76,6 +76,8 @@ Solar isn’t just green tech — it’s **crisis tech**. But to fulfill its pro
 | General Public            | Raise awareness, influence policy, and support energy access in crisis through advocacy or donations. | Voters, online campaigns, diaspora, student groups  | Social media, short videos, storytelling visuals, interactive websites |
 | Journalists               | Report and amplify issues related to energy, conflict, and humanitarian conditions.                   | Investigative reporters, energy/environmental media | Press releases, human-interest stories, data briefs, interviews  |
 
+### Personas (Digging Deeper)
+
 
 ### Sharing Findings
 
