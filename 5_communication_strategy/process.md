@@ -99,25 +99,10 @@ UNHCR’s Innovation Service is dedicated to creating an enabling environment fo
 | **Grant Information** | - **Fund Name:** [UNHCR Refugee-led Innovation Fund](https://www.unhcr.org/innovation/refugee-led-innovation-fund/)  <br> - **Location:** Based in Copenhagen, Denmark (Global reach)  <br> - **Status:** **Open** for applications  <br> - **Deadline:** August 22, 2025  <br> - **Eligibility:** Must be **led by forcibly displaced or stateless people** |
 | **Preferred Communication Channels** | - **Email** (professional and concise)  <br> - **LinkedIn** (for initial contact and visibility)  <br> - Possibly open to **Zoom/Webinars** if discussing partnerships or innovations |
 | **Barriers to Engagement** | - Projects not led by refugees are **ineligible** regardless of quality  <br> - Overly **technical or top-down language** may be a turn-off  <br> - Lack of community involvement or unclear benefit to displaced people |
-| **What we need from them** |- Fund Our Pilot Project: Provide flexible, direct funding (up to $45,000) for our refugee-led "Solar Survival Kit" pilot. <br> - Amplify Our Findings: Use their platform to share our blog post, research and project outcomes with key policymakers, donors, and other humanitarian organizations. <br> - Support Local Leadership: Advocate for a shift in humanitarian energy policy that prioritizes and funds refugee-led, grassroots solutions. |
+| **What we need from them** |- **Fund Our Pilot Project:** Provide flexible, direct funding (up to $45,000) for our refugee-led "Solar Survival Kit" pilot. <br> - **Amplify Our Findings:** Use their platform to share our blog post, research and project outcomes with key policymakers, donors, and other humanitarian organizations. <br> - **Support Local Leadership:** Advocate for a shift in humanitarian energy policy that prioritizes and funds refugee-led, grassroots solutions. |
 | **Best Medium / Format** | - **Blog posts** (story-driven, impact-focused)  <br> - **One-pagers or infographics** (clear, visual summaries of outcomes)  <br> - **Short reports with data + community voices** |
 
-<details>
-<summary><b>Action Plan </b></summary>
 
-* **Phase 1: Pilot Project Design & Sourcing:**
-    * **Action:** Finalize the design of the "Solar Survival Kit" based on our data and community feedback.
-    * **Action:** Source local suppliers for components like solar panels, batteries, and lamps to support the local economy.
-* **Phase 2: Assembly & Community Engagement:**
-    * **Action:** Train and employ displaced community members to assemble the kits.
-    * **Action:** Partner with a local refugee-led organization to identify and select 100 households for the pilot.
-* **Phase 3: Distribution & Data Collection:**
-    * **Action:** Distribute the 100 kits to the selected households.
-    * **Action:** Conduct surveys and interviews to collect both quantitative (e.g., usage frequency) and qualitative (e.g., impact on daily life) data.
-* **Phase 4: Analysis & Reporting:**
-    * **Action:** Analyze the collected data to measure the project's impact and effectiveness.
-    * **Action:** Create a final report and a public-facing blog post to share the results with the UNHCR and the broader community.
- </details>
 
 #### 2. Solar Energy Initiatives
 #### 3. General Public
