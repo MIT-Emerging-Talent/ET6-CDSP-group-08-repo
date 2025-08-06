@@ -77,7 +77,7 @@ Solar isn’t just green tech — it’s **crisis tech**. But to fulfill its pro
 | Journalists               | Report and amplify issues related to energy, conflict, and humanitarian conditions.                   | Investigative reporters, energy/environmental media | Press releases, human-interest stories, data briefs, interviews  |
 
 ### Personas (Digging Deeper)
-#### Funders / Donors 
+#### 1. Funders / Donors 
 
 #### [UNHCR Refugee-led Innovation Fund](https://www.unhcr.org/innovation/refugee-led-innovation-fund/)
 
