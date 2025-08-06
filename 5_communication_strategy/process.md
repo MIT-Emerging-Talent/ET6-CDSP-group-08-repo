@@ -68,7 +68,7 @@ Solar isn’t just green tech — it’s **crisis tech**. But to fulfill its pro
 
 ## Audience
 
-| Stakeholder Group         | Description                                                                                          | Example(s)                                          | Preferred Format(s)                                             |
+| Persona Name       | Description                                                                                          | Example(s)                                          | Preferred Format(s)                                             |
 |---------------------------|------------------------------------------------------------------------------------------------------|-----------------------------------------------------|------------------------------------------------------------------|
 | NGOs & Aid Organizations  | Operate on the ground to provide critical services in conflict zones, often needing reliable energy. | UNHCR, MSF (Doctors Without Borders), local NGOs    | Briefs, technical reports, infographics                         |
 | Funders / Donors          | Provide financial support for humanitarian relief and energy interventions in fragile settings.     | USAID, GIZ, philanthropic foundations               | Dashboards, impact stories, executive summaries                  |
@@ -79,7 +79,25 @@ Solar isn’t just green tech — it’s **crisis tech**. But to fulfill its pro
 ### Personas (Digging Deeper)
 #### Funders / Donors 
 
+#### [UNHCR Refugee-led Innovation Fund](https://www.unhcr.org/innovation/refugee-led-innovation-fund/)
 
+| **Category** | **Details** |
+|--------------|-------------|
+| ** Who?** | **Grazia Paoleri**  <br> Senior Technical Advisor for the EU’s contribution to the Refugee Response in Uganda  <br> [LinkedIn Profile](https://ug.linkedin.com/in/grazia-paoleri-54025b60/en?trk=public_post_feed-actor-name) |
+| ** What Drives Them?** | Belief in **refugee-led solutions**. Their mission is to **center displaced people** in humanitarian work, valuing lived experience as key to identifying needs and crafting effective solutions. |
+| ** Why Our Project Fits** | Your project highlights **solar energy as a survival infrastructure**, showing how communities are already **innovating**. This aligns with their **bottom-up, grassroots** approach. |
+| **What They Fund** | - **Early-stage innovations** by refugees, for refugees  <br> - Community-based projects  <br> - Strong focus on **energy access** and practical solutions |
+| **Geographic Focus** | Global — open to all countries where **UNHCR operates** |
+| **Partners & Grantees** | Refugee-Led Organizations (RLOs), local community groups, and **non-traditional partners** |
+| **Goals** | - **Empower refugees** to lead solutions  <br> - **Build capacity** (project management, finance, data)  <br> - Promote **sustainable, dignified alternatives** to traditional aid |
+| **Problem They Address** | Lack of **flexible, direct funding** for local refugee-led initiatives |
+| **Incentive** | Belief that **investing in refugee-led innovation** leads to more **sustainable and impactful** outcomes than top-down approaches |
+| **How They Operate** | - Focused on **real-world impact**, not flashy tech  <br> - Want a **clear, actionable plan**  <br> - Value **strong community engagement** |
+| **Assumptions** | - Refugees are **active problem-solvers**, not passive recipients  <br> - **Energy is essential** and must be **affordable, reliable, and locally accessible** |
+| **Grant Information** | - **Fund Name:** UNHCR Refugee-led Innovation Fund  <br> - **Location:** Based in Copenhagen, Denmark (Global reach)  <br> - **Status:** **Open** for applications  <br> - **Deadline:** August 22, 2025  <br> - **Eligibility:** Must be **led by forcibly displaced or stateless people** |
+| **Preferred Communication Channels** | - **Email** (professional and concise)  <br> - **LinkedIn** (for initial contact and visibility)  <br> - Possibly open to **Zoom/Webinars** if discussing partnerships or innovations |
+| **Best Medium / Format** | - **Blog posts** (story-driven, impact-focused)  <br> - **One-pagers or infographics** (clear, visual summaries of outcomes)  <br> - **Short reports with data + community voices** |
+| **Barriers to Engagement** | - Projects not led by refugees are **ineligible** regardless of quality  <br> - Overly **technical or top-down language** may be a turn-off  <br> - Lack of community involvement or unclear benefit to displaced people |
 
 ----
 ## Medium 
