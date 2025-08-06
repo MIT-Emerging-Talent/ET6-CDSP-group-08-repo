@@ -119,8 +119,8 @@ UNHCR’s Innovation Service is dedicated to creating an enabling environment fo
     * **Action:** Create a final report and a public-facing blog post to share the results with the UNHCR and the broader community.
  </details>
 
-#### 2 Solar Energy Initiatives
-
+#### 2. Solar Energy Initiatives
+#### 3. General Public
  
 ----
 ## Medium 
