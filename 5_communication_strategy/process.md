@@ -101,20 +101,6 @@ UNHCR’s Innovation Service is dedicated to creating an enabling environment fo
 | **Barriers to Engagement** | - Projects not led by refugees are **ineligible** regardless of quality  <br> - Overly **technical or top-down language** may be a turn-off  <br> - Lack of community involvement or unclear benefit to displaced people |
 | **What we need from them** |- Fund Our Pilot Project: Provide flexible, direct funding (up to $45,000) for our refugee-led "Solar Survival Kit" pilot. <br> - Amplify Our Findings: Use their platform to share our blog post, research and project outcomes with key policymakers, donors, and other humanitarian organizations. <br> - Support Local Leadership: Advocate for a shift in humanitarian energy policy that prioritizes and funds refugee-led, grassroots solutions. |
 | **Best Medium / Format** | - **Blog posts** (story-driven, impact-focused)  <br> - **One-pagers or infographics** (clear, visual summaries of outcomes)  <br> - **Short reports with data + community voices** |
-For the table you're creating for your grant application, the "What should they do?" column should focus on the **strategic actions** you are asking the UNHCR Refugee-led Innovation Fund to take, while the "Action Plan" column should detail the **concrete steps your team will take** to implement the project. 
-
-The distinction is about perspective: the first column is a request to the funder, and the second is your team's promise of execution.
-
-***
-
-### What Should They Do? (For the Funder)
-
-This column should clearly state what you want the funder to do, tying your request directly to your project's findings. This is your "ask."
-
-* **Allocate Flexible Funding:** Request funding for your project, emphasizing that it's a refugee-led initiative that requires flexible, direct capital to succeed. Your data shows that traditional, top-down funding models are insufficient, so this request aligns with your research.
-* **Support Refugee-Led Innovations:** Ask them to continue championing the grassroots, bottom-up approach to humanitarian aid. Your project is a testament to the power of this model.
-* **Integrate Data-Driven Insights:** Propose that your findings be used to inform future UNHCR programs. This shows that your project offers value beyond a single pilot and can contribute to broader organizational learning.
-* **Amplify Our Results:** Ask them to help share your project's findings and success stories with their wider network of donors, policymakers, and other humanitarian organizations.
 
 #### Action Plan 
 
