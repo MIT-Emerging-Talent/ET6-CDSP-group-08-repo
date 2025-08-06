@@ -102,7 +102,8 @@ UNHCR’s Innovation Service is dedicated to creating an enabling environment fo
 | **What we need from them** |- Fund Our Pilot Project: Provide flexible, direct funding (up to $45,000) for our refugee-led "Solar Survival Kit" pilot. <br> - Amplify Our Findings: Use their platform to share our blog post, research and project outcomes with key policymakers, donors, and other humanitarian organizations. <br> - Support Local Leadership: Advocate for a shift in humanitarian energy policy that prioritizes and funds refugee-led, grassroots solutions. |
 | **Best Medium / Format** | - **Blog posts** (story-driven, impact-focused)  <br> - **One-pagers or infographics** (clear, visual summaries of outcomes)  <br> - **Short reports with data + community voices** |
 
-#### Action Plan 
+<details>
+<summary><b>Action Plan </b></summary>
 
 * **Phase 1: Pilot Project Design & Sourcing:**
     * **Action:** Finalize the design of the "Solar Survival Kit" based on our data and community feedback.
@@ -116,7 +117,11 @@ UNHCR’s Innovation Service is dedicated to creating an enabling environment fo
 * **Phase 4: Analysis & Reporting:**
     * **Action:** Analyze the collected data to measure the project's impact and effectiveness.
     * **Action:** Create a final report and a public-facing blog post to share the results with the UNHCR and the broader community.
-      
+ </details>
+
+#### 2 Solar Energy Initiatives
+
+ 
 ----
 ## Medium 
 #### Blog Post
