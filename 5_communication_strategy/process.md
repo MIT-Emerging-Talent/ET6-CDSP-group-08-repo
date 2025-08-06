@@ -1,6 +1,6 @@
 
 <!-- markdownlint-disable MD013 MD001 MD022 MD049 MD031 MD007 MD033 MD004 MD009 MD013 MD045 MD041 MD032 MD039 MD019 MD012-->
-# Communicating Results Process
+# Communicating Results Strategy
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=30&pause=1000&color=6396E9&center=true&vCenter=true&repeat=false&width=850&height=40&lines=Solar+Energy+as+Survival+Infrastructure+in+Conflict+Zones)](https://git.io/typing-svg)
 
 > 🟡 _**When the Grid Goes Dark, the Sun Keeps the Lights On**_
