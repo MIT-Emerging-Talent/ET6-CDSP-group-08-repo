@@ -107,7 +107,55 @@ UNHCR’s Innovation Service is dedicated to creating an enabling environment fo
 #### 2. Solar Energy Initiatives
 
 #### 3. General Public
- 
+
+**Who they are**: Popular (Neighborhood-Based) Committees for Local Service Delivery and Community Administration in Sudan.  
+
+**What They Do:** These are community-based bodies, 
+typically formed at the neighborhood or village level,
+to manage and coordinate essential local affairs in the
+absence or weakness of formal state institutions.
+They are often responsible for basic service delivery
+(such as water, electricity, and sanitation),
+issuing residence certificates, resolving local disputes,
+organizing community security efforts,
+and mobilizing resources through voluntary contributions.  
+
+**Their Goals and Aims:** Their main purpose is to serve as a link between regulatory bodies,
+government agencies, aid organizations, and the members of the communities they represent.
+In contexts like Sudan, these committees can play a vital governance role—especially
+during periods of crisis or when state presence is limited.  
+
+**Their Scientific Background:** As committee members are elected from within the community,
+their educational and scientific backgrounds can vary significantly.
+However, it is generally expected that most of them have at least
+a basic understanding of mathematics and statistics, which should
+make it possible to communicate findings and results effectively.
+Most also have access to smartphones and the internet and are comfortable using them.  
+
+**Their Background on Solar Energy:** Solar energy is already
+recognized as a resilient solution to Sudan’s energy challenges.
+However, its use has been mostly limited to individual
+applications—such as private homes or services provided by
+the private sector. It has not yet been widely adopted for
+public services such as health, education, or agriculture.
+In these sectors, communities still rely primarily on diesel
+generators, as they are more familiar and accessible.  
+
+#### **What we expect from them:**  
+- Raise awareness about the benefits of solar
+  energy for public services (schools, clinics, water pumps).
+- Dispel common misconceptions
+  (e.g., solar is only for homes, or it’s too expensive to maintain).
+- Encourage collective acceptance of solar projects.
+- Highlight locations and institutions
+  where solar infrastructure would have the highest impact.
+- Encourage community contributions
+  (financial or in-kind) to expand deployment.
+- Coordinate between communities,implementing partners,
+  and government agencies to enable smooth deployment.
+- Organize community meetings or forums for
+  project planning and decision making.
+
 ----
 ## Medium 
 #### Blog Post
