@@ -87,7 +87,7 @@ UNHCR’s Innovation Service is dedicated to creating an enabling environment fo
 |--------------|-------------|
 | **Who?** | **Grazia Paoleri**  <br> Senior Technical Advisor for the EU’s contribution to the Refugee Response in Uganda  <br> [LinkedIn Profile](https://ug.linkedin.com/in/grazia-paoleri-54025b60/en?trk=public_post_feed-actor-name) |
 | **What Drives Them?** | Belief in **refugee-led solutions**. Their mission is to **center displaced people** in humanitarian work, valuing lived experience as key to identifying needs and crafting effective solutions. |
-| **Why Our Project Fits** | Your project highlights **solar energy as a survival infrastructure**, showing how communities are already **innovating**. This aligns with their **bottom-up, grassroots** approach. |
+| **Why Our Project Fits** | Our project highlights **solar energy as a survival infrastructure**, showing how communities are already **innovating**. This aligns with their **bottom-up, grassroots** approach. |
 | **What They Fund** | - **Early-stage innovations** by refugees, for refugees  <br> - Community-based projects  <br> - Strong focus on **energy access** and practical solutions |
 | **Geographic Focus** | Global — open to all countries where **UNHCR operates** |
 | **Partners & Grantees** | Refugee-Led Organizations (RLOs), local community groups, and **non-traditional partners** |
