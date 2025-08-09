@@ -156,8 +156,6 @@ generators, as they are more familiar and accessible.
 - Organize community meetings or forums for
   project planning and decision making.
 
- ----
-
 #### **4.Energy Research Centers**
 
 
@@ -192,22 +190,10 @@ generators, as they are more familiar and accessible.
 4. Maintain communication with updates and invitations for joint activities.
 
 
-----
-## Medium 
-#### Blog Post
+ #### 5. Journalists
 
-<details>
-<summary><b>Pros of blog format: </b></summary>
-  
-- **Accessible:** Translates complex findings for non-experts.
-- **Shareable:** Easy to post on LinkedIn, Twitter/X, Medium.
-- **Narrative-driven:** Great for framing a compelling message.
-- **Connects emotionally:** Can show real-world impact, photos, quotes.
-- **Boosts visibility** A well-SEO’d blog can reach new audiences.
-</details>
+#### Magazine : [Renewable Energy World](https://www.renewableenergyworld.com/) 
 
-5. Journalists
-6. 
 | Category | Details |
 | :--- | :--- |
 | **Target Magazine** | [Renewable Energy World](https://www.renewableenergyworld.com/) |
@@ -226,6 +212,20 @@ generators, as they are more familiar and accessible.
 | **Potential Barriers to Engagement**| - Pitches that are too promotional rather than informative\<br\>- Articles lacking credible sources or data\<br\>- A weak connection between the technology and its real-world outcomes (Our research avoids this by focusing on impact). |
 | **What We Need from Them** | - **Publication:** Feature an article on solar as a survival infrastructure in conflict zones, supported by our research and community interviews.\<br\>- **Amplification:** Share our findings via their newsletter and social media channels to reach a wider audience of policymakers and investors.\<br\>- **Awareness:** Help position the issue of energy access in conflict zones as both a critical humanitarian need and a market opportunity. |
 | **Best Medium / Format** | - A feature article (1,200–1,500 words) that blends technical data with human-interest stories\<br\>- Accompanying infographics to visualize key research data\<br\>- A short, engaging LinkedIn post linking to the full article |
+
+----
+## Medium 
+#### Blog Post
+
+<details>
+<summary><b>Pros of blog format: </b></summary>
+  
+- **Accessible:** Translates complex findings for non-experts.
+- **Shareable:** Easy to post on LinkedIn, Twitter/X, Medium.
+- **Narrative-driven:** Great for framing a compelling message.
+- **Connects emotionally:** Can show real-world impact, photos, quotes.
+- **Boosts visibility** A well-SEO’d blog can reach new audiences.
+</details>
 
 ### Sharing Findings
 
