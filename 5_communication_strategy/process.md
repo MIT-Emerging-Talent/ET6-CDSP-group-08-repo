@@ -197,21 +197,21 @@ generators, as they are more familiar and accessible.
 | Category | Details |
 | :--- | :--- |
 | **Target Magazine** | [Renewable Energy World](https://www.renewableenergyworld.com/) |
-| **Key Contact** | Paul Gerke – Editor & Content Director - [Linkedin](https://www.linkedin.com/in/paulrgerke?original_referer=https%3A%2F%2Fwww.google.com%2F) |
+| **Key Contact** | Paul Gerke – Editor & Content Director – [LinkedIn](https://www.linkedin.com/in/paulrgerke?original_referer=https%3A%2F%2Fwww.google.com%2F) |
 | **Contact's Motivation** | Driven by a passion for showcasing innovative renewable energy solutions that have tangible social, environmental, and economic impacts. Particularly interested in stories that merge technical innovation with human benefit. |
 | **Why Our Project Fits** | Our research demonstrates how solar energy can serve as a vital survival infrastructure in conflict zones. It uniquely combines technical feasibility with compelling human stories of resilience, perfectly aligning with their focus on the intersection of technology and real-world impact. |
-| **Content They Publish** | - Technical case studies on renewable energy projects\<br\>- Human-impact stories about clean energy\<br\>- Policy and market trend analysis\<br\>- Expert opinion articles |
+| **Content They Publish** | - Technical case studies on renewable energy projects<br>- Human-impact stories about clean energy<br>- Policy and market trend analysis<br>- Expert opinion articles |
 | **Geographic Focus** | Global, with a keen interest in articles and case studies from underreported areas and challenging environments. |
 | **Partners & Contributors** | Renewable energy engineers, NGOs, think tanks, energy policy experts, and tech innovators. |
-| **Goals of the Magazine** | - Inform industry professionals and policymakers about effective renewable energy solutions\<br\>- Showcase innovation in solar, wind, and energy storage technologies\<br\>- Highlight projects with measurable results and real-world application |
+| **Goals of the Magazine** | - Inform industry professionals and policymakers about effective renewable energy solutions<br>- Showcase innovation in solar, wind, and energy storage technologies<br>- Highlight projects with measurable results and real-world application |
 | **Problem They Address** | A need for accessible, high-quality reporting that bridges the gap between technical renewable energy knowledge and real-world applications, especially in vulnerable contexts. |
-| **Incentive for Publishing Our Work**| They are actively seeking compelling, well-researched stories that demonstrate the transformative power of renewable energy in unique or challenging environments. Our research provides exactly that. |
+| **Incentive for Publishing Our Work** | They are actively seeking compelling, well-researched stories that demonstrate the transformative power of renewable energy in unique or challenging environments. Our research provides exactly that. |
 | **Assumptions About Readers** | The readership consists of professionals, investors, and policymakers in the renewable energy sector who are interested in credible data and on-the-ground proof of impact. |
-| **Publication Information** | - **Media Platform:** Renewable Energy World\<br\>- **Headquarters:** USA (with global readership)\<br\>- **Status:** Open for guest article submissions |
-| **Preferred Communication Channels**| - **Email:** A short, professional pitch with a clear value proposition\<br\>- **LinkedIn:** To build rapport and an initial connection\<br\>- **Website:** Guest article submission form if available |
-| **Potential Barriers to Engagement**| - Pitches that are too promotional rather than informative\<br\>- Articles lacking credible sources or data\<br\>- A weak connection between the technology and its real-world outcomes (Our research avoids this by focusing on impact). |
-| **What We Need from Them** | - **Publication:** Feature an article on solar as a survival infrastructure in conflict zones, supported by our research and community interviews.\<br\>- **Amplification:** Share our findings via their newsletter and social media channels to reach a wider audience of policymakers and investors.\<br\>- **Awareness:** Help position the issue of energy access in conflict zones as both a critical humanitarian need and a market opportunity. |
-| **Best Medium / Format** | - A feature article (1,200–1,500 words) that blends technical data with human-interest stories\<br\>- Accompanying infographics to visualize key research data\<br\>- A short, engaging LinkedIn post linking to the full article |
+| **Publication Information** | - **Media Platform:** Renewable Energy World<br>- **Headquarters:** USA (with global readership)<br>- **Status:** Open for guest article submissions |
+| **Preferred Communication Channels** | - **Email:** A short, professional pitch with a clear value proposition<br>- **LinkedIn:** To build rapport and an initial connection<br>- **Website:** Guest article submission form if available |
+| **Potential Barriers to Engagement** | - Pitches that are too promotional rather than informative<br>- Articles lacking credible sources or data<br>- A weak connection between the technology and its real-world outcomes (Our research avoids this by focusing on impact) |
+| **What We Need from Them** | - **Publication:** Feature an article on solar as a survival infrastructure in conflict zones, supported by our research and community interviews.<br>- **Amplification:** Share our findings via their newsletter and social media channels to reach a wider audience of policymakers and investors.<br>- **Awareness:** Help position the issue of energy access in conflict zones as both a critical humanitarian need and a market opportunity |
+| **Best Medium / Format** | - A feature article (1,200–1,500 words) that blends technical data with human-interest stories<br>- Accompanying infographics to visualize key research data<br>- A short, engaging LinkedIn post linking to the full article |
 
 ----
 ## Medium 
