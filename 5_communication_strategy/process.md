@@ -70,40 +70,13 @@ Solar isn’t just green tech — it’s **crisis tech**. But to fulfill its pro
 
 | Persona Name       | Description                                                                                          | Example(s)                                          | Preferred Format(s)                                             |
 |---------------------------|------------------------------------------------------------------------------------------------------|-----------------------------------------------------|------------------------------------------------------------------|
-| **1. Funders / Donors**          | Provide financial support for humanitarian relief and energy interventions in fragile settings.     | USAID, GIZ, philanthropic foundations               | Dashboards, impact stories, executive summaries                  |
-| **2. Solar Energy Initiatives**  | Deploy solar solutions in underserved or conflict-affected communities.                             | SolarAid, UNDP's Solar for Health, Power for Refugees | Case studies, data visualizations, videos                         |
+| **✅ 1. Solar Energy Initiatives**  | Deploy solar solutions in underserved or conflict-affected communities.                             | SolarAid, UNDP's Solar for Health, Power for Refugees | Case studies, data visualizations, videos                         |
+| **2. Funders / Donors**          | Provide financial support for humanitarian relief and energy interventions in fragile settings.     | USAID, GIZ, philanthropic foundations               | Dashboards, impact stories, executive summaries                  |
 | **3. General Public**            | Raise awareness, influence policy, and support energy access in crisis through advocacy or donations. | Voters, online campaigns, diaspora, student groups  | Social media, short videos, storytelling visuals, interactive websites |
 | **4. Journalists**               | Report and amplify issues related to energy, conflict, and humanitarian conditions.                   | Investigative reporters, energy/environmental media | Press releases, human-interest stories, data briefs, interviews  |
 
 ### Personas (Digging Deeper)
-#### 1. Funders / Donors 
-
-#### [UNHCR Refugee-led Innovation Fund](https://www.unhcr.org/innovation/refugee-led-innovation-fund/)
-
-UNHCR’s Innovation Service is dedicated to creating an enabling environment for innovation to flourish at UNHCR, the UN Refugee Agency.
-
-| **Category** | **Details** |
-|--------------|-------------|
-| **Who?** | **Grazia Paoleri**  <br> Senior Technical Advisor for the EU’s contribution to the Refugee Response in Uganda  <br> [LinkedIn Profile](https://ug.linkedin.com/in/grazia-paoleri-54025b60/en?trk=public_post_feed-actor-name) |
-| **What Drives Them?** | Belief in **refugee-led solutions**. Their mission is to **center displaced people** in humanitarian work, valuing lived experience as key to identifying needs and crafting effective solutions. |
-| **Why Our Project Fits** | Our project highlights **solar energy as a survival infrastructure**, showing how communities are already **innovating**. This aligns with their **bottom-up, grassroots** approach. |
-| **What They Fund** | - **Early-stage innovations** by refugees, for refugees  <br> - Community-based projects  <br> - Strong focus on **energy access** and practical solutions |
-| **Geographic Focus** | Global — open to all countries where **UNHCR operates** |
-| **Partners & Grantees** | Refugee-Led Organizations (RLOs), local community groups, and **non-traditional partners** |
-| **Goals** | - **Empower refugees** to lead solutions  <br> - **Build capacity** (project management, finance, data)  <br> - Promote **sustainable, dignified alternatives** to traditional aid |
-| **Problem They Address** | Lack of **flexible, direct funding** for local refugee-led initiatives |
-| **Incentive** | Belief that **investing in refugee-led innovation** leads to more **sustainable and impactful** outcomes than top-down approaches |
-| **How They Operate** | - Focused on **real-world impact**, not flashy tech  <br> - Want a **clear, actionable plan**  <br> - Value **strong community engagement** |
-| **Assumptions** | - Refugees are **active problem-solvers**, not passive recipients  <br> - **Energy is essential** and must be **affordable, reliable, and locally accessible** |
-| **Grant Information** | - **Fund Name:** [UNHCR Refugee-led Innovation Fund](https://www.unhcr.org/innovation/refugee-led-innovation-fund/)  <br> - **Location:** Based in Copenhagen, Denmark (Global reach)  <br> - **Status:** **Open** for applications  <br> - **Deadline:** August 22, 2025  <br> - **Eligibility:** Must be **led by forcibly displaced or stateless people** |
-| **Preferred Communication Channels** | - **Email** (professional and concise)  <br> - **LinkedIn** (for initial contact and visibility)  <br> - Possibly open to **Zoom/Webinars** if discussing partnerships or innovations |
-| **Barriers to Engagement** | - Projects not led by refugees are **ineligible** regardless of quality  <br> - Overly **technical or top-down language** may be a turn-off  <br> - Lack of community involvement or unclear benefit to displaced people |
-| **What we need from them** |-**Fund Our Pilot Project:** We request flexible, direct funding (up to $45,000) to design, implement, and evaluate a refugee-led "Solar Survival Kit" pilot in Khartoum, Sudan. <br> - **Amplify Our Findings:** Use their platform to share our blog post, research and project outcomes with key policymakers, donors, and other humanitarian organizations. <br> - **Support Local Leadership:** Advocate for a shift in humanitarian energy policy that prioritizes and funds refugee-led, grassroots solutions. |
-| **Best Medium / Format** | - **Blog posts** (story-driven, impact-focused)  <br> - **One-pagers or infographics** (clear, visual summaries of outcomes)  <br> - **Short reports with data + community voices** |
-
-
-
-#### 2. Solar Energy Initiatives
+#### ✅1. Solar Energy Initiatives
 
 #### Energy Research Centers
 
@@ -137,6 +110,36 @@ UNHCR’s Innovation Service is dedicated to creating an enabling environment fo
 2. Prepare a clear proposal outlining mutual benefits and collaboration opportunities.  
 3. Contact them via professional channels such as email, LinkedIn, conferences, or mutual contacts.  
 4. Main
+
+
+#### 2. Funders / Donors 
+
+#### [UNHCR Refugee-led Innovation Fund](https://www.unhcr.org/innovation/refugee-led-innovation-fund/)
+
+UNHCR’s Innovation Service is dedicated to creating an enabling environment for innovation to flourish at UNHCR, the UN Refugee Agency.
+
+| **Category** | **Details** |
+|--------------|-------------|
+| **Who?** | **Grazia Paoleri**  <br> Senior Technical Advisor for the EU’s contribution to the Refugee Response in Uganda  <br> [LinkedIn Profile](https://ug.linkedin.com/in/grazia-paoleri-54025b60/en?trk=public_post_feed-actor-name) |
+| **What Drives Them?** | Belief in **refugee-led solutions**. Their mission is to **center displaced people** in humanitarian work, valuing lived experience as key to identifying needs and crafting effective solutions. |
+| **Why Our Project Fits** | Our project highlights **solar energy as a survival infrastructure**, showing how communities are already **innovating**. This aligns with their **bottom-up, grassroots** approach. |
+| **What They Fund** | - **Early-stage innovations** by refugees, for refugees  <br> - Community-based projects  <br> - Strong focus on **energy access** and practical solutions |
+| **Geographic Focus** | Global — open to all countries where **UNHCR operates** |
+| **Partners & Grantees** | Refugee-Led Organizations (RLOs), local community groups, and **non-traditional partners** |
+| **Goals** | - **Empower refugees** to lead solutions  <br> - **Build capacity** (project management, finance, data)  <br> - Promote **sustainable, dignified alternatives** to traditional aid |
+| **Problem They Address** | Lack of **flexible, direct funding** for local refugee-led initiatives |
+| **Incentive** | Belief that **investing in refugee-led innovation** leads to more **sustainable and impactful** outcomes than top-down approaches |
+| **How They Operate** | - Focused on **real-world impact**, not flashy tech  <br> - Want a **clear, actionable plan**  <br> - Value **strong community engagement** |
+| **Assumptions** | - Refugees are **active problem-solvers**, not passive recipients  <br> - **Energy is essential** and must be **affordable, reliable, and locally accessible** |
+| **Grant Information** | - **Fund Name:** [UNHCR Refugee-led Innovation Fund](https://www.unhcr.org/innovation/refugee-led-innovation-fund/)  <br> - **Location:** Based in Copenhagen, Denmark (Global reach)  <br> - **Status:** **Open** for applications  <br> - **Deadline:** August 22, 2025  <br> - **Eligibility:** Must be **led by forcibly displaced or stateless people** |
+| **Preferred Communication Channels** | - **Email** (professional and concise)  <br> - **LinkedIn** (for initial contact and visibility)  <br> - Possibly open to **Zoom/Webinars** if discussing partnerships or innovations |
+| **Barriers to Engagement** | - Projects not led by refugees are **ineligible** regardless of quality  <br> - Overly **technical or top-down language** may be a turn-off  <br> - Lack of community involvement or unclear benefit to displaced people |
+| **What we need from them** |-**Fund Our Pilot Project:** We request flexible, direct funding (up to $45,000) to design, implement, and evaluate a refugee-led "Solar Survival Kit" pilot in Khartoum, Sudan. <br> - **Amplify Our Findings:** Use their platform to share our blog post, research and project outcomes with key policymakers, donors, and other humanitarian organizations. <br> - **Support Local Leadership:** Advocate for a shift in humanitarian energy policy that prioritizes and funds refugee-led, grassroots solutions. |
+| **Best Medium / Format** | - **Blog posts** (story-driven, impact-focused)  <br> - **One-pagers or infographics** (clear, visual summaries of outcomes)  <br> - **Short reports with data + community voices** |
+
+
+
+
 #### 3. General Public
 
 **Who they are**: Popular (Neighborhood-Based) Committees for Local Service Delivery and Community Administration in Sudan.  
