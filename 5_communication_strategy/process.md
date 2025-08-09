@@ -70,11 +70,10 @@ Solar isn’t just green tech — it’s **crisis tech**. But to fulfill its pro
 
 | Persona Name       | Description                                                                                          | Example(s)                                          | Preferred Format(s)                                             |
 |---------------------------|------------------------------------------------------------------------------------------------------|-----------------------------------------------------|------------------------------------------------------------------|
-| NGOs & Aid Organizations  | Operate on the ground to provide critical services in conflict zones, often needing reliable energy. | UNHCR, MSF (Doctors Without Borders), local NGOs    | Briefs, technical reports, infographics                         |
-| Funders / Donors          | Provide financial support for humanitarian relief and energy interventions in fragile settings.     | USAID, GIZ, philanthropic foundations               | Dashboards, impact stories, executive summaries                  |
-| Solar Energy Initiatives  | Deploy solar solutions in underserved or conflict-affected communities.                             | SolarAid, UNDP's Solar for Health, Power for Refugees | Case studies, data visualizations, videos                         |
-| General Public            | Raise awareness, influence policy, and support energy access in crisis through advocacy or donations. | Voters, online campaigns, diaspora, student groups  | Social media, short videos, storytelling visuals, interactive websites |
-| Journalists               | Report and amplify issues related to energy, conflict, and humanitarian conditions.                   | Investigative reporters, energy/environmental media | Press releases, human-interest stories, data briefs, interviews  |
+| **1. Funders / Donors**          | Provide financial support for humanitarian relief and energy interventions in fragile settings.     | USAID, GIZ, philanthropic foundations               | Dashboards, impact stories, executive summaries                  |
+| **2. Solar Energy Initiatives**  | Deploy solar solutions in underserved or conflict-affected communities.                             | SolarAid, UNDP's Solar for Health, Power for Refugees | Case studies, data visualizations, videos                         |
+| **3. General Public**            | Raise awareness, influence policy, and support energy access in crisis through advocacy or donations. | Voters, online campaigns, diaspora, student groups  | Social media, short videos, storytelling visuals, interactive websites |
+| **4. Journalists**               | Report and amplify issues related to energy, conflict, and humanitarian conditions.                   | Investigative reporters, energy/environmental media | Press releases, human-interest stories, data briefs, interviews  |
 
 ### Personas (Digging Deeper)
 #### 1. Funders / Donors 
@@ -106,6 +105,38 @@ UNHCR’s Innovation Service is dedicated to creating an enabling environment fo
 
 #### 2. Solar Energy Initiatives
 
+#### Energy Research Centers
+
+
+#### Why Engage Energy Research Centers?
+
+- **Expertise in Renewable Energy:** Energy research centers specialize in developing sustainable energy solutions, which aligns closely with our project focus.  
+- **Experience in Conflict Zones:** Many centers have experience working in conflict-affected areas, making them valuable partners who understand the challenges on the ground.  
+- **Access to Resources:** These centers often have data, technical tools, funding, and networks that can support and scale our project.
+
+
+#### How Can Energy Research Centers Support Our Project?
+
+- Provide technical expertise and guidance on renewable energy system design and deployment in conflict zones.  
+- Share relevant datasets and research to improve the quality of our analysis.  
+- Collaborate on pilot projects and field implementations.  
+- Assist in policy advocacy for renewable energy adoption in conflict and post-conflict settings.
+
+
+#### How Our Project Benefits Energy Research Centers
+
+- Offers real-world data and case studies on renewable energy deployment in challenging environments.  
+- Provides insights to improve technology development and sustainable energy policies.  
+- Demonstrates effective community engagement models in fragile contexts.  
+- Supplies evidence to support advocacy and policy formulation.
+
+
+#### How to Reach Out and Collaborate
+
+1. Identify centers with expertise in renewable energy and conflict/post-conflict work.  
+2. Prepare a clear proposal outlining mutual benefits and collaboration opportunities.  
+3. Contact them via professional channels such as email, LinkedIn, conferences, or mutual contacts.  
+4. Main
 #### 3. General Public
 
 **Who they are**: Popular (Neighborhood-Based) Committees for Local Service Delivery and Community Administration in Sudan.  
@@ -155,42 +186,10 @@ generators, as they are more familiar and accessible.
   and government agencies to enable smooth deployment.
 - Organize community meetings or forums for
   project planning and decision making.
-
-#### **4.Energy Research Centers**
-
-
-#### Why Engage Energy Research Centers?
-
-- **Expertise in Renewable Energy:** Energy research centers specialize in developing sustainable energy solutions, which aligns closely with our project focus.  
-- **Experience in Conflict Zones:** Many centers have experience working in conflict-affected areas, making them valuable partners who understand the challenges on the ground.  
-- **Access to Resources:** These centers often have data, technical tools, funding, and networks that can support and scale our project.
+tain communication with updates and invitations for joint activities.
 
 
-#### How Can Energy Research Centers Support Our Project?
-
-- Provide technical expertise and guidance on renewable energy system design and deployment in conflict zones.  
-- Share relevant datasets and research to improve the quality of our analysis.  
-- Collaborate on pilot projects and field implementations.  
-- Assist in policy advocacy for renewable energy adoption in conflict and post-conflict settings.
-
-
-#### How Our Project Benefits Energy Research Centers
-
-- Offers real-world data and case studies on renewable energy deployment in challenging environments.  
-- Provides insights to improve technology development and sustainable energy policies.  
-- Demonstrates effective community engagement models in fragile contexts.  
-- Supplies evidence to support advocacy and policy formulation.
-
-
-#### How to Reach Out and Collaborate
-
-1. Identify centers with expertise in renewable energy and conflict/post-conflict work.  
-2. Prepare a clear proposal outlining mutual benefits and collaboration opportunities.  
-3. Contact them via professional channels such as email, LinkedIn, conferences, or mutual contacts.  
-4. Maintain communication with updates and invitations for joint activities.
-
-
- #### 5. Journalists
+ #### 4. Journalists
 
 #### Magazine : [Renewable Energy World](https://www.renewableenergyworld.com/) 
 
