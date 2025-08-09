@@ -156,6 +156,8 @@ generators, as they are more familiar and accessible.
 - Organize community meetings or forums for
   project planning and decision making.
 
+ ----
+
 #### **4.Energy Research Centers**
 
 
