@@ -13,8 +13,8 @@ Each serves a different purpose — together, they form a complete, consistent m
   - **Includes:** Challenge framing (15%), innovation details (30%), community leadership (20%), 12-month implementation plan (15%), and impact/sustainability/scale strategy (20%).
 
 - **`process.md`** → [View file](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/communicating_res/5_communication_strategy/process.md)  
-  The **detailed playbook** for our process and how we communicate with each audience.  
-  - **Includes:** Core messaging, narrative breakdown, audience profiles, barriers to adoption, engagement methods, communication channels, and general action steps.
+  The **detailed playbook** for our process of choosing persona and how to communicate with each audience.  
+  - **Includes:** Audience profiles, barriers to adoption, engagement methods, communication channels, and general action steps.
 
 - **`readme.md`** → [View file](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/communicating_res/5_communication_strategy/README.md)  
   The **public-facing summary** blending storytelling with actionable strategy.  
