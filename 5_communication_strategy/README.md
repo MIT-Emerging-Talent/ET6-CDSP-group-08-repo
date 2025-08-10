@@ -4,10 +4,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=35&pause=1000&color=3B6FD4&vCenter=true&repeat=false&width=850&height=40&lines=Solar+Energy+for+Community+Resilience+in+Sudan)](https://git.io/typing-svg)
 
 This strategy is designed to empower **Popular Committees in Sudan** to champion solar energy solutions for their communities.
-In this strategy , we combined two audiences to deliver an impactful 
-#### [UNHCR Refugee-led Innovation Fund](https://www.unhcr.org/innovation/refugee-led-innovation-fund/)
+In this strategy , we combined two audiences ( Funders/ Donors and General Public ) to deliver an impactful result.
 
-UNHCR’s Innovation Service is dedicated to creating an enabling environment for innovation to flourish at UNHCR, the UN Refugee Agency.
+1. Funder / Donor 
+**Who they are**: [UNHCR Refugee-led Innovation Fund](https://www.unhcr.org/innovation/refugee-led-innovation-fund/)
 
 | **Category** | **Details** |
 |--------------|-------------|
@@ -32,9 +32,7 @@ UNHCR’s Innovation Service is dedicated to creating an enabling environment fo
 | **Best Medium / Format** | - **Blog posts** (story-driven, impact-focused)  <br> - **One-pagers or infographics** (clear, visual summaries of outcomes)  <br> - **Short reports with data + community voices** |
 
 
-
-
-#### 3. General Public
+#### 2. General Public
 
 **Who they are**: Popular (Neighborhood-Based) Committees for Local Service Delivery and Community Administration in Sudan.  
 
