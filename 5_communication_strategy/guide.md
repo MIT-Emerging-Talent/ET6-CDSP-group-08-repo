@@ -1,28 +1,22 @@
 <!-- markdownlint-disable MD013 MD037 MD001 MD023 MD022 MD049 MD031 MD007 MD033 MD004 MD009 MD013 MD045 MD041 MD032 MD039 MD019 MD012-->
-# Communication Strategy: Guide
+# **Communication Strategy: Guide**
 
-This project’s communication strategy is split into three files.  
+This project’s communication strategy is split into four key files.  
 Each serves a different purpose — together, they form a complete, consistent message.
 
-- **`pitch.md`** →  [View file](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/communicating_res/5_communication_strategy/pitch.md)  
-  A short, persuasive introduction for UNHCR application, partners, and decision-makers.  
-  - Focus: Hook → Problem → Solution → Why it’s innovative → The Ask → Impact.  
-  - Tone: Inspiring, concise, and easy to skim.
+- **`pitch.md`** → [View file](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/communicating_res/5_communication_strategy/pitch.md)  
+  A **short, persuasive introduction** for UNHCR, partners, and decision-makers.  
+  - **Includes:** Problem statement, key insight from our data analysis, the "Solar Survival Kit" concept, community partnership model, and the funding/partnership request.
 
 - **`proposal.md`** → [View file](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/communicating_res/5_communication_strategy/proposal.md)  
   A **full grant-style proposal** with structured details aligned to UNHCR evaluation criteria.  
-  - **Focus:** Challenge framing, innovation, community leadership, implementation roadmap, impact, sustainability, scale.  
-  - **Use:** Formal submissions to funders and institutional partners.  
-  - **Tone:** Professional, comprehensive, and evidence-based.
+  - **Includes:** Challenge framing (15%), innovation details (30%), community leadership (20%), 12-month implementation plan (15%), and impact/sustainability/scale strategy (20%).
 
-- **`process.md`** →  [View file](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/communicating_res/5_communication_strategy/process.md)  
-  The detailed playbook for or process and how we want to communicate and with whom.  
-  - Focus: Core message, narrative arc, audience breakdown, communication mediums, expected actions.  
-  - Include: Data, audience profiles, barriers, and engagement methods.  
-  - Tone: Structured, evidence-based, strategic.
+- **`process.md`** → [View file](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/communicating_res/5_communication_strategy/process.md)  
+  The **detailed playbook** for our process and how we communicate with each audience.  
+  - **Includes:** Core messaging, narrative breakdown, audience profiles, barriers to adoption, engagement methods, communication channels, and general action steps.
 
-- **`readme.md`** →  [View file](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/communicating_res/5_communication_strategy/README.md)  
-  The public-facing summary that combines storytelling and actionable strategy.  
-  - Focus: Project overview, key messages, condensed audience insights,  and expectations.
-  - Use: For sharing with both internal team and external collaborators.  
-  - Tone: Balanced between engaging and practical.
+- **`readme.md`** → [View file](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/communicating_res/5_communication_strategy/README.md)  
+  The **public-facing summary** blending storytelling with actionable strategy.  
+  - **Includes:** Project overview, key messages, condensed audience insights, expectations from partners, evaluation criteria, and recommended communication tools.
+
