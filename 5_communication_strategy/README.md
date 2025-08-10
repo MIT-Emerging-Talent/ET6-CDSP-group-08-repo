@@ -28,9 +28,9 @@ This strategy is designed to empower **Popular Committees in Sudan** to champion
 Current Situation  </b></summary>
   
 - **Power Reliability:** In Khartoum and surrounding areas, grid outages average **1 - 7 days** during peak demand and crisis periods.
-<details>
+- <details>
 <summary><b>
-  Duration Varies  </b></summary>
+ That Duration Varies  </b></summary>
   
 The length of power outages in Khartoum depends heavily on the specific circumstances.
 - **Routine Unreliability:** Even in relatively stable times, the national grid is fragile. Daily outages of **12–16 hours** are common due to poor infrastructure and maintenance.
