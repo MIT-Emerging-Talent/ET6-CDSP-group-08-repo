@@ -4,6 +4,86 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=35&pause=1000&color=3B6FD4&vCenter=true&repeat=false&width=850&height=40&lines=Solar+Energy+for+Community+Resilience+in+Sudan)](https://git.io/typing-svg)
 
 This strategy is designed to empower **Popular Committees in Sudan** to champion solar energy solutions for their communities.
+In this strategy , we combined two audiences to deliver an impactful 
+#### [UNHCR Refugee-led Innovation Fund](https://www.unhcr.org/innovation/refugee-led-innovation-fund/)
+
+UNHCR’s Innovation Service is dedicated to creating an enabling environment for innovation to flourish at UNHCR, the UN Refugee Agency.
+
+| **Category** | **Details** |
+|--------------|-------------|
+| **Target Funders** | [UNHCR Refugee-led Innovation Fund](https://www.unhcr.org/innovation/refugee-led-innovation-fund/) |
+| **Who?** | **Grazia Paoleri**  <br> Senior Technical Advisor for the EU’s contribution to the Refugee Response in Uganda  <br> [LinkedIn Profile](https://ug.linkedin.com/in/grazia-paoleri-54025b60/en?trk=public_post_feed-actor-name) |
+| **What Drives Them?** | Belief in **refugee-led solutions**. Their mission is to **center displaced people** in humanitarian work, valuing lived experience as key to identifying needs and crafting effective solutions. |
+| **Why Our Project Fits** | Our project highlights **solar energy as a survival infrastructure**, showing how communities are already **innovating**. This aligns with their **bottom-up, grassroots** approach. |
+| **What They Fund** | - **Early-stage innovations** by refugees, for refugees  <br> - Community-based projects  <br> - Strong focus on **energy access** and practical solutions |
+| **Geographic Focus** | Global — open to all countries where **UNHCR operates** |
+| **Partners & Grantees** | Refugee-Led Organizations (RLOs), local community groups, and **non-traditional partners** |
+| **Goals** | - **Empower refugees** to lead solutions  <br> - **Build capacity** (project management, finance, data)  <br> - Promote **sustainable, dignified alternatives** to traditional aid |
+| **Problem They Address** | Lack of **flexible, direct funding** for local refugee-led initiatives |
+| **Incentive** | Belief that **investing in refugee-led innovation** leads to more **sustainable and impactful** outcomes than top-down approaches |
+| **How They Operate** | - Focused on **real-world impact**, not flashy tech  <br> - Want a **clear, actionable plan**  <br> - Value **strong community engagement** |
+| **Assumptions** | - Refugees are **active problem-solvers**, not passive recipients  <br> - **Energy is essential** and must be **affordable, reliable, and locally accessible** |
+| **Grant Information** | - **Fund Name:** [UNHCR Refugee-led Innovation Fund](https://www.unhcr.org/innovation/refugee-led-innovation-fund/)  <br> - **Location:** Based in Copenhagen, Denmark (Global reach)  <br> - **Status:** **Open** for applications  <br> - **Deadline:** August 22, 2025  <br> - **Eligibility:** Must be **led by forcibly displaced or stateless people** |
+| **Preferred Communication Channels** | - **Email** (professional and concise)  <br> - **LinkedIn** (for initial contact and visibility)  <br> - Possibly open to **Zoom/Webinars** if discussing partnerships or innovations |
+| **What's Offered** | - **Financial support:** Up to $45,000 USD.  <br> - **Holistic support:** This goes beyond just money. It includes mentoring, help with project management, technical expertise (like legal or technology advice), and opportunities for networking with other refugee-led organizations.  <br> - **Focus on learning:** The fund emphasizes measuring outcomes and sharing lessons learned. |
+| **What we need from them** |-**Fund Our Pilot Project:** We request flexible, direct funding (up to $45,000) to design, implement, and evaluate a refugee-led "Solar Survival Kit" pilot in Khartoum, Sudan. <br> - **Amplify Our Findings:** Use their platform to share our blog post, research and project outcomes with key policymakers, donors, and other humanitarian organizations. <br> - **Support Local Leadership:** Advocate for a shift in humanitarian energy policy that prioritizes and funds refugee-led, grassroots solutions. |
+| **The Application Process** | -Submitting a proposal online. <br> - A vetting and due diligence phase to check eligibility (specifically that at least 50% of the leadership has lived experience). <br> - A pitch to a selection committee. <br> - A final review by a steering committee, which includes displaced and stateless individuals.|
+| **Barriers to Engagement** | - Projects not led by refugees are **ineligible** regardless of quality  <br> - Overly **technical or top-down language** may be a turn-off  <br> - Lack of community involvement or unclear benefit to displaced people |
+| **Best Medium / Format** | - **Blog posts** (story-driven, impact-focused)  <br> - **One-pagers or infographics** (clear, visual summaries of outcomes)  <br> - **Short reports with data + community voices** |
+
+
+
+
+#### 3. General Public
+
+**Who they are**: Popular (Neighborhood-Based) Committees for Local Service Delivery and Community Administration in Sudan.  
+
+**What They Do:** These are community-based bodies, 
+typically formed at the neighborhood or village level,
+to manage and coordinate essential local affairs in the
+absence or weakness of formal state institutions.
+They are often responsible for basic service delivery
+(such as water, electricity, and sanitation),
+issuing residence certificates, resolving local disputes,
+organizing community security efforts,
+and mobilizing resources through voluntary contributions.  
+
+**Their Goals and Aims:** Their main purpose is to serve as a link between regulatory bodies,
+government agencies, aid organizations, and the members of the communities they represent.
+In contexts like Sudan, these committees can play a vital governance role—especially
+during periods of crisis or when state presence is limited.  
+
+**Their Scientific Background:** As committee members are elected from within the community,
+their educational and scientific backgrounds can vary significantly.
+However, it is generally expected that most of them have at least
+a basic understanding of mathematics and statistics, which should
+make it possible to communicate findings and results effectively.
+Most also have access to smartphones and the internet and are comfortable using them.  
+
+**Their Background on Solar Energy:** Solar energy is already
+recognized as a resilient solution to Sudan’s energy challenges.
+However, its use has been mostly limited to individual
+applications—such as private homes or services provided by
+the private sector. It has not yet been widely adopted for
+public services such as health, education, or agriculture.
+In these sectors, communities still rely primarily on diesel
+generators, as they are more familiar and accessible.  
+
+#### **What we expect from them:**  
+- Raise awareness about the benefits of solar
+  energy for public services (schools, clinics, water pumps).
+- Dispel common misconceptions
+  (e.g., solar is only for homes, or it’s too expensive to maintain).
+- Encourage collective acceptance of solar projects.
+- Highlight locations and institutions
+  where solar infrastructure would have the highest impact.
+- Encourage community contributions
+  (financial or in-kind) to expand deployment.
+- Coordinate between communities,implementing partners,
+  and government agencies to enable smooth deployment.
+- Organize community meetings or forums for
+  project planning and decision making.
+tain communication with updates and invitations for joint activities.
 
 
 ## **Core Message**
