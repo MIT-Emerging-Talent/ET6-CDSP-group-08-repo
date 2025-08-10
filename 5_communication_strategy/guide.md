@@ -10,8 +10,8 @@ Each serves a different purpose — together, they form a complete, consistent m
 
 - **`proposal.md`** → [View file](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/communicating_res/5_communication_strategy/proposal.md)  
   A **full grant-style proposal** with structured details aligned to UNHCR evaluation criteria.  
-  - **Includes:** Challenge framing (15%), innovation details (30%), community leadership (20%), 12-month implementation plan (15%), and impact/sustainability/scale strategy (20%).
-
+  - **Includes:** Challenge framing, innovation, community leadership, implementation roadmap, impact, sustainability, scale.
+  
 - **`process.md`** → [View file](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/communicating_res/5_communication_strategy/process.md)  
   The **detailed playbook** for our process of choosing persona and how to communicate with each audience.  
   - **Includes:** Audience profiles, barriers to adoption, engagement methods, communication channels, and general action steps.
