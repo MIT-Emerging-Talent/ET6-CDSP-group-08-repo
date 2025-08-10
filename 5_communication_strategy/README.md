@@ -15,38 +15,43 @@ This strategy is designed to empower **Popular Committees in Sudan** to champion
 ## **Narrative: A Story for Our Community**
 
 ### **1. Beginning – The Problem We All Face**
+
 - **Challenge:**
-  - The official power grid is unreliable and often fails, especially during crises.
-  - Diesel is expensive and hard to find; generators are loud and require constant maintenance.
-  - This affects clinics, schools, and water supplies.
+  - Khartoum’s power grid is unreliable and frequently fails, especially during crises.
+  - Diesel is costly, difficult to obtain, and dependent on noisy, high-maintenance generators.
+  - These issues disrupt essential services such as clinics, schools, and water supply.
+
 - **Misconception:**
-  - Solar is for single homes or businesses only.
-  - Perceived as too expensive or complex for public services.
+  - Many believe solar is only suitable for private homes or businesses.
+  - It’s often perceived as too expensive or complicated for public infrastructure.
 
 <details>
-<summary><b>
-Current Situation  </b></summary>
-  
-- **Power Reliability:** In Khartoum and surrounding areas, grid outages average **1 - 7 days** during peak demand and crisis periods.
-<details>
-<summary><b>
-Duration Varies  </b></summary>
-  
-The length of power outages in Khartoum depends heavily on the specific circumstances.
-- **Routine Unreliability:** Even in relatively stable times, the national grid is fragile. Daily outages of **12–16 hours** are common due to poor infrastructure and maintenance.
-- **Peak Demand:** During the hot summer months, demand for cooling overwhelms the system, causing more frequent and longer blackouts.
-- **Conflict and Crisis:** This is the most severe factor. When power stations or transmission lines are damaged by military action, the outages are not a matter of hours, but of days, weeks, and sometimes even months. Recent reports indicate that residents have been forced to take matters into their own hands, repairing damaged infrastructure themselves.
-</details>
+<summary><b>Current Situation</b></summary>
+
+- **Power Reliability:**  
+  In Khartoum and nearby areas, outages can last **1–7 days** during peak demand or crisis periods.
+
+  <details>
+  <summary><b>Duration Varies</b></summary>
+
+  The length of blackouts depends on the situation:
+  - **Routine Unreliability:** Even in stable periods, daily outages of **12–16 hours** are common due to poor infrastructure and maintenance.
+  - **Peak Demand:** Hot summer months overwhelm the grid, causing longer and more frequent outages.
+  - **Conflict & Crisis:** The most severe scenario — damage to power stations or transmission lines can cause outages lasting **days, weeks, or even months**.  
+    In some cases, residents have had to repair damaged infrastructure themselves.
+  </details>
 
 - **Diesel Dependence:**  
-  - Diesel price (2025): ~**$2.10/litre**.  
-  - A small clinic consumes **80–120 litres/month** just for refrigeration and lights.
+  - Price (2025): ~**$2.10/litre**.  
+  - A small clinic consumes **80–120 litres/month** just for refrigeration and lighting.
 
 - **Impact on Services:**
-  - **Healthcare:** Vaccines spoil; night operations cancelled.  
-  - **Water:** Pumps stop; residents carry water manually.  
-  - **Education:** Evening classes cancelled due to lack of light.  
+  - **Healthcare:** Vaccines spoil; night operations are cancelled.  
+  - **Water:** Pumps stop, forcing residents to fetch water manually.  
+  - **Education:** Evening classes are cancelled due to lack of lighting.
+
 </details>
+
 
 ### **2. Middle – The New Discovery**
 - **Evidence:** Successful solar adoption exists in parts of Sudan and elsewhere.
