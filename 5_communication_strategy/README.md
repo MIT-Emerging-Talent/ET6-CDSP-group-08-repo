@@ -264,11 +264,18 @@ This is about building buy-in and awareness, using simple, relatable language.
 
 ## **Criteria**
 
-### **1. Challenge Framing (15%)**
+<details>
+<summary><b>
+1. Challenge Framing (15%) </b></summary>
+  
 - Existing: “Solar energy is recognized as resilient… limited to individual applications… diesel reliance remains.”
 - Addition: Stress harm—vaccines spoil, evening classes halted—and firsthand understanding.
+</details>
 
-### **2. Innovation (30%)**
+<details>
+<summary><b>
+2. Innovation (30%) </b></summary>
+  
 - Core: **Solar Survival Kit** — modular, durable, community-owned.
 **What makes it different:**
 1. **Public-Service First:** Built for shared community facilities, not just households.  
@@ -277,8 +284,13 @@ This is about building buy-in and awareness, using simple, relatable language.
    - **Site Prioritization Model** → ranks facilities by need, impact, and feasibility.  
    - **Solar Impact Dashboard** → tracks uptime, cost savings, and beneficiaries in real time.  
 4. **Co-Created:** Designed with **Popular Committees** through workshops and local surveys. 
+</details>
 
-### **3. Community Leadership (20%)**
+
+<details>
+<summary><b>
+3. Community Leadership (20%) </b></summary>
+
 #### **Role of Popular Committees**
 - **Awareness:** Educate communities on solar for public services using DS-generated infographics and WhatsApp visuals.  
 - **Mobilization:** Lead fundraising drives (financial or in-kind contributions).  
@@ -288,19 +300,27 @@ This is about building buy-in and awareness, using simple, relatable language.
 **Inclusive Co-Design:**
 - Workshops with diverse community members (women, youth, elders).  
 - Feedback loops built into DS dashboards for ongoing adaptation.
+</details>
 
-### **4. Implementation (15%)**
+<details>
+<summary><b>
+4. Implementation (15%) </b></summary>
+
 - **Funding Request:** $45,000.
 - **Timeline:**
   - Month 1–2: Community meetings, co-design.
   - Month 3–6: Procurement, installation.
   - Month 7–9: Monitoring, evaluation.
   - Month 10–12: Reporting, dissemination.
+</details>
 
-### **5. Impact, Sustainability & Scale (20%)**
+<details>
+<summary><b>
+5. Impact, Sustainability & Scale (20%)</b></summary>
+
 - **Impact:** Reliable power = saved lives, better education, clean water.
 - **Sustainability:** Committee-managed with maintenance fund and trained technicians.
 - **Scale:** Replicable in other Sudanese regions.
+</details>
 
----
 
