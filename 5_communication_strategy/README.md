@@ -223,7 +223,7 @@ A. For Committees </b></summary>
 
 <details>
 <summary><b>
-## B. For Funders (UNHCR) </b></summary>
+B. For Funders (UNHCR) </b></summary>
 
 ### 1. Pitch Presentation
 
@@ -240,7 +240,7 @@ A. For Committees </b></summary>
 
 <details>
 <summary><b>
-### C. For the Public </b></summary>
+ C. For the Public </b></summary>
 
 #### 1. Blog Post & Infographics
 
@@ -260,6 +260,7 @@ This is about building buy-in and awareness, using simple, relatable language.
         * Show a side-by-side comparison of the cost and effort of diesel versus solar.
         * Ensure all text is in the local language(s) and is easy to read on a smartphone.
 </details>
+
 ---
 
 ## **Criteria**
