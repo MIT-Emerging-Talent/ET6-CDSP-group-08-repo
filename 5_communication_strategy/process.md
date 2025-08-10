@@ -220,7 +220,13 @@ tain communication with updates and invitations for joint activities.
 
 ----
 ## Mediums
-#### Blog Post
+
+### Sharing Findings
+
+1. **Presentation**: Schedule meeting with the targeted audience.
+2. **Online Platforms**: Share on professional networks (e.g., LinkedIn, medium, X), relevant forums, and share project repository
+3. **Direct Outreach**: Email brief and link to repo to key contacts + Blog Post
+4. **Blog Post**
 
 <details>
 <summary><b>Pros of blog format: </b></summary>
@@ -231,12 +237,6 @@ tain communication with updates and invitations for joint activities.
 - **Connects emotionally:** Can show real-world impact, photos, quotes.
 - **Boosts visibility** A well-SEO’d blog can reach new audiences.
 </details>
-
-### Sharing Findings
-
-1. **Presentation**: Schedule meeting with the targeted audience.
-2. **Online Platforms**: Share on professional networks (e.g., LinkedIn, medium, X), relevant forums, and share project repository
-3. **Direct Outreach**: Email brief and link to repo to key contacts + Blog Post
 
 ----
 
