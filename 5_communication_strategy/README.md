@@ -35,7 +35,7 @@ This strategy is designed to empower **Popular Committees in Sudan** to champion
 ---
 ## **Audience**
 
-In this strategy , we combined two audiences ( Funders/ Donors and General Public ) to deliver an impactful result.
+In this strategy , we combined two audiences to deliver an impactful result: 
 
 <details>
 <summary><b>
