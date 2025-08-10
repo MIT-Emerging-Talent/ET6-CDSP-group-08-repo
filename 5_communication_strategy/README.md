@@ -191,7 +191,7 @@ tain communication with updates and invitations for joint activities.
 ## Medium
 <details>
 <summary><b>
-## **A. For Committees** </b></summary>
+A. For Committees </b></summary>
 
 
 ### **1. Communication & Awareness Tools**
@@ -240,7 +240,7 @@ tain communication with updates and invitations for joint activities.
 
 <details>
 <summary><b>
-### C. For the Public (Popular Committees and the wider Sudanese community and social media) </b></summary>
+### C. For the Public </b></summary>
 
 #### 1. Blog Post & Infographics
 
