@@ -24,7 +24,7 @@ This strategy is designed to empower **Popular Committees in Sudan** to champion
   - Perceived as too expensive or complex for public services.
 
 ### **Current Situation**
-- **Power Reliability:** In Khartoum and surrounding areas, grid outages average **6–10 hours/day** during peak demand and crisis periods.  
+- **Power Reliability:** In Khartoum and surrounding areas, grid outages average **1 - 7 days** during peak demand and crisis periods.  
 - **Diesel Dependence:**  
   - Diesel price (2025): ~**$2.10/litre**.  
   - A small clinic consumes **80–120 litres/month** just for refrigeration and lights.  
@@ -32,10 +32,6 @@ This strategy is designed to empower **Popular Committees in Sudan** to champion
   - **Healthcare:** Vaccines spoil; night operations cancelled.  
   - **Water:** Pumps stop; residents carry water manually.  
   - **Education:** Evening classes cancelled due to lack of light.  
-
-### **The Gap**
-- Solar is used in **private homes** and **businesses**, but almost never for **public services**.  
-- Popular Committees lack **decision-making tools** and **funding models** to implement public-service solar systems.
 
 ### **2. Middle – The New Discovery**
 - **Evidence:** Successful solar adoption exists in parts of Sudan and elsewhere.
@@ -49,7 +45,7 @@ This strategy is designed to empower **Popular Committees in Sudan** to champion
 ---
 ## **Audience**
 
-In this strategy , we combined two audiences to deliver an impactful result: 
+In this strategy, we combined two audiences to deliver an impactful result: 
 
 <details>
 <summary><b>
@@ -177,8 +173,8 @@ tain communication with updates and invitations for joint activities.
 
 ---
 
-
-## **Specific Actions & Communication Tools for Committees**
+## Medium
+## **A. For Committees**
 
 ### **1. Communication & Awareness Tools**
 - **Infographics** (WhatsApp-shareable) showing solar benefits:
@@ -205,6 +201,40 @@ tain communication with updates and invitations for joint activities.
 ### **4. Mobilizing Community Action**
 - **Contribution Plan Template** for funding, labor, or site provision.
 - **Partner Coordination Guide** for working with aid agencies and NGOs.
+
+## B. For Funders (like UNHCR)
+
+### 1. Pitch Presentation
+
+* **Action:** Create a concise, visually appealing deck (e.g., 10-15 slides).
+* **Content:**
+    * **Slide 1: The Problem (The "Why"):** Use a single powerful image and a short, emotional headline, such as, "When the lights go out, lives are at risk."
+    * **Slide 2: Our Discovery (The Data):** Show a simple chart or map from your data science project that highlights the need.
+    * **Slide 3: Our Solution (The "What"):** Introduce the **"Solar Survival Kit"** with a clear diagram or prototype image.
+    * **Slide 4: Our Partners (The "Who"):** Feature a picture of the Popular Committees and explain their leadership role.
+    * **Slide 5: Our Plan (The "How"):** Use a simple timeline to show your implementation plan.
+    * **Slide 6: Our Ask:** Clearly state your request for $45,000 and what you'll achieve with it.
+    * **Final Slide: The Vision:** End with a powerful statement about the future you are building—resilient, self-sufficient communities in Sudan.
+
+### C. For the Public (Popular Committees and the wider Sudanese community)
+
+#### 1. Blog Post & Infographics
+
+This is about building buy-in and awareness, using simple, relatable language.
+
+* **Action:** Publish the blog post on your website or a platform like Medium, and create shareable infographics for platforms like WhatsApp and Facebook.
+* **Content:**
+    * **Blog Post:**
+        * The title should be inspiring and relatable, such as, "How Our Community is Building a Brighter Future with Solar Power."
+        * Use the "Narrative: A Story for Our Community" to guide the structure.
+        * Keep the language simple and avoid jargon.
+        * Include quotes from community members and stories of success.
+        * End with a clear call to action: "Join our next meeting to learn more," or "Share this with your neighbors."
+    * **Infographics:**
+        * Create visuals for each of your "Fact Sheets" to dispel myths.
+        * Use simple icons to represent clinics, schools, and water pumps.
+        * Show a side-by-side comparison of the cost and effort of diesel versus solar.
+        * Ensure all text is in the local language(s) and is easy to read on a smartphone.
 
 ---
 
