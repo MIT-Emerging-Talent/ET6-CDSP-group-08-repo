@@ -14,7 +14,7 @@ Each serves a different purpose — together, they form a complete, consistent m
   
 - **`process.md`** → [View file](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/communicating_res/5_communication_strategy/process.md)  
   The **detailed playbook** for our process of choosing persona and how to communicate with each audience.  
-  - **Includes:** Audience profiles, barriers to adoption, engagement methods, communication channels, and general action steps.
+  - **Includes:** General Core mesage, audience profiles, barriers to adoption, engagement methods, communication channels, and general action steps.
 
 - **`readme.md`** → [View file](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/communicating_res/5_communication_strategy/README.md)  
   The **public-facing summary** blending storytelling with actionable strategy.  
