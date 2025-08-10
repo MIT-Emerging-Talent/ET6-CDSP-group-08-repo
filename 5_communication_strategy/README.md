@@ -4,6 +4,37 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=35&pause=1000&color=3B6FD4&vCenter=true&repeat=false&width=850&height=40&lines=Solar+Energy+for+Community+Resilience+in+Sudan)](https://git.io/typing-svg)
 
 This strategy is designed to empower **Popular Committees in Sudan** to champion solar energy solutions for their communities.
+
+## **Core Message**
+**Solar power is not just about lights—it's about our community's future.**
+- *"When the main power is cut, solar energy keeps our clinics running, our water pumps flowing, and our neighborhoods safe."*
+- *"This isn't a temporary fix; it's a permanent solution that gives us control over our own essential services."*
+
+---
+
+## **Narrative: A Story for Our Community**
+
+### **1. Beginning – The Problem We All Face**
+- **Challenge:**
+  - The official power grid is unreliable and often fails, especially during crises.
+  - Diesel is expensive and hard to find; generators are loud and require constant maintenance.
+  - This affects clinics, schools, and water supplies.
+- **Misconception:**
+  - Solar is for single homes or businesses only.
+  - Perceived as too expensive or complex for public services.
+
+### **2. Middle – The New Discovery**
+- **Evidence:** Successful solar adoption exists in parts of Sudan and elsewhere.
+- **Reality:** Small, durable solar systems outperform the central grid, especially during crises.
+- **Opportunity:** Replace costly diesel generators with community-owned solar solutions.
+
+### **3. End – The Call to Action**
+- **Implication:** Solar is vital infrastructure for resilience and self-sufficiency.
+- **Action:** Popular Committees to lead as champions of solar adoption.
+
+---
+## **Audience**
+
 In this strategy , we combined two audiences ( Funders/ Donors and General Public ) to deliver an impactful result.
 
 <details>
@@ -89,66 +120,6 @@ generators, as they are more familiar and accessible.
 tain communication with updates and invitations for joint activities.
 </details>
 
-## **Core Message**
-**Solar power is not just about lights—it's about our community's future.**
-- *"When the main power is cut, solar energy keeps our clinics running, our water pumps flowing, and our neighborhoods safe."*
-- *"This isn't a temporary fix; it's a permanent solution that gives us control over our own essential services."*
-
----
-
-## **Narrative: A Story for Our Community**
-
-### **1. Beginning – The Problem We All Face**
-- **Challenge:**
-  - The official power grid is unreliable and often fails, especially during crises.
-  - Diesel is expensive and hard to find; generators are loud and require constant maintenance.
-  - This affects clinics, schools, and water supplies.
-- **Misconception:**
-  - Solar is for single homes or businesses only.
-  - Perceived as too expensive or complex for public services.
-
-### **2. Middle – The New Discovery**
-- **Evidence:** Successful solar adoption exists in parts of Sudan and elsewhere.
-- **Reality:** Small, durable solar systems outperform the central grid, especially during crises.
-- **Opportunity:** Replace costly diesel generators with community-owned solar solutions.
-
-### **3. End – The Call to Action**
-- **Implication:** Solar is vital infrastructure for resilience and self-sufficiency.
-- **Action:** Popular Committees to lead as champions of solar adoption.
-
----
-
-## **Specific Actions & Communication Tools for Committees**
-
-### **1. Communication & Awareness Tools**
-- **Infographics** (WhatsApp-shareable) showing solar benefits:
-  - *Clinic:* Vaccines stay cold, operations continue at night.
-  - *Water Pump:* Water flows without costly diesel.
-  - *School:* Evening study possible despite outages.
-- **Short Videos:** Success stories from other committees/leaders.
-- **Case Studies:** One-page documents including:
-  - Problem → Solution → Result.
-
-### **2. Guiding Community Meetings & Forums**
-- **Meeting Agenda Template** for discussing solar adoption.
-- **Decision-Making Framework** with ranking criteria:
-  - People served.
-  - Service criticality in emergencies.
-  - Sunlight availability and installation space.
-
-### **3. Dispelling Misconceptions**
-- **Fact Sheets:**
-  - *Myth:* Solar is too expensive → **Fact:** Saves money over time.
-  - *Myth:* Solar is for the rich → **Fact:** Community investment benefits all.
-  - *Myth:* Solar is unreliable → **Fact:** Modern tech works day/night, even on cloudy days.
-
-### **4. Mobilizing Community Action**
-- **Contribution Plan Template** for funding, labor, or site provision.
-- **Partner Coordination Guide** for working with aid agencies and NGOs.
-
----
-
-## **Audience**
 ### **The Audience: Popular Committees in Sudan**
 - Community-led groups that handle essential services in neighborhoods and villages.  
 - Function as local governing bodies when the formal government is weak or absent.  
@@ -191,6 +162,39 @@ tain communication with updates and invitations for joint activities.
 - **Project Selection:** Identify high-impact sites for solar.
 
 ---
+
+
+## **Specific Actions & Communication Tools for Committees**
+
+### **1. Communication & Awareness Tools**
+- **Infographics** (WhatsApp-shareable) showing solar benefits:
+  - *Clinic:* Vaccines stay cold, operations continue at night.
+  - *Water Pump:* Water flows without costly diesel.
+  - *School:* Evening study possible despite outages.
+- **Short Videos:** Success stories from other committees/leaders.
+- **Case Studies:** One-page documents including:
+  - Problem → Solution → Result.
+
+### **2. Guiding Community Meetings & Forums**
+- **Meeting Agenda Template** for discussing solar adoption.
+- **Decision-Making Framework** with ranking criteria:
+  - People served.
+  - Service criticality in emergencies.
+  - Sunlight availability and installation space.
+
+### **3. Dispelling Misconceptions**
+- **Fact Sheets:**
+  - *Myth:* Solar is too expensive → **Fact:** Saves money over time.
+  - *Myth:* Solar is for the rich → **Fact:** Community investment benefits all.
+  - *Myth:* Solar is unreliable → **Fact:** Modern tech works day/night, even on cloudy days.
+
+### **4. Mobilizing Community Action**
+- **Contribution Plan Template** for funding, labor, or site provision.
+- **Partner Coordination Guide** for working with aid agencies and NGOs.
+
+---
+
+
 
 ## **Criteria**
 
