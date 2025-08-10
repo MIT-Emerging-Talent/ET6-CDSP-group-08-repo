@@ -6,7 +6,10 @@
 This strategy is designed to empower **Popular Committees in Sudan** to champion solar energy solutions for their communities.
 In this strategy , we combined two audiences ( Funders/ Donors and General Public ) to deliver an impactful result.
 
-1. Funder / Donor 
+<details>
+<summary><b>
+1. Funder / Donor  </b></summary>
+
 **Who they are**: [UNHCR Refugee-led Innovation Fund](https://www.unhcr.org/innovation/refugee-led-innovation-fund/)
 
 | **Category** | **Details** |
@@ -30,9 +33,11 @@ In this strategy , we combined two audiences ( Funders/ Donors and General Publi
 | **The Application Process** | -Submitting a proposal online. <br> - A vetting and due diligence phase to check eligibility (specifically that at least 50% of the leadership has lived experience). <br> - A pitch to a selection committee. <br> - A final review by a steering committee, which includes displaced and stateless individuals.|
 | **Barriers to Engagement** | - Projects not led by refugees are **ineligible** regardless of quality  <br> - Overly **technical or top-down language** may be a turn-off  <br> - Lack of community involvement or unclear benefit to displaced people |
 | **Best Medium / Format** | - **Blog posts** (story-driven, impact-focused)  <br> - **One-pagers or infographics** (clear, visual summaries of outcomes)  <br> - **Short reports with data + community voices** |
+</details>
 
-
-#### 2. General Public
+<details>
+<summary><b>
+2. General Public </b></summary>
 
 **Who they are**: Popular (Neighborhood-Based) Committees for Local Service Delivery and Community Administration in Sudan.  
 
@@ -82,7 +87,7 @@ generators, as they are more familiar and accessible.
 - Organize community meetings or forums for
   project planning and decision making.
 tain communication with updates and invitations for joint activities.
-
+</details>
 
 ## **Core Message**
 **Solar power is not just about lights—it's about our community's future.**
