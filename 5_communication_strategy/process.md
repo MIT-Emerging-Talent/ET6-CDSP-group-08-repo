@@ -240,7 +240,7 @@ tain communication with updates and invitations for joint activities.
 
 ----
 
-## Action
+## General Action
 
 - **Allocate more funding**: Give money to support solar projects or research in these areas.  
 - **Integrate decentralized solar into their emergency response plans:** Organizations to actually use our findings to include solar power in how they help people during crises.
@@ -249,10 +249,10 @@ tain communication with updates and invitations for joint activities.
 
 ----
 
-## Changes 
+## General Changes 
 - Reduced energy poverty in conflict zones.
 - Improved humanitarian aid delivery through reliable power.
 - Increased safety and communication for displaced persons.
 - More resilient local economies supported by distributed energy.
 - A shift in global understanding of solar's role in humanitarian contexts.
-----
+
