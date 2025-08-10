@@ -246,7 +246,7 @@ A. For Committees </b></summary>
 
 This is about building buy-in and awareness, using simple, relatable language.
 
-* **Action:** Publish the blog post on your website or a platform like Medium, and create shareable infographics for platforms like WhatsApp and Facebook.
+* **Action:** Publish the blog post on website or a platform like Medium, and create shareable infographics for platforms like WhatsApp and Facebook.
 * **Content:**
     * **Blog Post:**
         * The title should be inspiring and relatable, such as, "How Our Community is Building a Brighter Future with Solar Power."
