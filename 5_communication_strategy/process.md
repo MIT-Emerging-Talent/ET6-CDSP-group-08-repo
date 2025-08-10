@@ -219,7 +219,7 @@ tain communication with updates and invitations for joint activities.
 | **Best Medium / Format** | - A feature article (1,200–1,500 words) that blends technical data with human-interest stories<br>- Accompanying infographics to visualize key research data<br>- A short, engaging LinkedIn post linking to the full article |
 
 ----
-## Medium 
+## Mediums
 #### Blog Post
 
 <details>
@@ -237,10 +237,6 @@ tain communication with updates and invitations for joint activities.
 1. **Presentation**: Schedule meeting with the targeted audience.
 2. **Online Platforms**: Share on professional networks (e.g., LinkedIn, medium, X), relevant forums, and share project repository
 3. **Direct Outreach**: Email brief and link to repo to key contacts + Blog Post
-
-#### Presentation
-#### Online Platforms
-#### Direct Outreach
 
 ----
 
@@ -260,29 +256,3 @@ tain communication with updates and invitations for joint activities.
 - More resilient local economies supported by distributed energy.
 - A shift in global understanding of solar's role in humanitarian contexts.
 ----
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&pause=1000&color=44669F&vCenter=true&repeat=false&width=850&height=40&lines=3.+Story+%E2%86%92+Medium)](https://git.io/typing-svg)
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&pause=1000&color=44669F&vCenter=true&repeat=false&width=850&height=40&lines=4.+Medium+%E2%86%92+Audience)](https://git.io/typing-svg)
-<details>
-<summary><b>4. Medium → Audience </b></summary>
-
-
-</details>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&pause=1000&color=44669F&vCenter=true&repeat=false&width=850&height=40&lines=5.+Audience+%E2%86%92+Actions)](https://git.io/typing-svg)
-<details>
-<summary><b>5. Audience → Actions </b></summary>
-
-
-</details>
-
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&pause=1000&color=44669F&vCenter=true&repeat=false&width=850&height=40&lines=6.+Actions+%E2%86%92+Change+)](https://git.io/typing-svg)
-<details>
-<summary><b>6. Actions → Change </b></summary>
-
-
-</details>
