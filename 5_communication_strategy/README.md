@@ -23,6 +23,20 @@ This strategy is designed to empower **Popular Committees in Sudan** to champion
   - Solar is for single homes or businesses only.
   - Perceived as too expensive or complex for public services.
 
+### **Current Situation**
+- **Power Reliability:** In Khartoum and surrounding areas, grid outages average **6–10 hours/day** during peak demand and crisis periods.  
+- **Diesel Dependence:**  
+  - Diesel price (2025): ~**$2.10/litre**.  
+  - A small clinic consumes **80–120 litres/month** just for refrigeration and lights.  
+- **Impact on Services:**
+  - **Healthcare:** Vaccines spoil; night operations cancelled.  
+  - **Water:** Pumps stop; residents carry water manually.  
+  - **Education:** Evening classes cancelled due to lack of light.  
+
+### **The Gap**
+- Solar is used in **private homes** and **businesses**, but almost never for **public services**.  
+- Popular Committees lack **decision-making tools** and **funding models** to implement public-service solar systems.
+
 ### **2. Middle – The New Discovery**
 - **Evidence:** Successful solar adoption exists in parts of Sudan and elsewhere.
 - **Reality:** Small, durable solar systems outperform the central grid, especially during crises.
@@ -204,15 +218,24 @@ tain communication with updates and invitations for joint activities.
 
 ### **2. Innovation (30%)**
 - Core: **Solar Survival Kit** — modular, durable, community-owned.
-- Novelty:
-  - Public-service focus.
-  - Co-creation with communities.
-  - Designed for crisis resilience.
-  - Replicable model.
+**What makes it different:**
+1. **Public-Service First:** Built for shared community facilities, not just households.  
+2. **Crisis-Resilient:** Functions independently of the grid and diesel supply chains.  
+3. **Data-Driven:**  
+   - **Site Prioritization Model** → ranks facilities by need, impact, and feasibility.  
+   - **Solar Impact Dashboard** → tracks uptime, cost savings, and beneficiaries in real time.  
+4. **Co-Created:** Designed with **Popular Committees** through workshops and local surveys. 
 
 ### **3. Community Leadership (20%)**
-- Committees lead awareness, planning, and coordination.
-- Inclusive design process representing all demographics.
+#### **Role of Popular Committees**
+- **Awareness:** Educate communities on solar for public services using DS-generated infographics and WhatsApp visuals.  
+- **Mobilization:** Lead fundraising drives (financial or in-kind contributions).  
+- **Decision-Making:** Use our ranking tool to select pilot sites.  
+- **Coordination:** Act as the link between communities, implementing partners, and government.
+
+**Inclusive Co-Design:**
+- Workshops with diverse community members (women, youth, elders).  
+- Feedback loops built into DS dashboards for ongoing adaptation.
 
 ### **4. Implementation (15%)**
 - **Funding Request:** $45,000.
@@ -226,6 +249,23 @@ tain communication with updates and invitations for joint activities.
 - **Impact:** Reliable power = saved lives, better education, clean water.
 - **Sustainability:** Committee-managed with maintenance fund and trained technicians.
 - **Scale:** Replicable in other Sudanese regions.
+
+#### **Projected Impact for Pilot**
+| Metric | Current | Post-Solar |
+|--------|---------|-----------|
+| Clinic Uptime | 60% | 98% |
+| Monthly Energy Cost | $250 (diesel) | $0 |
+| Population Served | 4,500 residents | 4,500 residents (continuous service) |
+| Carbon Emissions | ~1.2 tonnes/month | 0 tonnes/month |
+
+#### **Sustainability Plan**
+- **Local Maintenance:** Train two committee-appointed technicians per site.  
+- **Funding:** Introduce micro-contributions from beneficiaries to cover maintenance.  
+- **Spare Parts:** Partnership with local solar suppliers for discounted replacements.
+
+#### **Scaling Vision**
+- DS model and kit design are **replicable** in other Sudanese states and refugee settlements.  
+- UNHCR can use pilot data to advocate for a shift from diesel to community-owned solar systems.
 
 ---
 
