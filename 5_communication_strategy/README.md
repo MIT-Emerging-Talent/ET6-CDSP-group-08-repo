@@ -23,7 +23,10 @@ This strategy is designed to empower **Popular Committees in Sudan** to champion
   - Solar is for single homes or businesses only.
   - Perceived as too expensive or complex for public services.
 
-### **Current Situation**
+<details>
+<summary><b>
+Current Situation  </b></summary>
+  
 - **Power Reliability:** In Khartoum and surrounding areas, grid outages average **1 - 7 days** during peak demand and crisis periods.  
 - **Diesel Dependence:**  
   - Diesel price (2025): ~**$2.10/litre**.  
@@ -32,6 +35,7 @@ This strategy is designed to empower **Popular Committees in Sudan** to champion
   - **Healthcare:** Vaccines spoil; night operations cancelled.  
   - **Water:** Pumps stop; residents carry water manually.  
   - **Education:** Evening classes cancelled due to lack of light.  
+</details>
 
 ### **2. Middle – The New Discovery**
 - **Evidence:** Successful solar adoption exists in parts of Sudan and elsewhere.
@@ -174,7 +178,10 @@ tain communication with updates and invitations for joint activities.
 ---
 
 ## Medium
-## **A. For Committees**
+<details>
+<summary><b>
+## **A. For Committees** </b></summary>
+
 
 ### **1. Communication & Awareness Tools**
 - **Infographics** (WhatsApp-shareable) showing solar benefits:
@@ -201,8 +208,11 @@ tain communication with updates and invitations for joint activities.
 ### **4. Mobilizing Community Action**
 - **Contribution Plan Template** for funding, labor, or site provision.
 - **Partner Coordination Guide** for working with aid agencies and NGOs.
+</details>
 
-## B. For Funders (like UNHCR)
+<details>
+<summary><b>
+## B. For Funders (UNHCR) </b></summary>
 
 ### 1. Pitch Presentation
 
@@ -215,8 +225,11 @@ tain communication with updates and invitations for joint activities.
     * **Slide 5: Our Plan (The "How"):** Use a simple timeline to show your implementation plan.
     * **Slide 6: Our Ask:** Clearly state your request for $45,000 and what you'll achieve with it.
     * **Final Slide: The Vision:** End with a powerful statement about the future you are building—resilient, self-sufficient communities in Sudan.
+</details>
 
-### C. For the Public (Popular Committees and the wider Sudanese community)
+<details>
+<summary><b>
+### C. For the Public (Popular Committees and the wider Sudanese community and social media) </b></summary>
 
 #### 1. Blog Post & Infographics
 
@@ -235,10 +248,8 @@ This is about building buy-in and awareness, using simple, relatable language.
         * Use simple icons to represent clinics, schools, and water pumps.
         * Show a side-by-side comparison of the cost and effort of diesel versus solar.
         * Ensure all text is in the local language(s) and is easy to read on a smartphone.
-
+</details>
 ---
-
-
 
 ## **Criteria**
 
@@ -279,23 +290,6 @@ This is about building buy-in and awareness, using simple, relatable language.
 - **Impact:** Reliable power = saved lives, better education, clean water.
 - **Sustainability:** Committee-managed with maintenance fund and trained technicians.
 - **Scale:** Replicable in other Sudanese regions.
-
-#### **Projected Impact for Pilot**
-| Metric | Current | Post-Solar |
-|--------|---------|-----------|
-| Clinic Uptime | 60% | 98% |
-| Monthly Energy Cost | $250 (diesel) | $0 |
-| Population Served | 4,500 residents | 4,500 residents (continuous service) |
-| Carbon Emissions | ~1.2 tonnes/month | 0 tonnes/month |
-
-#### **Sustainability Plan**
-- **Local Maintenance:** Train two committee-appointed technicians per site.  
-- **Funding:** Introduce micro-contributions from beneficiaries to cover maintenance.  
-- **Spare Parts:** Partnership with local solar suppliers for discounted replacements.
-
-#### **Scaling Vision**
-- DS model and kit design are **replicable** in other Sudanese states and refugee settlements.  
-- UNHCR can use pilot data to advocate for a shift from diesel to community-owned solar systems.
 
 ---
 
