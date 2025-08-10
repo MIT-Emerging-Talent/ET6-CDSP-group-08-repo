@@ -27,10 +27,21 @@ This strategy is designed to empower **Popular Committees in Sudan** to champion
 <summary><b>
 Current Situation  </b></summary>
   
-- **Power Reliability:** In Khartoum and surrounding areas, grid outages average **1 - 7 days** during peak demand and crisis periods.  
+- **Power Reliability:** In Khartoum and surrounding areas, grid outages average **1 - 7 days** during peak demand and crisis periods.
+<details>
+<summary><b>
+  Duration Varies  </b></summary>
+  
+The length of power outages in Khartoum depends heavily on the specific circumstances.
+- **Routine Unreliability:** Even in relatively stable times, the national grid is fragile. Daily outages of **12–16 hours** are common due to poor infrastructure and maintenance.
+- **Peak Demand:** During the hot summer months, demand for cooling overwhelms the system, causing more frequent and longer blackouts.
+- **Conflict and Crisis:** This is the most severe factor. When power stations or transmission lines are damaged by military action, the outages are not a matter of hours, but of days, weeks, and sometimes even months. Recent reports indicate that residents have been forced to take matters into their own hands, repairing damaged infrastructure themselves.
+</details>
+
 - **Diesel Dependence:**  
   - Diesel price (2025): ~**$2.10/litre**.  
-  - A small clinic consumes **80–120 litres/month** just for refrigeration and lights.  
+  - A small clinic consumes **80–120 litres/month** just for refrigeration and lights.
+
 - **Impact on Services:**
   - **Healthcare:** Vaccines spoil; night operations cancelled.  
   - **Water:** Pumps stop; residents carry water manually.  
