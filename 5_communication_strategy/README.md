@@ -94,6 +94,7 @@ In this strategy, we combined two audiences to deliver an impactful result:
 | **The Application Process** | -Submitting a proposal online. <br> - A vetting and due diligence phase to check eligibility (specifically that at least 50% of the leadership has lived experience). <br> - A pitch to a selection committee. <br> - A final review by a steering committee, which includes displaced and stateless individuals.|
 | **Barriers to Engagement** | - Projects not led by refugees are **ineligible** regardless of quality  <br> - Overly **technical or top-down language** may be a turn-off  <br> - Lack of community involvement or unclear benefit to displaced people |
 | **Best Medium / Format** | - **Blog posts** (story-driven, impact-focused)  <br> - **One-pagers or infographics** (clear, visual summaries of outcomes)  <br> - **Short reports with data + community voices** |
+
 </details>
 
 <details>
@@ -241,7 +242,7 @@ This is about building buy-in and awareness, using simple, relatable language.
         * Include quotes from community members and stories of success.
         * End with a clear call to action: "Join our next meeting to learn more," or "Share this with your neighbors."
     * **Infographics:**
-        * Create visuals for each of your "Fact Sheets" to dispel myths.
+        * Create visuals for each of the "Fact Sheets" to dispel myths.
         * Use simple icons to represent clinics, schools, and water pumps.
         * Show a side-by-side comparison of the cost and effort of diesel versus solar.
         * Ensure all text is in the local language(s) and is easy to read on a smartphone.
@@ -273,5 +274,3 @@ Our project aims to create a fundamental shift from dependency to resilience.
 * **From Donors:** We want to change their funding model from supporting costly, short-term solutions to **investing in sustainable, community-led solar infrastructure.**
 * **From Communities:** We want to shift the mindset around solar from a private luxury to a **vital public utility** managed by local leaders.
 * **For the Humanitarian Sector:** We want to redefine solar energy as a **core component of emergency response**, not a niche innovation, providing a new model for energy resilience in conflict zones.
-
-
