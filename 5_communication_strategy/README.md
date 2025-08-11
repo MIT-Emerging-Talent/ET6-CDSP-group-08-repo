@@ -180,7 +180,7 @@ tain communication with updates and invitations for joint activities.
 A. For Committees </b></summary>
 
 
-### **1. Communication & Awareness Tools**
+#### **1. Communication & Awareness Tools**
 - **Infographics** (WhatsApp-shareable) showing solar benefits:
   - *Clinic:* Vaccines stay cold, operations continue at night.
   - *Water Pump:* Water flows without costly diesel.
@@ -189,20 +189,20 @@ A. For Committees </b></summary>
 - **Case Studies:** One-page documents including:
   - Problem → Solution → Result.
 
-### **2. Guiding Community Meetings & Forums**
+#### **2. Guiding Community Meetings & Forums**
 - **Meeting Agenda Template** for discussing solar adoption.
 - **Decision-Making Framework** with ranking criteria:
   - People served.
   - Service criticality in emergencies.
   - Sunlight availability and installation space.
 
-### **3. Dispelling Misconceptions**
+#### **3. Dispelling Misconceptions**
 - **Fact Sheets:**
   - *Myth:* Solar is too expensive → **Fact:** Saves money over time.
   - *Myth:* Solar is for the rich → **Fact:** Community investment benefits all.
   - *Myth:* Solar is unreliable → **Fact:** Modern tech works day/night, even on cloudy days.
 
-### **4. Mobilizing Community Action**
+#### **4. Mobilizing Community Action**
 - **Contribution Plan Template** for funding, labor, or site provision.
 - **Partner Coordination Guide** for working with aid agencies and NGOs.
 </details>
@@ -211,7 +211,7 @@ A. For Committees </b></summary>
 <summary><b>
 B. For Funders (UNHCR) </b></summary>
 
-### 1. Pitch Presentation
+#### 1. Pitch Presentation
 
 * **Action:** Create a concise, visually appealing deck (e.g., 10-15 slides).
 * **Content:**
