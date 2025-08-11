@@ -76,40 +76,25 @@ Solar isn’t just green tech — it’s **crisis tech**. But to fulfill its pro
 | **4. Journalists**               | Report and amplify issues related to energy, conflict, and humanitarian conditions.                   | Investigative reporters, energy/environmental media | Press releases, human-interest stories, data briefs, interviews  |
 
 ### Personas (Digging Deeper)
-#### 1. Solar Energy Initiatives
+#### 1. Energy Research Centers
 
-#### Energy Research Centers
-
-
-#### Why Engage Energy Research Centers?
-
-- **Expertise in Renewable Energy:** Energy research centers specialize in developing sustainable energy solutions, which aligns closely with our project focus.  
-- **Experience in Conflict Zones:** Many centers have experience working in conflict-affected areas, making them valuable partners who understand the challenges on the ground.  
-- **Access to Resources:** These centers often have data, technical tools, funding, and networks that can support and scale our project.
-
-
-#### How Can Energy Research Centers Support Our Project?
-
-- Provide technical expertise and guidance on renewable energy system design and deployment in conflict zones.  
-- Share relevant datasets and research to improve the quality of our analysis.  
-- Collaborate on pilot projects and field implementations.  
-- Assist in policy advocacy for renewable energy adoption in conflict and post-conflict settings.
+| **Category**                       | **Details**                                                                                                                                                                                                                          |
+|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Target Center**                 | **National Energy Research Centre (NERC)** – [LinkedIn Profile](https://www.linkedin.com/company/nerc-national-energy-research-center/)  Operates under Sudan’s Ministry of Science and Communication focused on energy access and sustainable development. |
+| **Key Contact**                  | Yassir Yassin, Head of Energy Systems – [LinkedIn](https://www.linkedin.com/in/yassir-yassin)                                                                                                                                     |
+| **What Drives Them**             | Addressing energy poverty through capacity-building, technical research, and policy-focused initiatives. [Source: AfDB](https://www.afdb.org/en/news-and-events/afdb-grants-us-0-34-million-to-sudans-national-energy-research-centre-11597) |
+| **Why Our Project Fits**         | - Aligns with NERC’s mission to expand energy access in underserved and post-conflict areas.  <br> - Provides real-world data and implementation insights that enhance their research.  <br> - Supplies evidence to support advocacy and policy formulation. |
+| **How They Can Support Our Project** | - Share relevant datasets and research to improve our analysis quality.  <br> - Collaborate on pilot projects and field implementations.  <br> - Assist in policy advocacy for renewable energy adoption in fragile and conflict-affected contexts. |
+| **Geographic Focus**             | National coverage across Sudan, with emphasis on conflict-affected areas.                                                                                                                                                           |
+| **Partners & Grantees**          | Collaborates with government ministries, private companies, community organizations, and development partners.                                                                                                                   |
+| **Goals**                       | - Quantify and analyze energy poverty.  <br> - Develop technological, policy, and governance solutions to promote equitable energy access.                                                                                       |
+| **Preferred Communication Channels** | - LinkedIn or WhatsApp for initial contact.  <br> - Open to Zoom or in-person meetings for follow-up discussions.                                                                                                               |
+| **Best Medium / Format**         | - Concise project briefs (1–2 pages) highlighting mutual benefits.  <br> - One-pagers or infographics for clear, visual summaries.  <br> - Blog posts or case studies for storytelling and impact-focused communication.            |
 
 
-#### How Our Project Benefits Energy Research Centers
-
-- Offers real-world data and case studies on renewable energy deployment in challenging environments.  
-- Provides insights to improve technology development and sustainable energy policies.  
-- Demonstrates effective community engagement models in fragile contexts.  
-- Supplies evidence to support advocacy and policy formulation.
 
 
-#### How to Reach Out and Collaborate
 
-1. Identify centers with expertise in renewable energy and conflict/post-conflict work.  
-2. Prepare a clear proposal outlining mutual benefits and collaboration opportunities.  
-3. Contact them via professional channels such as email, LinkedIn, conferences, or mutual contacts.  
-4. Main
 
 
 #### 2. Funders / Donors 
