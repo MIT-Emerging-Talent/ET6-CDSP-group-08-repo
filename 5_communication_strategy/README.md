@@ -151,35 +151,11 @@ generators, as they are more familiar and accessible.
 tain communication with updates and invitations for joint activities.
 </details>
 
-### **The Audience: Popular Committees in Sudan**
-- Community-led groups that handle essential services in neighborhoods and villages.  
-- Function as local governing bodies when the formal government is weak or absent.  
-- Crucial for managing **water, electricity, and sanitation**.  
-- Serve as the bridge between the community and outside groups such as aid organizations.
-
-### **Their Background & Skills**
-- **Diverse but Capable:**  
-  - Members are elected from the community with varied backgrounds.  
-  - Expected to have a basic understanding of math and statistics to interpret project data and results.  
-- **Tech-Savvy:**  
-  - Comfortable using smartphones and the internet.  
-  - Ideal partners for communication, data sharing, and digital collaboration.
-
-### **Their View on Solar Energy**
-- **Awareness but Limited Use:**  
-  - Recognize solar as a resilient solution for Sudan's challenges.  
-  - Mostly familiar with its application for individual homes or small businesses.  
-- **The Barrier:**  
-  - Limited adoption for **public services** such as clinics, schools, or water pumps.  
-  - Continued reliance on costly, unreliable diesel generators.  
-  - Challenge: Shift the perspective toward a **collective, public-service** approach to solar power.
-
 ---
 ## Medium
 <details>
 <summary><b>
 A. For Committees </b></summary>
-
 
 #### **1. Communication & Awareness Tools**
 - **Infographics** (WhatsApp-shareable) showing solar benefits:
@@ -217,12 +193,12 @@ B. For Funders (UNHCR) </b></summary>
 * **Action:** Create a concise, visually appealing deck (e.g., 10-15 slides).
 * **Content:**
     * **Slide 1: The Problem (The "Why"):** Use a single powerful image and a short, emotional headline, such as, "When the lights go out, lives are at risk."
-    * **Slide 2: Our Discovery (The Data):** Show a simple chart or map from your data science project that highlights the need.
+    * **Slide 2: Our Discovery (The Data):** Show a simple chart or map from our data science project that highlights the need.
     * **Slide 3: Our Solution (The "What"):** Introduce the **"Solar Survival Kit"** with a clear diagram or prototype image.
     * **Slide 4: Our Partners (The "Who"):** Feature a picture of the Popular Committees and explain their leadership role.
-    * **Slide 5: Our Plan (The "How"):** Use a simple timeline to show your implementation plan.
-    * **Slide 6: Our Ask:** Clearly state your request for $45,000 and what you'll achieve with it.
-    * **Final Slide: The Vision:** End with a powerful statement about the future you are building—resilient, self-sufficient communities in Sudan.
+    * **Slide 5: Our Plan (The "How"):** Use a simple timeline to show our implementation plan.
+    * **Slide 6: Our Ask:** Clearly state our request for $45,000 and what we'll achieve with it.
+    * **Final Slide: The Vision:** End with a powerful statement about the future we are building—resilient, self-sufficient communities in Sudan.
 </details>
 
 <details>
