@@ -246,10 +246,10 @@ This is about building buy-in and awareness, using simple, relatable language.
         * Show a side-by-side comparison of the cost and effort of diesel versus solar.
         * Ensure all text is in the local language(s) and is easy to read on a smartphone.
 </details>
------
 
-## Actions
-## **Expectations**
+---
+
+## Actions & Expectations
 
 ### **From UNHCR (Funder)**
 - **Financial Support:** Up to $45,000 for the pilot “Solar Survival Kit.”
