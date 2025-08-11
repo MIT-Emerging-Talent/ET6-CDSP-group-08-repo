@@ -8,6 +8,17 @@
 This project’s communication strategy is split into four key files.  
 Each serves a different purpose — together, they form a complete, consistent message.
 
+### Team Process:
+- **`process.md`** → [View file](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/communicating_res/5_communication_strategy/process.md)  
+  The **detailed playbook** for our process of choosing persona and how to communicate with each audience.  
+  - **Includes:** General Core mesage, audience profiles, barriers to adoption, engagement methods and communication channels
+
+### The Document:
+- **`readme.md`** → [View file](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/communicating_res/5_communication_strategy/README.md)  
+  The **public-facing summary** blending storytelling with actionable strategy.  
+  - **Includes:** Project overview, key messages, condensed audience insights, expectations from partners, evaluation criteria, and recommended communication tools.
+
+### Communication Artifact:
 - **`pitch.md`** → [View file](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/communicating_res/5_communication_strategy/pitch.md)  
   A **short, persuasive introduction** for UNHCR, partners, and decision-makers.  
   - **Includes:** Problem statement, key insight from our data analysis, the "Solar Survival Kit" concept, community partnership model, and the funding/partnership request.
@@ -16,11 +27,3 @@ Each serves a different purpose — together, they form a complete, consistent m
   A **full grant-style proposal** with structured details aligned to UNHCR evaluation criteria.  
   - **Includes:** Challenge framing, innovation, community leadership, implementation roadmap, impact, sustainability, scale.
   
-- **`process.md`** → [View file](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/communicating_res/5_communication_strategy/process.md)  
-  The **detailed playbook** for our process of choosing persona and how to communicate with each audience.  
-  - **Includes:** General Core mesage, audience profiles, barriers to adoption, engagement methods and communication channels
-
-- **`readme.md`** → [View file](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/communicating_res/5_communication_strategy/README.md)  
-  The **public-facing summary** blending storytelling with actionable strategy.  
-  - **Includes:** Project overview, key messages, condensed audience insights, expectations from partners, evaluation criteria, and recommended communication tools.
-
