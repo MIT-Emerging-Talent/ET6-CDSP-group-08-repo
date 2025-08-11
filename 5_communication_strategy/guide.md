@@ -16,7 +16,7 @@ Each serves a different purpose — together, they form a complete, consistent m
 ### The Document:
 - **`readme.md`** → [View file](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/communicating_res/5_communication_strategy/README.md)  
   The **public-facing summary** blending storytelling with actionable strategy.  
-  - **Includes:** Project overview, key messages, condensed audience insights, expectations from partners, evaluation criteria, and recommended communication tools.
+  - **Includes:** Project overview, key messages, condensed audience insights, expectations from partners, evaluation criteria, and recommended communication tools, change and action.
 
 ### Communication Artifact:
 - **`pitch.md`** → [View file](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/communicating_res/5_communication_strategy/pitch.md)  
