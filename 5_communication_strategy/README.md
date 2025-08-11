@@ -174,25 +174,6 @@ tain communication with updates and invitations for joint activities.
   - Challenge: Shift the perspective toward a **collective, public-service** approach to solar power.
 
 ---
-
-## **Expectations**
-
-### **From UNHCR (Funder)**
-- **Financial Support:** Up to $45,000 for the pilot “Solar Survival Kit.”
-- **Holistic Support:**
-  - Project management expertise.
-  - Technical advice on solar.
-  - Mentoring and partner connections.
-- **Advocacy:** Amplify results to influence wider humanitarian policy.
-
-### **From Popular Committees (Local Partners)**
-- **Awareness:** Educate community on public-service solar.
-- **Mobilization:** Lead myth-busting and community buy-in.
-- **Coordination:** Organize meetings and oversee implementation.
-- **Project Selection:** Identify high-impact sites for solar.
-
----
-
 ## Medium
 <details>
 <summary><b>
@@ -265,6 +246,32 @@ This is about building buy-in and awareness, using simple, relatable language.
         * Show a side-by-side comparison of the cost and effort of diesel versus solar.
         * Ensure all text is in the local language(s) and is easy to read on a smartphone.
 </details>
+-----
 
+## Actions
+## **Expectations**
+
+### **From UNHCR (Funder)**
+- **Financial Support:** Up to $45,000 for the pilot “Solar Survival Kit.”
+- **Holistic Support:**
+  - Project management expertise.
+  - Technical advice on solar.
+  - Mentoring and partner connections.
+- **Advocacy:** Amplify results to influence wider humanitarian policy.
+
+### **From Popular Committees (Local Partners)**
+- **Awareness:** Educate community on public-service solar.
+- **Mobilization:** Lead myth-busting and community buy-in.
+- **Coordination:** Organize meetings and oversee implementation.
+- **Project Selection:** Identify high-impact sites for solar.
+
+---
+
+## Change 
+Our project aims to create a fundamental shift from dependency to resilience.
+
+* **From Donors:** We want to change their funding model from supporting costly, short-term solutions to **investing in sustainable, community-led solar infrastructure.**
+* **From Communities:** We want to shift the mindset around solar from a private luxury to a **vital public utility** managed by local leaders.
+* **For the Humanitarian Sector:** We want to redefine solar energy as a **core component of emergency response**, not a niche innovation, providing a new model for energy resilience in conflict zones.
 
 
