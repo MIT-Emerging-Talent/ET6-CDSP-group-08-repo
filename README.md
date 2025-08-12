@@ -14,7 +14,8 @@ We are a team united by _purpose and shaped by displacement_, using data science
  to **drive real-world impact.**   
 This project applies data exploration, modeling,
  and visualization to explore how renewable energy, specifically **Solar Energy** (i.e. PV cells),
- serves as _critical survival infrastructure in conflict-affected communities_ worldwide.
+ serves as critical survival infrastructure in conflict-affected communities 
+ worldwide.
 
 ## [M1: Domain Research & Background](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/0_domain_study/README.md)
 
@@ -520,6 +521,7 @@ _Who's behind all this? Meet the passionate minds Github driving this project:_
 
 This project is licensed under the MIT License -
 see the [LICENSE](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/LICENSE) file for details.
+
 
 
 
