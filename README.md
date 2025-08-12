@@ -430,8 +430,8 @@ approaches.
 
 This whole approach is really about reframing how we think about solar energy. Instead of seeing it as just another technology option, we're positioning it as survival infrastructure. That means displaced communities can lead their own resilient solutions instead of waiting for help.
 It's also about changing how humanitarian funding works, moving away from quick fixes toward systems that actually last. We want solar to be seen as public infrastructure, not a luxury. And if we can prove this model works, it could transform how we approach energy access in conflict zones everywhere.
->The bottom line? Communities that have reliable power are communities that can survive and thrive, even when everything else around them is falling apart.
-
+The bottom line? Communities that have reliable power are communities that can survive and thrive, even when everything else around them is falling apart.
+>For more detailed information about the communication strategy, refer to [/5_communication_strategy](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/5_communication_strategy) 
 
 
 ---
