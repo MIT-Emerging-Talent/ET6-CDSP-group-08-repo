@@ -3,8 +3,7 @@
 
 
 <!-- markdownlint-disable MD031 MD033 MD004 MD001 MD009 MD013 MD045 MD001 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=40&duration=4963&pause=1000&color=2A5FAC&vCenter=true&repeat=false&width=650&height=40&lines=Solar+Energy+in+Conflict+Zones)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=900&size=60&duration=5015&pause=1000&color=2A5FAC&vCenter=true&repeat=false&width=940&height=80&lines=Solar+Energy+in+Conflict+Zones)](https://git.io/typing-svg)
 
 **Welcome aboard the CDSP Group 08 Repository!**   🌌  
 _Displaced. Determined. Data-Driven._
@@ -520,4 +519,5 @@ _Who's behind all this? Meet the passionate minds Github driving this project:_
 
 This project is licensed under the MIT License -
 see the [LICENSE](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/LICENSE) file for details.
+
 
