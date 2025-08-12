@@ -386,7 +386,7 @@ Our strategy is designed to help local community leaders or advocates to become 
 ### Who We’re Reaching?
 <ul>
 <details><summary><a href = "https://www.unhcr.org/innovation/refugee-led-innovation-fund/">UNHCR Refugee-led Innovation Fund (Funders)</a></summary>
-Targeting <a href = "https://ug.linkedin.com/in/grazia-paoleri-54025b60/en?trk=public_post_feed-actor-name">Grazia Paoleri</a> who is a Senior Technical Advisor for the EU’s contribution to the Refugee Response in Uganda. 
+Targeting <a href = "https://www.linkedin.com/in/grazia-paoleri-54025b60">Grazia Paoleri</a> who is a Senior Technical Advisor for the EU’s contribution to the Refugee Response in Uganda. 
 They Belief in refugee-led solutions. Their mission is to center displaced people in humanitarian work, valuing lived experience as key to identifying needs and crafting effective solutions.</details>
 <details><summary>General Public</summary>
 Popular Committees in Sudan are local, community-based groups that step in to handle essential services when government institutions are weak or absent. They take care of things like water, electricity, sanitation, issuing residence certificates, settling disputes, organizing security, and collecting resources through community contributions.
