@@ -3,19 +3,19 @@
 
 
 <!-- markdownlint-disable MD031 MD033 MD004 MD001 MD009 MD013 MD045 MD001 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=900&size=60&duration=5015&pause=1000&color=2A5FAC&vCenter=true&repeat=false&width=940&height=80&lines=Solar+Energy+in+Conflict+Zones)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=900&size=45&duration=5015&pause=1000&color=2A5FAC&vCenter=true&repeat=false&width=700&height=60&lines=Solar+Energy+in+Conflict+Zones)](https://git.io/typing-svg)
 
 **Welcome aboard the CDSP Group 08 Repository!**   🌌  
 _Displaced. Determined. Data-Driven._
 
-# M0: Project Overview
+## M0: Project Overview
 
 We are a team united by _purpose and shaped by displacement_, using data science
  to **drive real-world impact.** This project applies data exploration, modeling,
  and visualization to explore how renewable energy, specifically **solar energy** (i.e. PV cells),
  serves as _critical survival infrastructure in conflict-affected communities_ worldwide.
 
-# [M1: Domain Research & Background](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/0_domain_study/README.md)
+## [M1: Domain Research & Background](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/0_domain_study/README.md)
 
 > [Solar Energy acts as a vital **survival infrastructure** in conflict zones.](https://www.pv-tech.org/how-solar-can-bring-light-to-war-zones/)
 
@@ -163,7 +163,7 @@ To ground our data‑driven work in real‑world context, we've prepared a detai
 > 
 <!-- markdownlint-disable MD031 MD033 MD013 MD001 MD04 MD045 MD049 MD041 MD022 MD042 MD018-->
 ---
-# [M2: Data Collection](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/1_datasets)
+## [M2: Data Collection](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/1_datasets)
 
 ### [Domain Modeling](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/non_tech_exp_of_domain_modeling.md)
 Imagine trying to understand how people survive in war-torn areas when the lights go out — literally. That’s where our project begins.   
@@ -196,7 +196,7 @@ At the center of it all is **solar energy** — not just as a clean tech solutio
 </details>
 
 
-## [Data Sets](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/README.md)
+### [Data Sets](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/README.md)
 
 A detailed description of each dataset, including collection methods, potential limitations, and direct relevance to our problem, can be found in the Datasets Used section.
 1. **IRENA Renewable Energy Statistics:** Provides annual data on renewable energy capacity and generation, including both on-grid and off-grid solar PV deployment across countries and regions.
@@ -243,7 +243,7 @@ Understanding trends in solar capacity deployment, trade patterns, and energy ac
 
 ---
 
-# [M3: Data Analysis](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis)
+## [M3: Data Analysis](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis)
 
 Investigating how solar energy deployment changes across different **phases of conflict, economic statuses, duration, technology types and both environmental and social impact** in different conflict-affected countries ( 2000–2024 ); using IRENA and UN Comtrade datasets, analyzing on-grid/off-grid capacity, import trends, and conflict timelines.
 
@@ -377,17 +377,17 @@ Interpretation: _Reflects urgent demand for portable energy for lighting, phone 
 
 ---
 
-# [M4: Communicating Results](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/5_communication_strategy)
+## [M4: Communicating Results](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/5_communication_strategy)
 
 Our strategy is designed to help local community leaders or advocates to become the main driver of solar energy adoption where they live.
 
-## Core Message
+### Core Message
 
 The central message is that **"Solar power is not just about lights—it's about our community's future."**   
 The goal is to position solar energy as a permanent and sustainable solution that gives communities control over their essential services, particularly in the face of an unreliable power grid.
 
 
-### Project Narrative
+#### Project Narrative
 
 The document's narrative is structured to be both relatable and compelling:
 * **The Problem:** It highlights the challenges of an unreliable power grid and the high cost of diesel generators, which disrupt critical services like healthcare and water supply. It also addresses the misconception that solar is only for private use.
@@ -395,7 +395,7 @@ The document's narrative is structured to be both relatable and compelling:
 * **The Call to Action:** The document concludes by calling on Popular Committees in Sudan to take the lead in adopting solar energy, positioning them as champions of resilience and self-sufficiency.
 
 
-## Audience & Tools
+### Audience & Tools
 
 Our strategy focuses on two key groups:
 
@@ -519,6 +519,7 @@ _Who's behind all this? Meet the passionate minds Github driving this project:_
 
 This project is licensed under the MIT License -
 see the [LICENSE](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/LICENSE) file for details.
+
 
 
 
