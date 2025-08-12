@@ -382,7 +382,7 @@ Our strategy is designed to help local community leaders or advocates to become 
 
 ### Our Core Message
 
-Solar isn’t just about going green; it’s about survival, hope and the community future. When the power grid is down, solar steps in and keep the lights on, literally saving lives and fostering independence.
+> Solar isn’t just about going green; it’s about survival, hope and the community future. When the power grid is down, solar steps in and keep the lights on, literally saving lives and fostering independence.
 ### Who We’re Reaching?
 <ul>
 <details><summary><a href = "https://www.unhcr.org/innovation/refugee-led-innovation-fund/">UNHCR Refugee-led Innovation Fund (Funders)</a></summary>
@@ -494,7 +494,8 @@ _Who's behind all this? Meet the passionate minds Github driving this project:_
 - **[Eman Alfalouji](https://github.com/Emanfalouji)**
 - **[Zeinab Mohammed](https://github.com/Zeinab15)**
 - **[Maria Alejandra Cardeno](https://github.com/mariacommits)**
-- **[Safa Saber]("https://github.com/Safa-Saber)**
+- **[Safa Saber](https://github.com/Safa-Saber)**
+
 ## [Contributing](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/CONTRIBUTING.md)
 
  To set up the project locally and understand our contribution guidelines, please see our [CONTRIBUTING.md](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/CONTRIBUTING.md) file.
