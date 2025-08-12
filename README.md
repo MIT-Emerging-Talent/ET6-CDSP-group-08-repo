@@ -448,7 +448,7 @@ From the **public**:
 > For more details refer to our [Communication Strategy](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/5_communication_strategy), including our detailed process (`process.md`), public-facing summary (`readme.md`), persuasive pitch (`pitch.md`), and full proposal (`proposal.md`).
 
 
-----
+---
 
 ```mermaid
 timeline
@@ -519,6 +519,7 @@ _Who's behind all this? Meet the passionate minds Github driving this project:_
 
 This project is licensed under the MIT License -
 see the [LICENSE](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/LICENSE) file for details.
+
 
 
 
