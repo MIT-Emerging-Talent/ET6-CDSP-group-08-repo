@@ -376,7 +376,7 @@ Interpretation: _Reflects urgent demand for portable energy for lighting, phone 
 
 >For more details, assumptions and limitations refer to [/4_data_analysis](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis) including all scripts, visualizations, technical methodology, and a non-technical summary of our findings, confidence levels, and limitations. 
 
-## [M4: Communicating results]()
+## [M4: Communicating Results](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/5_communication_strategy)
 
 Our strategy is designed to help local community leaders or advocates to become the main driver of solar energy adoption where they live.
 
@@ -388,34 +388,27 @@ Our strategy is designed to help local community leaders or advocates to become 
 <details><summary><a href = "https://www.unhcr.org/innovation/refugee-led-innovation-fund/">UNHCR Refugee-led Innovation Fund (Funders)</a></summary>
 Targeting <a href = "https://ug.linkedin.com/in/grazia-paoleri-54025b60/en?trk=public_post_feed-actor-name">Grazia Paoleri</a> who is a Senior Technical Advisor for the EU’s contribution to the Refugee Response in Uganda. 
 They Belief in refugee-led solutions. Their mission is to center displaced people in humanitarian work, valuing lived experience as key to identifying needs and crafting effective solutions.</details>
-<details><summary>Energy Research Centers</summary>
-Targeting <a href ="https://www.linkedin.com/company/nerc-national-energy-research-center/">National Energy Research Centre (NERC)</a> – Operates under Sudan’s Ministry of Science and Communication focused on energy access and sustainable development. What drive them is addressing energy poverty through capacity-building, technical research, and policy-focused initiatives. Source: AfDB
-A key contact that may help us is <a href ="https://www.linkedin.com/in/yassir-yassin">Yassir Yassin</a>, Head of Energy Systems</details>
 <details><summary>General Public</summary>
 Popular Committees in Sudan are local, community-based groups that step in to handle essential services when government institutions are weak or absent. They take care of things like water, electricity, sanitation, issuing residence certificates, settling disputes, organizing security, and collecting resources through community contributions.
 Their role is to connect communities with government bodies, aid agencies, and other organizations especially during crises when state support is limited. Members are elected from within the community, so their education levels vary, but most have basic math and statistics skills, use smartphones, and are comfortable with the internet.
 While solar energy is seen as a strong solution to Sudan’s energy problems, its use is mostly limited to private homes or businesses. Public services such as healthcare, schools, and farming still largely depend on diesel generators, as communities are more familiar with them.</details>
-<details><summary>Journalists</summary>
-We’re aiming for well-known, related magazines like <a href ="https://www.renewableenergyworld.com/">Renewable Energy World</a>; they are intersested in technical case studies on renewable energy projects, human-impact stories about clean energy, policy and market trend analysis, and expert opinion articles.
-Our research demonstrates how solar energy can serve as a vital survival infrastructure in conflict zones. It uniquely combines technical feasibility with compelling human stories of resilience, perfectly aligning with their focus on the intersection of technology and real-world impact.
-<a href ="https://www.linkedin.com/in/paulrgerke?original_referer=https%3A%2F%2Fwww.google.com%2F">Paul Gerke</a> – Editor & Content Director, is a key contact that we are aiming to get in touch with him; he is driven by a passion for showcasing innovative renewable energy solutions that have tangible social, environmental, and economic impacts. Particularly interested in stories that merge technical innovation with human benefit.</details>
 </ul>
 
 ### What We're Actually Trying to Say
 
 - When we talk to **funders and community committees**, our main point is simple: **solar power isn't just about keeping the lights on, it's about securing our community's future**. Think about it this way: when everything else falls apart, solar can still power the clinic, keep the school running, and make sure the water pumps work. For communities dealing with conflict, that's not just convenient—it's life-changing.
-- For the **general public and media folks**, we frame it differently. Solar isn't just the environmentally friendly choice anymore, it's become a genuine lifeline. We're seeing it pop up everywhere there's crisis because it actually works when traditional power grids don't.
+- For the **general public**, we frame it differently. Solar isn't just the environmentally friendly choice anymore, it's become a genuine lifeline. We're seeing it pop up everywhere there's crisis because it actually works when traditional power grids don't.
   - <details><summary><strong>The Story We're Telling</strong></summary>
     Here's what's happening: communities keep getting let down by unreliable power grids and expensive diesel generators, especially when they need electricity most. Essential services get disrupted right when people can't afford that disruption.
     But here's the interesting part—we're noticing that solar adoption actually increases in conflict zones. People are figuring out that solar works when everything else fails, and that's got huge implications for public infrastructure.
-    So what do we want people to do about it? Funders should start backing community-led solar projects. Communities should start thinking about solar the same way they think about water systems—as basic public infrastructure. And media should be telling these stories because this model actually works.</details>
+    So what do we want people to do about it? Funders should start backing community-led solar projects. Communities should start thinking about solar the same way they think about water systems- as basic public infrastructure.</details>
 
 ### Why We're Pushing This Message
 
-- With **organizations** like UNHCR, we're hoping to secure around $45,000 for a pilot project we're calling the "Solar Survival Kit" in Khartoum. This fits perfectly with their focus on refugee-led innovation, and frankly, we think it's time humanitarian energy policy moved toward more sustainable, grassroots approaches.
+- With **organizations** like UNHCR, we're hoping to secure around $45,000 for a pilot project we're calling the **"Solar Survival Kit"** in Khartoum. This fits perfectly with their focus on refugee-led innovation, and frankly, we think it's time humanitarian energy policy moved toward more sustainable, grassroots approaches. We're putting together a focused 10-15 slide presentation that tells the story simply: starting with the reality that when power goes out, lives are genuinely at risk, then showing our data on where solar is needed most, introducing our Solar Survival Kit solution, highlighting our partnership with the Popular Committees who will actually lead implementation, laying out a clear timeline, making our specific $45,000 ask, and ending with our vision of truly resilient, self-sufficient communities across Sudan. 
+ What we're specifically asking from them is straightforward: flexible, direct funding for our pilot project, help amplifying our research and findings through their networks to reach policymakers and other donors, and their voice in advocating for humanitarian energy policies that actually prioritize refugee-led solutions rather than top-down approaches.
 - For **local committees**, we need to change how people see solar. Right now, too many people think of it as some kind of luxury for wealthy households. We want communities to start seeing it as essential infrastructure like roads or water systems and get everyone contributing to make it happen.
 - The **general public** has some misconceptions we need to address. A lot of people still think solar is too expensive or unreliable. We need to show them real examples of how solar projects are actually making communities stronger.
-- For **research centers and journalists**, we've got both the data and the human stories they need to influence policy and attract more investment. Solar isn't just clean energy anymore—it's critical humanitarian infrastructure.
 
 ### How We're Getting the Message Out
 
@@ -424,13 +417,12 @@ approaches.
 - **Funders** want concise presentations, blog posts, and clear infographics that show community impact and how projects can scale up.
 - **Community committees** work best with materials they can easily share, WhatsApp-friendly infographics, short videos, fact sheets that clear up common myths, and templates for running productive meetings about solar adoption.
 - For the **general public**, we're creating blog posts and social media content in local languages that focus on success stories and practical benefits people can actually relate to.
-- **Research centers** get detailed project briefs and case studies that align with their existing work. Journalists get feature articles (usually 1,200-1,500 words) that blend hard data with compelling human stories, plus infographics they can use to reach wider audiences.
 
 ### Why This Actually Matters
 
-This whole approach is really about reframing how we think about solar energy. Instead of seeing it as just another technology option, we're positioning it as survival infrastructure. That means displaced communities can lead their own resilient solutions instead of waiting for help.
-It's also about changing how humanitarian funding works, moving away from quick fixes toward systems that actually last. We want solar to be seen as public infrastructure, not a luxury. And if we can prove this model works, it could transform how we approach energy access in conflict zones everywhere.
-The bottom line? Communities that have reliable power are communities that can survive and thrive, even when everything else around them is falling apart.
+This whole approach is really about changing how we think about solar energy. Instead of seeing it as just another technology option, we're treating it as survival infrastructure. That's exactly what our Solar Survival Kit represents: a practical, community-led solution that displaced communities can implement themselves rather than waiting for help from the outside.
+The Solar Survival Kit isn't just equipment. It's a complete approach that puts local leadership at the center. When communities have the tools and knowledge to set up their own reliable power systems, they're not just getting electricity. They're gaining the independence to keep critical services running no matter what's happening around them.
+It's also about changing how humanitarian funding works. We need to move away from quick fixes toward systems that actually last. We want solar to be seen as public infrastructure, not a luxury. And if we can prove this model works through our Khartoum pilot, it could transform how we approach energy access in conflict zones everywhere.
 >For more detailed information about the communication strategy, refer to [/5_communication_strategy](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/5_communication_strategy) 
 
 
