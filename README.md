@@ -437,11 +437,11 @@ From the **public**:
 - Participate in community funding and maintenance.
 </p></details>
 
-<details><summary><b>How We’re Getting the Message Out</b></summary><p>
+### How We’re Getting the Message Out
 
-**Funders:** [Pitch decks, impact infographics,](https://www.canva.com/design/DAGvwC3zSuc/Q90rZDX6Gnho7nUzny1ipQ/edit?utm_content=DAGvwC3zSuc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) and [proposal.](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/5_communication_strategy/proposal.md)
-**Committees:** WhatsApp-ready infographics, short videos, fact sheets, and meeting templates.     
-**Public:** Blog post in local languages, highlighting relatable success stories.  
+- **Funders:** [Pitch decks, impact infographics,](https://www.canva.com/design/DAGvwC3zSuc/Q90rZDX6Gnho7nUzny1ipQ/edit?utm_content=DAGvwC3zSuc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) and [proposal.](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/5_communication_strategy/proposal.md)
+- **Committees:** WhatsApp-ready infographics, short videos, fact sheets, and meeting templates.     
+- **Public:** Blog post in local languages, highlighting relatable success stories.  
 
 </p></details>
 
@@ -519,6 +519,7 @@ _Who's behind all this? Meet the passionate minds Github driving this project:_
 
 This project is licensed under the MIT License -
 see the [LICENSE](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/LICENSE) file for details.
+
 
 
 
