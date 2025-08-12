@@ -400,9 +400,8 @@ The document's narrative is structured to be both relatable and compelling:
 Our strategy focuses on two key groups:
 
 - **UNHCR (Funders):**  
-  Through a [**12-slide pitch presentation**](https://www.canva.com/design/DAGvwC3zSuc/Q90rZDX6Gnho7nUzny1ipQ/edit?utm_content=DAGvwC3zSuc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), we clearly communicate the project’s purpose, funding request, and the role of **Popular Committees in Sudan.**  
-  *Primary contact:* [Grazia Paoleri](https://www.linkedin.com/in/grazia-paoleri-54025b60), Senior Technical Advisor for the EU’s contribution to the Refugee Response in Uganda, who champions refugee-led solutions and values lived experience in shaping humanitarian work.
-
+  Through a [**12-slide pitch presentation**](https://www.canva.com/design/DAGvwC3zSuc/Q90rZDX6Gnho7nUzny1ipQ/edit?utm_content=DAGvwC3zSuc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) for the [UNHCR Refugee-led Innovation Fund](https://www.unhcr.org/innovation/refugee-led-innovation-fund/), we clearly communicate the project’s purpose, funding request, and the role of **Popular Committees in Sudan.**  
+  
 - **Popular Committees (General Public):**  
   Local, elected groups in Sudan that manage essential services (water, electricity, sanitation, dispute resolution) in the absence of strong state institutions.  
   They connect communities with government bodies and aid agencies, especially during crises. While solar energy is recognized as a solution, its use is mainly private; public services still rely on diesel generators.  
@@ -519,5 +518,6 @@ _Who's behind all this? Meet the passionate minds Github driving this project:_
 
 This project is licensed under the MIT License -
 see the [LICENSE](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/LICENSE) file for details.
+
 
 
