@@ -9,14 +9,14 @@
 **Welcome aboard the CDSP Group 08 Repository!**   🌌  
 _Displaced. Determined. Data-Driven._
 
-## M0: Project Overview
+# M0: Project Overview
 
 We are a team united by _purpose and shaped by displacement_, using data science
  to **drive real-world impact.** This project applies data exploration, modeling,
  and visualization to explore how renewable energy, specifically **solar energy** (i.e. PV cells),
  serves as _critical survival infrastructure in conflict-affected communities_ worldwide.
 
-## [M1: Domain Research & Background](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/0_domain_study/README.md)
+# [M1: Domain Research & Background](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/0_domain_study/README.md)
 
 > [Solar Energy acts as a vital **survival infrastructure** in conflict zones.](https://www.pv-tech.org/how-solar-can-bring-light-to-war-zones/)
 
@@ -164,7 +164,7 @@ To ground our data‑driven work in real‑world context, we've prepared a detai
 > 
 <!-- markdownlint-disable MD031 MD033 MD013 MD001 MD04 MD045 MD049 MD041 MD022 MD042 MD018-->
 ---
-## [M2: Data Collection](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/1_datasets)
+# [M2: Data Collection](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/1_datasets)
 
 ### [Domain Modeling](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/non_tech_exp_of_domain_modeling.md)
 Imagine trying to understand how people survive in war-torn areas when the lights go out — literally. That’s where our project begins.   
@@ -197,7 +197,7 @@ At the center of it all is **solar energy** — not just as a clean tech solutio
 </details>
 
 
-### [Data Sets](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/README.md)
+## [Data Sets](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/1_datasets/README.md)
 
 A detailed description of each dataset, including collection methods, potential limitations, and direct relevance to our problem, can be found in the Datasets Used section.
 1. **IRENA Renewable Energy Statistics:** Provides annual data on renewable energy capacity and generation, including both on-grid and off-grid solar PV deployment across countries and regions.
@@ -244,7 +244,7 @@ Understanding trends in solar capacity deployment, trade patterns, and energy ac
 
 ---
 
-## [M3: Data Analysis](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis)
+# [M3: Data Analysis](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis)
 
 Investigating how solar energy deployment changes across different **phases of conflict, economic statuses, duration, technology types and both environmental and social impact** in different conflict-affected countries ( 2000–2024 ); using IRENA and UN Comtrade datasets, analyzing on-grid/off-grid capacity, import trends, and conflict timelines.
 
@@ -257,7 +257,7 @@ Conflict periods are often associated with increased solar energy adoption..
 - Three-way link between **conflict duration, economic status, and solar adoption**—where _conflict increases the need, GDP shapes capacity, and policy ensures sustainability_
   
 
-### Analytical Questions
+## Analytical Questions
 
 > [**Q1.  What are the trends in solar energy adoption across the conflict cycle—pre-conflict, active conflict, and post-conflict periods—in 9 conflict-affected countries?**](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis/phases_analysis)  
 >
@@ -376,57 +376,81 @@ Interpretation: _Reflects urgent demand for portable energy for lighting, phone 
 
 >For more details, assumptions and limitations refer to [/4_data_analysis](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis) including all scripts, visualizations, technical methodology, and a non-technical summary of our findings, confidence levels, and limitations. 
 
-## [M4: Communicating Results](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/5_communication_strategy)
+---
+
+# [M4: Communicating Results](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/5_communication_strategy)
 
 Our strategy is designed to help local community leaders or advocates to become the main driver of solar energy adoption where they live.
 
-### Our Core Message
+## Core Message
 
-> Solar isn’t just about going green; it’s about survival, hope and the community future. When the power grid is down, solar steps in and keep the lights on, literally saving lives and fostering independence.
-### Who We’re Reaching?
-<ul>
-<details><summary><a href = "https://www.unhcr.org/innovation/refugee-led-innovation-fund/">UNHCR Refugee-led Innovation Fund (Funders)</a></summary>
-Targeting <a href = "https://www.linkedin.com/in/grazia-paoleri-54025b60">Grazia Paoleri</a> who is a Senior Technical Advisor for the EU’s contribution to the Refugee Response in Uganda. 
-They Belief in refugee-led solutions. Their mission is to center displaced people in humanitarian work, valuing lived experience as key to identifying needs and crafting effective solutions.</details>
-<details><summary>General Public</summary>
-Popular Committees in Sudan are local, community-based groups that step in to handle essential services when government institutions are weak or absent. They take care of things like water, electricity, sanitation, issuing residence certificates, settling disputes, organizing security, and collecting resources through community contributions.
-Their role is to connect communities with government bodies, aid agencies, and other organizations especially during crises when state support is limited. Members are elected from within the community, so their education levels vary, but most have basic math and statistics skills, use smartphones, and are comfortable with the internet.
-While solar energy is seen as a strong solution to Sudan’s energy problems, its use is mostly limited to private homes or businesses. Public services such as healthcare, schools, and farming still largely depend on diesel generators, as communities are more familiar with them.</details>
-</ul>
-
-### What We're Actually Trying to Say
-
-- When we talk to **funders and community committees**, our main point is simple: **solar power isn't just about keeping the lights on, it's about securing our community's future**. Think about it this way: when everything else falls apart, solar can still power the clinic, keep the school running, and make sure the water pumps work. For communities dealing with conflict, that's not just convenient—it's life-changing.
-- For the **general public**, we frame it differently. Solar isn't just the environmentally friendly choice anymore, it's become a genuine lifeline. We're seeing it pop up everywhere there's crisis because it actually works when traditional power grids don't.
-  - <details><summary><strong>The Story We're Telling</strong></summary>
-    Here's what's happening: communities keep getting let down by unreliable power grids and expensive diesel generators, especially when they need electricity most. Essential services get disrupted right when people can't afford that disruption.
-    But here's the interesting part—we're noticing that solar adoption actually increases in conflict zones. People are figuring out that solar works when everything else fails, and that's got huge implications for public infrastructure.
-    So what do we want people to do about it? Funders should start backing community-led solar projects. Communities should start thinking about solar the same way they think about water systems- as basic public infrastructure.</details>
-
-### Why We're Pushing This Message
-
-- With **organizations** like UNHCR, we're hoping to secure around $45,000 for a pilot project we're calling the **"Solar Survival Kit"** in Khartoum. This fits perfectly with their focus on refugee-led innovation, and frankly, we think it's time humanitarian energy policy moved toward more sustainable, grassroots approaches. We're putting together a focused 10-15 slide presentation that tells the story simply: starting with the reality that when power goes out, lives are genuinely at risk, then showing our data on where solar is needed most, introducing our Solar Survival Kit solution, highlighting our partnership with the Popular Committees who will actually lead implementation, laying out a clear timeline, making our specific $45,000 ask, and ending with our vision of truly resilient, self-sufficient communities across Sudan. 
- What we're specifically asking from them is straightforward: flexible, direct funding for our pilot project, help amplifying our research and findings through their networks to reach policymakers and other donors, and their voice in advocating for humanitarian energy policies that actually prioritize refugee-led solutions rather than top-down approaches.
-- For **local committees**, we need to change how people see solar. Right now, too many people think of it as some kind of luxury for wealthy households. We want communities to start seeing it as essential infrastructure like roads or water systems and get everyone contributing to make it happen.
-- The **general public** has some misconceptions we need to address. A lot of people still think solar is too expensive or unreliable. We need to show them real examples of how solar projects are actually making communities stronger.
-
-### How We're Getting the Message Out
-
->Different audiences need different 
-approaches.
-- **Funders** want concise presentations, blog posts, and clear infographics that show community impact and how projects can scale up.
-- **Community committees** work best with materials they can easily share, WhatsApp-friendly infographics, short videos, fact sheets that clear up common myths, and templates for running productive meetings about solar adoption.
-- For the **general public**, we're creating blog posts and social media content in local languages that focus on success stories and practical benefits people can actually relate to.
-
-### Why This Actually Matters
-
-This whole approach is really about changing how we think about solar energy. Instead of seeing it as just another technology option, we're treating it as survival infrastructure. That's exactly what our Solar Survival Kit represents: a practical, community-led solution that displaced communities can implement themselves rather than waiting for help from the outside.
-The Solar Survival Kit isn't just equipment. It's a complete approach that puts local leadership at the center. When communities have the tools and knowledge to set up their own reliable power systems, they're not just getting electricity. They're gaining the independence to keep critical services running no matter what's happening around them.
-It's also about changing how humanitarian funding works. We need to move away from quick fixes toward systems that actually last. We want solar to be seen as public infrastructure, not a luxury. And if we can prove this model works through our Khartoum pilot, it could transform how we approach energy access in conflict zones everywhere.
->For more detailed information about the communication strategy, refer to [/5_communication_strategy](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/5_communication_strategy) 
+The central message is that **"Solar power is not just about lights—it's about our community's future."**   
+The goal is to position solar energy as a permanent and sustainable solution that gives communities control over their essential services, particularly in the face of an unreliable power grid.
 
 
----
+### Project Narrative
+
+The document's narrative is structured to be both relatable and compelling:
+* **The Problem:** It highlights the challenges of an unreliable power grid and the high cost of diesel generators, which disrupt critical services like healthcare and water supply. It also addresses the misconception that solar is only for private use.
+* **The Discovery:** It presents evidence that small, durable solar systems are a more resilient and effective alternative to the central grid, especially during crises.
+* **The Call to Action:** The document concludes by calling on Popular Committees in Sudan to take the lead in adopting solar energy, positioning them as champions of resilience and self-sufficiency.
+
+
+## Audience & Tools
+
+Our strategy focuses on two key groups:
+
+- **UNHCR (Funders):**  
+  Through a [**12-slide pitch presentation**](https://www.canva.com/design/DAGvwC3zSuc/Q90rZDX6Gnho7nUzny1ipQ/edit?utm_content=DAGvwC3zSuc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), we clearly communicate the project’s purpose, funding request, and the role of **Popular Committees in Sudan.**  
+  *Primary contact:* [Grazia Paoleri](https://www.linkedin.com/in/grazia-paoleri-54025b60), Senior Technical Advisor for the EU’s contribution to the Refugee Response in Uganda, who champions refugee-led solutions and values lived experience in shaping humanitarian work.
+
+- **Popular Committees (General Public):**  
+  Local, elected groups in Sudan that manage essential services (water, electricity, sanitation, dispute resolution) in the absence of strong state institutions.  
+  They connect communities with government bodies and aid agencies, especially during crises. While solar energy is recognized as a solution, its use is mainly private; public services still rely on diesel generators.  
+  **Toolkit provided:** WhatsApp-shareable infographics, short video success stories, and fact sheets to dispel solar myths.
+
+You can view the final proposal here: [**Proposal: Solar Energy for Community Resilience in Sudan**](./proposal.md) that fits UNHCR Refugee Fund evaluation criteria.
+
+
+<details><summary><b> Why It Matters</b></summary><p>
+
+Communities across Sudan face unreliable power grids and costly diesel generators. Essential services fail when they are needed most.  
+In conflict zones, solar adoption rises — because it works when nothing else does.
+
+Our **Solar Survival Kit** pilot in Khartoum will:
+- Deliver modular solar systems to public institutions.  
+- Be led and maintained by **Popular Committees**.  
+- Prove that community-led solar can replace diesel for critical services.
+</p></details>
+
+<details><summary><b>  What We’re Asking</b></summary><p>
+
+From **UNHCR** and other funders:
+- $45,000 in flexible, direct funding for the 12-month pilot.  
+- Amplification of results to reach policymakers and donors.  
+- Advocacy for refugee-led, sustainable energy policies.
+
+From **local committees**:
+- Lead planning, deployment, and upkeep of solar systems.  
+- Use our communication toolkit to build public support.
+
+From the **public**:
+- Shift the perception of solar from luxury to necessity.  
+- Participate in community funding and maintenance.
+</p></details>
+
+<details><summary><b>How We’re Getting the Message Out</b></summary><p>
+
+**Funders:** [Pitch decks, impact infographics, and proposal.](https://www.canva.com/design/DAGvwC3zSuc/Q90rZDX6Gnho7nUzny1ipQ/edit?utm_content=DAGvwC3zSuc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+**Committees:** WhatsApp-ready infographics, short videos, fact sheets, and meeting templates.  
+**Public:** Blog post in local languages, highlighting relatable success stories.
+</p></details>
+
+> For more details refer to our [Communication Strategy](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/5_communication_strategy), including our detailed process (`process.md`), public-facing summary (`readme.md`), persuasive pitch (`pitch.md`), and full proposal (`proposal.md`).
+
+
+----
+
 ```mermaid
 timeline
     title Project Timeline
@@ -496,3 +520,4 @@ _Who's behind all this? Meet the passionate minds Github driving this project:_
 
 This project is licensed under the MIT License -
 see the [LICENSE](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/LICENSE) file for details.
+
