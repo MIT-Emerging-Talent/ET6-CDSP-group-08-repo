@@ -380,26 +380,26 @@ Interpretation: _Reflects urgent demand for portable energy for lighting, phone 
 
 Our strategy is designed to help local community leaders or advocates to become the main driver of solar energy adoption where they live.
 
-### Our core message
+### Our Core Message
 
 Solar isn’t just about going green; it’s about survival, hope and the community future. When the power grid is down, solar steps in and keep the lights on, literally saving lives and fostering independence.
-### Who we’re reaching?
+### Who We’re Reaching?
 <ul>
-<details><summary>UNHCR Refugee-led Innovation Fund (Funders)</summary>
-Targeting Grazia Paoleri who is a Senior Technical Advisor for the EU’s contribution to the Refugee Response in Uganda. 
+<details><summary><a href = "https://www.unhcr.org/innovation/refugee-led-innovation-fund/">UNHCR Refugee-led Innovation Fund (Funders)</a></summary>
+Targeting <a href = "https://ug.linkedin.com/in/grazia-paoleri-54025b60/en?trk=public_post_feed-actor-name">Grazia Paoleri</a> who is a Senior Technical Advisor for the EU’s contribution to the Refugee Response in Uganda. 
 They Belief in refugee-led solutions. Their mission is to center displaced people in humanitarian work, valuing lived experience as key to identifying needs and crafting effective solutions.</details>
 <details><summary>Energy Research Centers</summary>
-Targeting National Energy Research Centre (NERC) – LinkedIn Profile Operates under Sudan’s Ministry of Science and Communication focused on energy access and sustainable development. What drive them is addressing energy poverty through capacity-building, technical research, and policy-focused initiatives. Source: AfDB
-A key contact that may help us is Yassir Yassin, Head of Energy Systems – LinkedIn</details>
+Targeting <a href ="https://www.linkedin.com/company/nerc-national-energy-research-center/">National Energy Research Centre (NERC)</a> – Operates under Sudan’s Ministry of Science and Communication focused on energy access and sustainable development. What drive them is addressing energy poverty through capacity-building, technical research, and policy-focused initiatives. Source: AfDB
+A key contact that may help us is <a href ="https://www.linkedin.com/in/yassir-yassin">Yassir Yassin</a>, Head of Energy Systems</details>
 <details><summary>General Public</summary>
 Popular Committees in Sudan are local, community-based groups that step in to handle essential services when government institutions are weak or absent. They take care of things like water, electricity, sanitation, issuing residence certificates, settling disputes, organizing security, and collecting resources through community contributions.
 Their role is to connect communities with government bodies, aid agencies, and other organizations especially during crises when state support is limited. Members are elected from within the community, so their education levels vary, but most have basic math and statistics skills, use smartphones, and are comfortable with the internet.
 While solar energy is seen as a strong solution to Sudan’s energy problems, its use is mostly limited to private homes or businesses. Public services such as healthcare, schools, and farming still largely depend on diesel generators, as communities are more familiar with them.</details>
 <details><summary>Journalists</summary>
-We’re aiming for well-known, related magazines like Renewable Energy World; they are intersested in technical case studies on renewable energy projects, human-impact stories about clean energy, policy and market trend analysis, and expert opinion articles.
+We’re aiming for well-known, related magazines like <a href ="https://www.renewableenergyworld.com/">Renewable Energy World</a>; they are intersested in technical case studies on renewable energy projects, human-impact stories about clean energy, policy and market trend analysis, and expert opinion articles.
 Our research demonstrates how solar energy can serve as a vital survival infrastructure in conflict zones. It uniquely combines technical feasibility with compelling human stories of resilience, perfectly aligning with their focus on the intersection of technology and real-world impact.
-Paul Gerke – Editor & Content Director – LinkedIn, is a key contact that we are aiming to get in touch with him; he is driven by a passion for showcasing innovative renewable energy solutions that have tangible social, environmental, and economic impacts. Particularly interested in stories that merge technical innovation with human benefit.</details>
-</li>
+<a href ="https://www.linkedin.com/in/paulrgerke?original_referer=https%3A%2F%2Fwww.google.com%2F">Paul Gerke</a> – Editor & Content Director, is a key contact that we are aiming to get in touch with him; he is driven by a passion for showcasing innovative renewable energy solutions that have tangible social, environmental, and economic impacts. Particularly interested in stories that merge technical innovation with human benefit.</details>
+</ul>
 
 ### What We're Actually Trying to Say
 
@@ -412,24 +412,24 @@ Paul Gerke – Editor & Content Director – LinkedIn, is a key contact that we 
 
 ### Why We're Pushing This Message
 
-With **organizations** like UNHCR, we're hoping to secure around $45,000 for a pilot project we're calling the "Solar Survival Kit" in Khartoum. This fits perfectly with their focus on refugee-led innovation, and frankly, we think it's time humanitarian energy policy moved toward more sustainable, grassroots approaches.
-For **local committees**, we need to change how people see solar. Right now, too many people think of it as some kind of luxury for wealthy households. We want communities to start seeing it as essential infrastructure like roads or water systems and get everyone contributing to make it happen.
-The **general public** has some misconceptions we need to address. A lot of people still think solar is too expensive or unreliable. We need to show them real examples of how solar projects are actually making communities stronger.
-For **research centers and journalists**, we've got both the data and the human stories they need to influence policy and attract more investment. Solar isn't just clean energy anymore—it's critical humanitarian infrastructure.
+- With **organizations** like UNHCR, we're hoping to secure around $45,000 for a pilot project we're calling the "Solar Survival Kit" in Khartoum. This fits perfectly with their focus on refugee-led innovation, and frankly, we think it's time humanitarian energy policy moved toward more sustainable, grassroots approaches.
+- For **local committees**, we need to change how people see solar. Right now, too many people think of it as some kind of luxury for wealthy households. We want communities to start seeing it as essential infrastructure like roads or water systems and get everyone contributing to make it happen.
+- The **general public** has some misconceptions we need to address. A lot of people still think solar is too expensive or unreliable. We need to show them real examples of how solar projects are actually making communities stronger.
+- For **research centers and journalists**, we've got both the data and the human stories they need to influence policy and attract more investment. Solar isn't just clean energy anymore—it's critical humanitarian infrastructure.
 
 ### How We're Getting the Message Out
 
 >Different audiences need different 
 approaches.
-- Funders want concise presentations, blog posts, and clear infographics that show community impact and how projects can scale up.
-- Community committees work best with materials they can easily share, WhatsApp-friendly infographics, short videos, fact sheets that clear up common myths, and templates for running productive meetings about solar adoption.
-- For the general public, we're creating blog posts and social media content in local languages that focus on success stories and practical benefits people can actually relate to.
-- Research centers get detailed project briefs and case studies that align with their existing work. Journalists get feature articles (usually 1,200-1,500 words) that blend hard data with compelling human stories, plus infographics they can use to reach wider audiences.
+- **Funders** want concise presentations, blog posts, and clear infographics that show community impact and how projects can scale up.
+- **Community committees** work best with materials they can easily share, WhatsApp-friendly infographics, short videos, fact sheets that clear up common myths, and templates for running productive meetings about solar adoption.
+- For the **general public**, we're creating blog posts and social media content in local languages that focus on success stories and practical benefits people can actually relate to.
+- **Research centers** get detailed project briefs and case studies that align with their existing work. Journalists get feature articles (usually 1,200-1,500 words) that blend hard data with compelling human stories, plus infographics they can use to reach wider audiences.
 
 ### Why This Actually Matters
 
 This whole approach is really about reframing how we think about solar energy. Instead of seeing it as just another technology option, we're positioning it as survival infrastructure. That means displaced communities can lead their own resilient solutions instead of waiting for help.
-It's also about changing how humanitarian funding works—moving away from quick fixes toward systems that actually last. We want solar to be seen as public infrastructure, not a luxury. And if we can prove this model works, it could transform how we approach energy access in conflict zones everywhere.
+It's also about changing how humanitarian funding works, moving away from quick fixes toward systems that actually last. We want solar to be seen as public infrastructure, not a luxury. And if we can prove this model works, it could transform how we approach energy access in conflict zones everywhere.
 >The bottom line? Communities that have reliable power are communities that can survive and thrive, even when everything else around them is falling apart.
 
 
@@ -488,13 +488,13 @@ _Who's behind all this? Meet the passionate minds Github driving this project:_
 - **[Anyak](https://github.com/Anyak7)**
 - **[Mariia Ermishina](https://github.com/ermishina)**
 - **[Mohamed Altayeb](https://github.com/Mo-Altayeb)**
-- **[Mohamed Saeed👨‍💻](https://github.com/Tbaosman)**
+- **[Mohamed Saeed](https://github.com/Tbaosman)**
 - **[Mohamed Elnajeeb](https://github.com/Mohamed-Elnageeb)**
 - **[Muhannad Assaf](https://github.com/MuhannadGTR)**
 - **[Eman Alfalouji](https://github.com/Emanfalouji)**
 - **[Zeinab Mohammed](https://github.com/Zeinab15)**
 - **[Maria Alejandra Cardeno](https://github.com/mariacommits)**
-
+- **[Safa Saber]("https://github.com/Safa-Saber)**
 ## [Contributing](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/CONTRIBUTING.md)
 
  To set up the project locally and understand our contribution guidelines, please see our [CONTRIBUTING.md](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/CONTRIBUTING.md) file.
