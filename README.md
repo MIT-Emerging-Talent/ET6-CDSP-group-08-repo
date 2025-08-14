@@ -402,7 +402,7 @@ The document's narrative is structured to be both relatable and compelling:
 Our strategy focuses on two key groups:
 
 - **UNHCR (Funders):**  
-  Through a [**12-slide pitch presentation**](https://www.canva.com/design/DAGvwC3zSuc/Q90rZDX6Gnho7nUzny1ipQ/edit?utm_content=DAGvwC3zSuc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) for the [UNHCR Refugee-led Innovation Fund](https://www.unhcr.org/innovation/refugee-led-innovation-fund/), we clearly communicate the project’s purpose, funding request, and the role of **Popular Committees in Sudan.**  
+  Through a [**12-slide pitch presentation**](https://solarenergyforcommunityresilienceinsudan.my.canva.site/), we clearly communicate the project’s purpose, funding request, and the role of **Popular Committees in Sudan.**  
   
 - **Popular Committees (General Public):**  
   Local, elected groups in Sudan that manage essential services (water, electricity, sanitation, dispute resolution) in the absence of strong state institutions.  
@@ -443,7 +443,7 @@ From the **public**:
 
 ### How We’re Getting the Message Out
 
-- **Funders:** [Pitch decks, impact infographics,](https://www.canva.com/design/DAGvwC3zSuc/Q90rZDX6Gnho7nUzny1ipQ/edit?utm_content=DAGvwC3zSuc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) and [proposal.](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/5_communication_strategy/proposal.md)
+- **Funders:** [Pitch decks, impact infographics,](https://solarenergyforcommunityresilienceinsudan.my.canva.site/)
 - **Committees:** WhatsApp-ready infographics, short videos, fact sheets, and meeting templates.     
 - **Public:** Blog post in local languages, highlighting relatable success stories.  
 
@@ -523,6 +523,7 @@ _Who's behind all this? Meet the passionate minds Github driving this project:_
 
 This project is licensed under the MIT License -
 see the [LICENSE](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/LICENSE) file for details.
+
 
 
 
