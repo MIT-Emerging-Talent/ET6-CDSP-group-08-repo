@@ -4,7 +4,8 @@
 
 # [Pitch Deck Presentation](https://solarenergyforcommunityresilienceinsudan.my.canva.site/)
 
-## Email Draft:  
+
+3. <details><summary><b>Email Draft</b></summary><p>
 Subject: Research on Solar Energy in Refugee Context
 
 Dear Grazia Paoleri,
@@ -19,3 +20,5 @@ I would be happy to share my full research and pitch deck with you if you are in
 Sincerely,  
 Group 08 - CDSP Project,  
 MIT Emerging Talent
+</p></details>
+
