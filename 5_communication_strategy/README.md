@@ -76,7 +76,6 @@ In this strategy, we combined two audiences to deliver an impactful result:
 | **Category** | **Details** |
 |--------------|-------------|
 | **Target Funders** | [UNHCR Refugee-led Innovation Fund](https://www.unhcr.org/innovation/refugee-led-innovation-fund/) |
-| **Who?** | **Grazia Paoleri**  <br> Senior Technical Advisor for the EU’s contribution to the Refugee Response in Uganda  <br> [LinkedIn Profile](https://ug.linkedin.com/in/grazia-paoleri-54025b60/en?trk=public_post_feed-actor-name) |
 | **What Drives Them?** | Belief in **refugee-led solutions**. Their mission is to **center displaced people** in humanitarian work, valuing lived experience as key to identifying needs and crafting effective solutions. |
 | **Why Our Project Fits** | Our project highlights **solar energy as a survival infrastructure**, showing how communities are already **innovating**. This aligns with their **bottom-up, grassroots** approach. |
 | **What They Fund** | - **Early-stage innovations** by refugees, for refugees  <br> - Community-based projects  <br> - Strong focus on **energy access** and practical solutions |
