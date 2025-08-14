@@ -409,6 +409,7 @@ Our strategy focuses on two key groups:
   They connect communities with government bodies and aid agencies, especially during crises. While solar energy is recognized as a solution, its use is mainly private; public services still rely on diesel generators.  
   **Toolkit provided:** WhatsApp-shareable infographics, short video success stories, and fact sheets to dispel solar myths.
 
+_By Refugees to Refugees_
 You can view the final proposal here: [**Proposal: Solar Energy for Community Resilience in Sudan**](./proposal.md) that fits UNHCR Refugee Fund evaluation criteria.
 
 
@@ -521,6 +522,7 @@ _Who's behind all this? Meet the passionate minds Github driving this project:_
 
 This project is licensed under the MIT License -
 see the [LICENSE](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/LICENSE) file for details.
+
 
 
 
