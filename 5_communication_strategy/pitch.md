@@ -5,7 +5,8 @@
 # [Pitch Deck Presentation](https://solarenergyforcommunityresilienceinsudan.my.canva.site/)
 
 
-3. <details><summary><b>Email Draft</b></summary><p>
+<details><summary><b>Email Draft</b></summary><p>
+  
 Subject: Research on Solar Energy in Refugee Context
 
 Dear Grazia Paoleri,
