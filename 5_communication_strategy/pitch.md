@@ -23,3 +23,6 @@ Group 08 - CDSP Project,
 MIT Emerging Talent
 </p></details>
 
+
+# Blog Post for the Public
+ [Blog Post](https://solareneryinsudan.blogspot.com/2025/08/solar-energy-in-conflict-zones-what.html)
