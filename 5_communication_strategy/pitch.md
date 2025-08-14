@@ -16,5 +16,6 @@ We have found that solar adoption often spikes during conflict, as it becomes a 
 
 I would be happy to share my full research and pitch deck with you if you are interested.
 
-Sincerely,
-....
+Sincerely,  
+Group 08 - CDSP Project,  
+MIT Emerging Talent
