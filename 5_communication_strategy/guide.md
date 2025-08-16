@@ -23,7 +23,7 @@ Each serves a different purpose — together, they form a complete, consistent m
 ### Communication Artifact
 
 - **`pitch.md`** → [View file](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/communicating_res/5_communication_strategy/pitch.md)  
-  A **short, persuasive introduction** for UNHCR, partners, and decision-makers.  
+  A **short, persuasive introduction** for UNHCR, partners, and decision-makers and an email draft.
   - **Includes:** Problem statement, key insight from our data analysis, the "Solar Survival Kit" concept, community partnership model, and the funding/partnership request.
 
 - **`proposal.md`** → [View file](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/communicating_res/5_communication_strategy/proposal.md)  
