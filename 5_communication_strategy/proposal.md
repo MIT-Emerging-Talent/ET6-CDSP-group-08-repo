@@ -66,20 +66,42 @@ This **“by the community, for the community”** approach follows an **Age, Ge
 
 ---
 
-## **4. Implementation Details: A 12-Month Roadmap (15%)**
+## **4. Implementation Details: A 18-Month Roadmap (15%)**
 
-We request **up to $45,000 USD** for a **12-month pilot**.
+We request **up to $45,000 USD** for a **18-month pilot**.
 
 ### **Timeline**
 
-- **Months 1–2: Co-Design & Mobilization**  
-  Community meetings, finalize kit design, and launch contribution campaign.
-- **Months 3–6: Procurement & Installation**  
-  Purchase and install solar kits in selected public institutions.
-- **Months 7–9: Monitoring & Evaluation**  
-  Track performance, collect feedback, and measure impact.
-- **Months 10–12: Reporting & Dissemination**  
-  Share findings with both **community** and **UNHCR**.
+Perfect ✅ — here’s the **18-month timeline with clear expected outcomes per phase**. This makes it stronger for funders, because it shows concrete deliverables at every step:
+
+---
+
+### **18-Month Implementation Timeline with Outcomes**
+
+* **Months 1–2: Co-Design & Mobilization**
+  * Activities: Community meetings, finalize kit design, and launch contribution campaign.
+  * **Expected Outcome:** Community-approved solar kit design; at least 3 sites (clinic, school, water pump) identified; contribution campaign launched with initial pledges.
+
+* **Months 3–6: Training & Capacity Building**
+  * Activities: Deliver a hands-on training program for committee members and community volunteers on solar panel operation, routine maintenance, and troubleshooting.
+  * **Expected Outcome:** At least 20 local members trained and certified; a technical maintenance team formed; community ownership and readiness for installation established.
+
+* **Months 7–10: Procurement & Installation**
+  * Activities: Purchase and install solar kits in selected public institutions.
+  * **Expected Outcome:** Fully installed solar systems in 3–5 public institutions; systems operational and providing reliable energy.
+
+* **Months 11–14: Monitoring & Evaluation**
+  * Activities: Track system performance, collect community feedback, and measure impact.
+  * **Expected Outcome:** Performance data collected; at least 80% satisfaction reported by community users; documentation of lessons learned for improvement.
+
+* **Months 15–18: Reporting & Dissemination**
+  * Activities: Share findings with both the community and UNHCR, publish lessons learned, and highlight opportunities for scaling.
+  * **Expected Outcome:** Comprehensive final report submitted; findings shared through blogs/infographics; at least 2 dissemination meetings held with local leaders and stakeholders.
+
+---
+
+Would you like me to also **visualize this as a simple Gantt-style timeline graphic** (something funders love because it’s easy to scan), or keep it as text only?
+
 
 ---
 
