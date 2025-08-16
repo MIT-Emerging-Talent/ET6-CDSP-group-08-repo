@@ -72,12 +72,6 @@ We request **up to $45,000 USD** for a **18-month pilot**.
 
 ### **Timeline**
 
-Perfect ✅ — here’s the **18-month timeline with clear expected outcomes per phase**. This makes it stronger for funders, because it shows concrete deliverables at every step:
-
----
-
-### **18-Month Implementation Timeline with Outcomes**
-
 * **Months 1–2: Co-Design & Mobilization**
   * Activities: Community meetings, finalize kit design, and launch contribution campaign.
   * **Expected Outcome:** Community-approved solar kit design; at least 3 sites (clinic, school, water pump) identified; contribution campaign launched with initial pledges.
