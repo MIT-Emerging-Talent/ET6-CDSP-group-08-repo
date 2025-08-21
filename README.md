@@ -471,10 +471,10 @@ timeline
             Analyze data and interpret results : ✅ Completed
     section July 22 - August 11
         Communicating results:
-            Translate findings for a target audience : 🔄 In progress
+            Translate findings for a target audience : ✅ Completed
     section August 12 - August 25
         Final Presentation:
-            Present the full journey and lessons learned : ⏳ Not Started
+            Present the full journey and lessons learned : 🔄 In progress
 ```
 ---
 
@@ -523,17 +523,3 @@ _Who's behind all this? Meet the passionate minds Github driving this project:_
 
 This project is licensed under the MIT License -
 see the [LICENSE](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/LICENSE) file for details.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
