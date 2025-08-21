@@ -78,7 +78,7 @@ to solar energy?**"]
 
 ## Our Actionable Research Question
 
-> _How have armed conflicts in the past decade
+> _How have armed conflicts over the past 25 years
 affected the deployment, capacity utilization,
 and household consumption of solar photovoltaic systems in conflict‐affected communities?_
 
