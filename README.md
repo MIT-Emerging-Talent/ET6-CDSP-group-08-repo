@@ -539,7 +539,7 @@ _Who's behind all this? Meet the passionate minds Github driving this project:_
 - **Collaboration:** Git, GitHub  
 - **Documentation & Writing:** Markdown, Jupyter Notebook  
 - **Project Management:** Trello / GitHub Projects  
-- **Deployment & Sharing:** Medium (for blog post), GitHub Pages (optional)  
+- **Deployment & Sharing:** Medium (for blog post)
 
 ## [Contributing](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/CONTRIBUTING.md)
 
