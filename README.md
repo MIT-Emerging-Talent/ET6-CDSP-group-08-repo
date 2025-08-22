@@ -525,6 +525,10 @@ _Who's behind all this? Meet the passionate minds Github driving this project:_
       <a href="https://github.com/mariacommits">Maria Alejandra Cardeno</a><br>
       <sub>Venezuela</sub>
     </td>
+      <td align="center">
+      <img src="https://github.com/theabdallahnjr.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+      <a href="https://github.com/theabdallahnjr">Abdallah Alnajjar</a>
+    </td>
   </tr>
 </table>
 
