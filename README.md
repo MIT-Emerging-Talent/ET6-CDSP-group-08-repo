@@ -407,6 +407,15 @@ Our strategy focuses on two key groups:
 - **Popular Committees (General Public):**  
 Local elected groups in Sudan that provide basic services and link communities with authorities and aid agencies. Though solar is seen as a solution, public services still depend on diesel.
 
+### How We’re Getting the Message Out
+
+- **Funders:** [Pitch deck](https://solarenergyforcommunityresilienceinsudan.my.canva.site/) and [proposal](./proposal.md) that fits UNHCR Refugee Fund evaluation criteria.
+
+
+- **Committees:** WhatsApp-ready infographics, short videos, fact sheets, and meeting templates. 
+
+- **Public:** [Blog post](https://medium.com/@ahdbasan/survival-not-just-sustainability-the-role-of-solar-in-conflict-zones-54ef59c76af4) shows how conflict-driven blackouts devastate life in Sudan and why solar energy is a lifeline for resilience, dignity, and survival.
+
 > **_By Refugees to Refugees_**
 
 <details><summary><b> Why It Matters</b></summary><p>
@@ -435,15 +444,6 @@ From the **public**:
 - Shift the perception of solar from luxury to necessity.  
 - Participate in community funding and maintenance.
 </p></details>
-
-### How We’re Getting the Message Out
-
-- **Funders:** [Pitch deck](https://solarenergyforcommunityresilienceinsudan.my.canva.site/) and [proposal](./proposal.md) that fits UNHCR Refugee Fund evaluation criteria.
-
-
-- **Committees:** WhatsApp-ready infographics, short videos, fact sheets, and meeting templates. 
-
-- **Public:** [Blog post](https://medium.com/@ahdbasan/survival-not-just-sustainability-the-role-of-solar-in-conflict-zones-54ef59c76af4) shows how conflict-driven blackouts devastate life in Sudan and why solar energy is a lifeline for resilience, dignity, and survival.
 
 
 
