@@ -376,32 +376,8 @@ Interpretation: _Reflects urgent demand for portable energy for lighting, phone 
 
 >For more details, assumptions and limitations refer to [/4_data_analysis](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis) including all scripts, visualizations, technical methodology, and a non-technical summary of our findings, confidence levels, and limitations. 
 
-
-
 ---
-```mermaid
-timeline
-    title Project Timeline
-    section May 27 - June 2
-        Cross-Cultural Collaboration :
-            Repository setup, collaboration setup, communication planning : ✅ Completed
-    section June 3 - June 16
-        Problem Identification :
-            Define the problem & research question : ✅ Completed
-    section June 17 - June 30
-        Data Collection :
-            Decide how to model our problem domain and collect data : ✅ Completed
-    section July 1 - July 21
-        Data Analysis:
-            Analyze data and interpret results : ✅ Completed
-    section July 22 - August 11
-        Communicating results:
-            Translate findings for a target audience : 🔄 In progress
-    section August 12 - August 25
-        Final Presentation:
-            Present the full journey and lessons learned : ⏳ Not Started
-```
----
+
 
 ## Repository structure
 
