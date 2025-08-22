@@ -423,21 +423,61 @@ project/
 
 ## Team Members
 
-<img align="right" width="350" height="auto" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czk1Mm91em13OGpzbTBxaXhpYTlpbWtyNTR0OWdiY2pwazc3aGNneCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8CtkDP78zAJ2BTGo2G/giphy.gif">
-
 _Who's behind all this? Meet the passionate minds Github driving this project:_
 
-- **ِ[Abdallah Alnajjar](https://github.com/theabdallahnjr)**
-- **[Ahd Basan](https://github.com/ahdbasan)**
-- **[Anyak](https://github.com/Anyak7)**
-- **[Mariia Ermishina](https://github.com/ermishina)**
-- **[Mohamed Altayeb](https://github.com/Mo-Altayeb)**
-- **[Mohamed Saeed👨‍💻](https://github.com/Tbaosman)**
-- **[Mohamed Elnajeeb](https://github.com/Mohamed-Elnageeb)**
-- **[Muhannad Assaf](https://github.com/MuhannadGTR)**
-- **[Eman Alfalouji](https://github.com/Emanfalouji)**
-- **[Zeinab Mohammed](https://github.com/Zeinab15)**
-- **[Maria Alejandra Cardeno](https://github.com/mariacommits)**
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/ahdbasan.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+      <a href="https://github.com/ahdbasan">Ahd Basan</a><br>
+      <sub>Sudan</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Anyak7.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+      <a href="https://github.com/Anyak7">Anyak</a><br>
+      <sub>South Sudan</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ermishina.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+      <a href="https://github.com/ermishina">Mariia Ermishina</a><br>
+      <sub>Russia</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Mo-Altayeb.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+      <a href="https://github.com/Mo-Altayeb">Mohamed Altayeb</a><br>
+      <sub>Sudan</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Tbaosman.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+      <a href="https://github.com/Tbaosman">Mohamed Saeed 👨‍💻</a><br>
+      <sub>Sudan</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Mohamed-Elnageeb.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+      <a href="https://github.com/Mohamed-Elnageeb">Mohamed Elnajeeb</a><br>
+      <sub>Sudan</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Emanfalouji.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+      <a href="https://github.com/Emanfalouji">Eman Alfalouji</a><br>
+      <sub>Palestine</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Zeinab15.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+      <a href="https://github.com/Zeinab15">Zeinab Mohammed</a><br>
+      <sub>Sudan</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/mariacommits.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+      <a href="https://github.com/mariacommits">Maria Alejandra Cardeno</a><br>
+      <sub>Venezuela</sub>
+    </td>
+  </tr>
+</table>
+
 
 ## [Contributing](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/CONTRIBUTING.md)
 
