@@ -405,9 +405,7 @@ Our strategy focuses on two key groups:
   Through a [**pitch presentation**](https://solarenergyforcommunityresilienceinsudan.my.canva.site/), we clearly communicate the project’s purpose, funding request, and the role of **Popular Committees in Sudan.**  
   
 - **Popular Committees (General Public):**  
-  Local, elected groups in Sudan that manage essential services (water, electricity, sanitation, dispute resolution) in the absence of strong state institutions.  
-  They connect communities with government bodies and aid agencies, especially during crises. While solar energy is recognized as a solution, its use is mainly private; public services still rely on diesel generators.  
-
+Local elected groups in Sudan that provide basic services and link communities with authorities and aid agencies. Though solar is seen as a solution, public services still depend on diesel.
 
 > **_By Refugees to Refugees_**
 
