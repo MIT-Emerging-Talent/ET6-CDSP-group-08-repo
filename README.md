@@ -531,6 +531,15 @@ _Who's behind all this? Meet the passionate minds Github driving this project:_
   </tr>
 </table>
 
+## [Tech Stack]()
+
+- **Programming Language:** Python 3.11+  
+- **Data Handling:** Pandas, NumPy  
+- **Visualization:** Matplotlib, Seaborn (optional), Plotly  
+- **Collaboration:** Git, GitHub  
+- **Documentation & Writing:** Markdown, Jupyter Notebook  
+- **Project Management:** Trello / GitHub Projects  
+- **Deployment & Sharing:** Medium (for blog post), GitHub Pages (optional)  
 
 ## [Contributing](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/CONTRIBUTING.md)
 
