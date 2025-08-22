@@ -528,7 +528,7 @@ _Who's behind all this? Meet the passionate minds Github driving this project:_
     <td align="center">
       <img src="https://github.com/theabdallahnjr.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
       <a href="https://github.com/theabdallahnjr" style="color:green;">Abdallah Alnajjar</a><br>
-      <sub>Sudan</sub>
+      <sub>Palestine</sub>
     </td>
   </tr>
 </table>
