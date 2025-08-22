@@ -3,8 +3,7 @@
 
 
 <!-- markdownlint-disable MD031 MD033 MD004 MD001 MD009 MD013 MD045 MD001 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=40&duration=4963&pause=1000&color=2A5FAC&vCenter=true&repeat=false&width=650&height=40&lines=Solar+Energy+in+Conflict+Zones)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=900&size=45&duration=5015&pause=1000&color=2A5FAC&vCenter=true&repeat=false&width=700&height=60&lines=Solar+Energy+in+Conflict+Zones)](https://git.io/typing-svg)
 
 **Welcome aboard the CDSP Group 08 Repository!**   🌌  
 _Displaced. Determined. Data-Driven._
@@ -12,9 +11,11 @@ _Displaced. Determined. Data-Driven._
 ## M0: Project Overview
 
 We are a team united by _purpose and shaped by displacement_, using data science
- to **drive real-world impact.** This project applies data exploration, modeling,
- and visualization to explore how renewable energy, specifically **solar energy** (i.e. PV cells),
- serves as _critical survival infrastructure in conflict-affected communities_ worldwide.
+ to **drive real-world impact.**   
+This project applies data exploration, modeling,
+ and visualization to explore how renewable energy, specifically **Solar Energy** (i.e. PV cells),
+ serves as critical survival infrastructure in conflict-affected communities 
+ worldwide.
 
 ## [M1: Domain Research & Background](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/0_domain_study/README.md)
 
@@ -257,7 +258,7 @@ Conflict periods are often associated with increased solar energy adoption..
 - Three-way link between **conflict duration, economic status, and solar adoption**—where _conflict increases the need, GDP shapes capacity, and policy ensures sustainability_
   
 
-### Analytical Questions
+## Analytical Questions
 
 > [**Q1.  What are the trends in solar energy adoption across the conflict cycle—pre-conflict, active conflict, and post-conflict periods—in 9 conflict-affected countries?**](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/4_data_analysis/phases_analysis)  
 >
@@ -378,7 +379,80 @@ Interpretation: _Reflects urgent demand for portable energy for lighting, phone 
 
 ---
 
+## [M4: Communicating Results](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/5_communication_strategy)
 
+Our strategy is designed to help local community leaders or advocates to become the main driver of solar energy adoption where they live.
+
+### Core Message
+
+The central message is that **"Solar power is not just about lights—it's about our community's future."**   
+The goal is to position solar energy as a permanent and sustainable solution that gives communities control over their essential services, particularly in the face of an unreliable power grid.
+
+
+#### Project Narrative
+
+The document's narrative is structured to be both relatable and compelling:
+* **The Problem:** It highlights the challenges of an unreliable power grid and the high cost of diesel generators, which disrupt critical services like healthcare and water supply. It also addresses the misconception that solar is only for private use.
+* **The Discovery:** It presents evidence that small, durable solar systems are a more resilient and effective alternative to the central grid, especially during crises.
+* **The Call to Action:** The document concludes by calling on Popular Committees in Sudan to take the lead in adopting solar energy, positioning them as champions of resilience and self-sufficiency.
+
+
+### Audience & Tools
+
+Our strategy focuses on two key groups:
+
+- **UNHCR (Funders):**  
+  Through a [**12-slide pitch presentation**](https://solarenergyforcommunityresilienceinsudan.my.canva.site/), we clearly communicate the project’s purpose, funding request, and the role of **Popular Committees in Sudan.**  
+  
+- **Popular Committees (General Public):**  
+  Local, elected groups in Sudan that manage essential services (water, electricity, sanitation, dispute resolution) in the absence of strong state institutions.  
+  They connect communities with government bodies and aid agencies, especially during crises. While solar energy is recognized as a solution, its use is mainly private; public services still rely on diesel generators.  
+  **Toolkit provided:** WhatsApp-shareable infographics, short video success stories, and fact sheets to dispel solar myths.
+
+**_By Refugees to Refugees_**
+
+You can view the final proposal here: [**Proposal: Solar Energy for Community Resilience in Sudan**](./proposal.md) that fits UNHCR Refugee Fund evaluation criteria.
+
+
+<details><summary><b> Why It Matters</b></summary><p>
+
+Communities across Sudan face unreliable power grids and costly diesel generators. Essential services fail when they are needed most.  
+In conflict zones, solar adoption rises — because it works when nothing else does.
+
+Our **Solar Survival Kit** pilot in Khartoum will:
+- Deliver modular solar systems to public institutions.  
+- Be led and maintained by **Popular Committees**.  
+- Prove that community-led solar can replace diesel for critical services.
+</p></details>
+
+<details><summary><b>  What We’re Asking</b></summary><p>
+
+From **UNHCR** and other funders:
+- $45,000 in flexible, direct funding for the 12-month pilot.  
+- Amplification of results to reach policymakers and donors.  
+- Advocacy for refugee-led, sustainable energy policies.
+
+From **local committees**:
+- Lead planning, deployment, and upkeep of solar systems.  
+- Use our communication toolkit to build public support.
+
+From the **public**:
+- Shift the perception of solar from luxury to necessity.  
+- Participate in community funding and maintenance.
+</p></details>
+
+### How We’re Getting the Message Out
+
+- **Funders:** [Pitch decks, impact infographics,](https://solarenergyforcommunityresilienceinsudan.my.canva.site/)
+- **Committees:** WhatsApp-ready infographics, short videos, fact sheets, and meeting templates.     
+- **Public:** Blog post in local languages, highlighting relatable success stories.  
+
+
+
+> For more details refer to our [Communication Strategy](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/5_communication_strategy), including our detailed process (`process.md`), public-facing summary (`readme.md`), persuasive pitch (`pitch.md`), and full proposal (`proposal.md`).
+
+
+--- 
 ## Repository structure
 
 ```text
@@ -453,7 +527,6 @@ _Who's behind all this? Meet the passionate minds Github driving this project:_
     </td>
   </tr>
 </table>
-
 
 ## [Contributing](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/CONTRIBUTING.md)
 
