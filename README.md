@@ -402,17 +402,14 @@ The document's narrative is structured to be both relatable and compelling:
 Our strategy focuses on two key groups:
 
 - **UNHCR (Funders):**  
-  Through a [**12-slide pitch presentation**](https://solarenergyforcommunityresilienceinsudan.my.canva.site/), we clearly communicate the project’s purpose, funding request, and the role of **Popular Committees in Sudan.**  
+  Through a [**pitch presentation**](https://solarenergyforcommunityresilienceinsudan.my.canva.site/), we clearly communicate the project’s purpose, funding request, and the role of **Popular Committees in Sudan.**  
   
 - **Popular Committees (General Public):**  
   Local, elected groups in Sudan that manage essential services (water, electricity, sanitation, dispute resolution) in the absence of strong state institutions.  
   They connect communities with government bodies and aid agencies, especially during crises. While solar energy is recognized as a solution, its use is mainly private; public services still rely on diesel generators.  
-  **Toolkit provided:** WhatsApp-shareable infographics, short video success stories, and fact sheets to dispel solar myths.
 
-**_By Refugees to Refugees_**
 
-You can view the final proposal here: [**Proposal: Solar Energy for Community Resilience in Sudan**](./proposal.md) that fits UNHCR Refugee Fund evaluation criteria.
-
+> **_By Refugees to Refugees_**
 
 <details><summary><b> Why It Matters</b></summary><p>
 
@@ -443,16 +440,19 @@ From the **public**:
 
 ### How We’re Getting the Message Out
 
-- **Funders:** [Pitch decks, impact infographics,](https://solarenergyforcommunityresilienceinsudan.my.canva.site/)
-- **Committees:** WhatsApp-ready infographics, short videos, fact sheets, and meeting templates.     
-- **Public:** Blog post in local languages, highlighting relatable success stories.  
+- **Funders:** [Pitch deck](https://solarenergyforcommunityresilienceinsudan.my.canva.site/) and [proposal](./proposal.md) that fits UNHCR Refugee Fund evaluation criteria.
+
+
+- **Committees:** WhatsApp-ready infographics, short videos, fact sheets, and meeting templates. 
+
+- **Public:** [Blog post](https://medium.com/@ahdbasan/survival-not-just-sustainability-the-role-of-solar-in-conflict-zones-54ef59c76af4) shows how conflict-driven blackouts devastate life in Sudan and why solar energy is a lifeline for resilience, dignity, and survival.
 
 
 
 > For more details refer to our [Communication Strategy](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/5_communication_strategy), including our detailed process (`process.md`), public-facing summary (`readme.md`), persuasive pitch (`pitch.md`), and full proposal (`proposal.md`).
 
 
---- 
+---
 ## Repository structure
 
 ```text
@@ -479,27 +479,27 @@ _Who's behind all this? Meet the passionate minds Github driving this project:_
   <tr>
     <td align="center">
       <img src="https://github.com/ahdbasan.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
-      <a href="https://github.com/ahdbasan">Ahd Basan</a><br>
+      <a href="https://github.com/ahdbasan" style="color:green;">Ahd Basan</a><br>
       <sub>Sudan</sub>
     </td>
     <td align="center">
       <img src="https://github.com/Anyak7.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
-      <a href="https://github.com/Anyak7">Anyak</a><br>
+      <a href="https://github.com/Anyak7" style="color:green;">Anyak</a><br>
       <sub>South Sudan</sub>
     </td>
     <td align="center">
       <img src="https://github.com/ermishina.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
-      <a href="https://github.com/ermishina">Mariia Ermishina</a><br>
+      <a href="https://github.com/ermishina" style="color:green;">Mariia Ermishina</a><br>
       <sub>Russia</sub>
     </td>
     <td align="center">
       <img src="https://github.com/Mo-Altayeb.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
-      <a href="https://github.com/Mo-Altayeb">Mohamed Altayeb</a><br>
+      <a href="https://github.com/Mo-Altayeb" style="color:green;">Mohamed Altayeb</a><br>
       <sub>Sudan</sub>
     </td>
     <td align="center">
       <img src="https://github.com/Tbaosman.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
-      <a href="https://github.com/Tbaosman">Mohamed Saeed 👨‍💻</a><br>
+      <a href="https://github.com/Tbaosman" style="color:green;">Mohamed Saeed 👨‍💻</a><br>
       <sub>Sudan</sub>
     </td>
   </tr>
@@ -507,30 +507,32 @@ _Who's behind all this? Meet the passionate minds Github driving this project:_
   <tr>
     <td align="center">
       <img src="https://github.com/Mohamed-Elnageeb.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
-      <a href="https://github.com/Mohamed-Elnageeb">Mohamed Elnajeeb</a><br>
+      <a href="https://github.com/Mohamed-Elnageeb" style="color:green;">Mohamed Elnajeeb</a><br>
       <sub>Sudan</sub>
     </td>
     <td align="center">
       <img src="https://github.com/Emanfalouji.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
-      <a href="https://github.com/Emanfalouji">Eman Alfalouji</a><br>
+      <a href="https://github.com/Emanfalouji" style="color:green;">Eman Alfalouji</a><br>
       <sub>Palestine</sub>
     </td>
     <td align="center">
       <img src="https://github.com/Zeinab15.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
-      <a href="https://github.com/Zeinab15">Zeinab Mohammed</a><br>
+      <a href="https://github.com/Zeinab15" style="color:green;">Zeinab Mohammed</a><br>
       <sub>Sudan</sub>
     </td>
     <td align="center">
       <img src="https://github.com/mariacommits.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
-      <a href="https://github.com/mariacommits">Maria Alejandra Cardeno</a><br>
+      <a href="https://github.com/mariacommits" style="color:green;">Maria Alejandra Cardeno</a><br>
       <sub>Venezuela</sub>
     </td>
-      <td align="center">
+    <td align="center">
       <img src="https://github.com/theabdallahnjr.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
-      <a href="https://github.com/theabdallahnjr">Abdallah Alnajjar</a>
+      <a href="https://github.com/theabdallahnjr" style="color:green;">Abdallah Alnajjar</a><br>
+      <sub>Sudan</sub>
     </td>
   </tr>
 </table>
+
 
 ## [Contributing](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/CONTRIBUTING.md)
 
