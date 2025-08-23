@@ -4,7 +4,7 @@
 <!-- markdownlint-disable MD013 MD031 MD007 MD033 MD004 MD009 MD013 MD045 MD041 MD032 MD039 MD019 MD012-->
 
 
-<!-- markdownlint-disable MD031 MD033 MD004 MD001 MD009 MD013 MD045 MD001 -->
+<!-- markdownlint-disable MD031 MD033 MD004 MD001 MD009 MD013 MD045 MD001 MD012 MD022 MD036 -->
 
 ## Stop Doing
 - Spending too much time detailing research methodology in the blog (it slowed us down).
@@ -67,4 +67,5 @@
 **Did you need to add or remove steps?**  
 - For future steps, I’d like to create a full website for our project to better reach our audience.  
 - I’d also like to open accounts on social media platforms (Instagram, Facebook).  
+
 
