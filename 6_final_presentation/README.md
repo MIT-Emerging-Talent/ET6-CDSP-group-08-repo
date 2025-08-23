@@ -2,7 +2,8 @@
 <!-- markdownlint-disable MD013 MD031 MD007 MD033 MD004 MD009 MD013 MD045 MD041 MD032 MD039 MD019 MD012-->
 
 
-<!-- markdownlint-disable MD031 MD033 MD004 MD001 MD009 MD013 MD045 MD001 -->
+<!-- markdownlint-disable MD031 MD033 MD004 MD001 MD009 MD013 MD045 MD001 MD026 -->
+
 # Final Presentation
 
 ## Slide 01 : Team & Title 
