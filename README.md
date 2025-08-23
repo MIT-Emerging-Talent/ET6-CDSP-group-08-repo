@@ -352,7 +352,7 @@ We are **moderately confident** in the trends observed. Core patterns appear con
 - Imports ≠ direct deployment; stockpiling or re-exports possibles.(black markets or secondhand use)
 - No modeling of lag effects between import and deployment.
 - Conflict phase definitions are simplified proxies.
-- <details><summary>Many Other Factors: The amount of solar power a country installs or how many people get connected depends on many things, not just conflict. Things like a country's wealth, its government's policies, help from other countries, and even its geography all play a huge role.</summary>
+<details><summary>Many Other Factors: The amount of solar power a country installs or how many people get connected depends on many things, not just conflict. Things like a country's wealth, its government's policies, help from other countries, and even its geography all play a huge role.</summary>
   <ul><li> Statistical analysis showed that there is no significant difference in mean solar PV capacity nor the number of people connected between conflict and non-conflict regions.</li></ul></details>
 
 <details><summary><b>Results and Interpretation</b></summary><p>
