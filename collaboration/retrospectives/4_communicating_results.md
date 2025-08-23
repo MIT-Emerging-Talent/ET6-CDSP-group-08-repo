@@ -68,5 +68,19 @@
 - For future steps, I’d like to create a full website for our project to better reach our audience.  
 - I’d also like to open accounts on social media platforms (Instagram, Facebook).  
 
+---
+
+### Zeinab Mohmmed
+
+**What parts of your plan went as expected**  
+- We successfully identified a suitable audience for our project message. Both our blog post and presentation pitch were well-prepared and met our expectations.
+
+**What didn’t go as planned**  
+- We faced some delays because we spent extra time deciding on our target audience and the right medium.
+
+ **Did you add or remove steps?**  
+- We are planning to implement the *Solar Pilot Kit in Khartoum* and have already started looking for funding and building partnerships to support it.
+
+
 
 
