@@ -10,7 +10,7 @@
 
 - **Project Title**: "Solar Energy in conflict Zones"**
 - **Funders**: Refugee-led Innovation Fund
-- **Group Name & project**: GROUP 08 - CDSP PROJECT
+- **Group Name**: GROUP 08 - CDSP PROJECT
   
 ## Slide 02 : Our Story
 
