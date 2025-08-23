@@ -70,18 +70,21 @@
 
 ### Ahd
 
-**What Went Well**
+### **What Went Well**
+
 Started early with working on data exploration 2 and critically think how to
  work on an analysis question and use my data accordingly
 A lot of going back and forth with data and the exploration
 
-**What Didn’t Go as Planned**
+### **What Didn’t Go as Planned**
+
 Confusion of what is data analysis and what is data exploration
 Starting with dividing analysis according to datasets again but turns out
  choosing data analysis questions related to the main question regardless of the
   datasets
 
-**Did you need to add things that weren't in your strategy? Or remove extra steps?**
+### **Did you need to add things that weren't in your strategy? Or remove extra steps?**
+
 Just had a call with Evan that clarified a lot of questions and confusions
 
 ### Zeinab
