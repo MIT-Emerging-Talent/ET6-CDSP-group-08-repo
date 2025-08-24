@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD024 -->
+
 # Retrospective
 
 ## Stop Doing
@@ -114,13 +116,13 @@ Just had a call with Evan that clarified a lot of questions and confusions
 
 ### Mohamed Altayeb
 
-#### **What Went Well**
+### What Went Well
 
 - Had a better understanding of the difference between data exploration and
   data analysis.
 - Gained more experience with working with Jupyter Notebooks.
 
-#### **What Didn’t Go as Planned**
+### What Didn’t Go as Planned
 
 - Ongoing power blackout prevented me from properly contributing to the work
   this milestone>
@@ -129,7 +131,7 @@ Just had a call with Evan that clarified a lot of questions and confusions
 - I had to include only 4 countries in my analysis during the time frame
    of this milestone.
 
-#### Did You Need to Add Things That Weren’t In Your Strategy? Or Remove Extra Steps?
+**Did You Need to Add Things That Weren’t In Your Strategy? Or Remove Extra Steps?**
 
 - Divided the tasks based on analytical questions rather than data sets.
   This enabled us to work more individually and combine our results later.
