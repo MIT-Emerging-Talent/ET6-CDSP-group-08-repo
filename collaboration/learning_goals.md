@@ -62,14 +62,14 @@ structures or algorithms
 - Improve on my python skills especially in data science
 - Learn how to solve problems effective using programs
 
-  ### Maria Cedeño **[(Gmail)](<mailto:mariaalejandracedeno039@gmail.com>)**
+  ### Maria Cedeño
 
 - Enhance ability to clearly communicate complex data insights
 - Seek and incorporate constructive feedback
 - Improve problem-solving skills
 - Gain practical experience on a real data science project
 
-### Zeinab Mohmmed **[(Gmail)](<mailto:zeinbwahid98@gmail.com>)**
+### Zeinab Mohmmed 
 
 - Strengthen my technical skills, especially in GitHub, Python, and Data Science.
 - Improve my time management and become more organized.
