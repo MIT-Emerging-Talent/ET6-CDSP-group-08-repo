@@ -1,8 +1,6 @@
 # Retrospective
 
-
 <!-- markdownlint-disable MD013 MD031 MD007 MD033 MD004 MD009 MD013 MD045 MD041 MD032 MD039 MD019 -->
-
 
 <!-- markdownlint-disable MD031 MD033 MD004 MD001 MD009 MD013 MD045 MD001 MD012 MD022 MD036 -->
 
@@ -58,6 +56,7 @@
 ---
 
 ### Maria Cedeño
+
 **What parts of your plan went as expected**  
 - The blog post was successful and went as planned.  
 
@@ -78,9 +77,16 @@
 **What didn’t go as planned**  
 - We faced some delays because we spent extra time deciding on our target audience and the right medium.
 
- **Did you add or remove steps?**  
+**Did you add or remove steps?**  
 - We are planning to implement the *Solar Pilot Kit in Khartoum* and have already started looking for funding and building partnerships to support it.
 
+### Mohamed Saeed
 
+**What parts of your plan went as expected** 
+- The team did an excellent job in crafting the pitch and blog post.
 
+**What didn’t go as planned**
+- My low contribution in the last milestone may have led to delays in the team's progress.
 
+**Did you add or remove steps?** 
+- Raising public awareness about the hidden benefits of solar energy by creating a Facebook page and post posts there.
