@@ -23,5 +23,5 @@ Thank you for taking the time to consider this. I look forward to hearing your t
 Warm regards,  
 **Ahd Abdelrahim**  
 MIT Emerging Talent Program – Cohort 6  
-📧 ahdbasan2@gmail.com  
-🌍 GitHub – [ahdbasan](https://github.com/ahdbasan)  
+ahdbasan2@gmail.com  
+GitHub – [ahdbasan](https://github.com/ahdbasan)  
