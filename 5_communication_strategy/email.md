@@ -1,6 +1,6 @@
 **Subject:** Collaboration Opportunity: Refugee-Led Innovation Fund Application  
 
-Dear [Recipient’s Name],  
+Dear Fay Majid,  
 
 I hope this email finds you well. My name is **Ahd Abdelrahim**, and I am reaching out on behalf of my team from the **MIT Emerging Talent program**.  
 
