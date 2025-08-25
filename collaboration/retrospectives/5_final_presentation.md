@@ -1,4 +1,6 @@
+<!-- markdownlint-disable MD013 MD031 MD007 MD033 MD004 MD009 MD013 MD045 MD041 MD032 MD039 MD019 -->
 
+<!-- markdownlint-disable MD031 MD033 MD004 MD001 MD009 MD013 MD045 MD001 MD012 MD022 MD036 -->
 
 # Final Retrospective  
 
@@ -44,6 +46,7 @@ Our focus on impact and clarity helped guide the project direction.
 - Added extra effort on presentation design, which wasn’t originally emphasized but proved crucial.  
 - Removed or simplified smaller research details to stay focused on the main goals.  
 - Adjusted communication approaches (sharing more updates and feedback) as the project progressed.  
+
 
 
 
