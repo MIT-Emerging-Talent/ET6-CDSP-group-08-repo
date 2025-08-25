@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD013 -->
+<!-- markdownlint-disable MD013 MD004 -->
 
 # **Proposal: Solar Energy for Community Resilience in Sudan**
 

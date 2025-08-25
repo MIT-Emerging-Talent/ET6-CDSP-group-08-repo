@@ -352,7 +352,7 @@ We are **moderately confident** in the trends observed. Core patterns appear con
 - Imports ≠ direct deployment; stockpiling or re-exports possibles.(black markets or secondhand use)
 - No modeling of lag effects between import and deployment.
 - Conflict phase definitions are simplified proxies.
-- <details><summary>Many Other Factors: The amount of solar power a country installs or how many people get connected depends on many things, not just conflict. Things like a country's wealth, its government's policies, help from other countries, and even its geography all play a huge role.</summary>
+<details><summary>Many Other Factors: The amount of solar power a country installs or how many people get connected depends on many things, not just conflict. Things like a country's wealth, its government's policies, help from other countries, and even its geography all play a huge role.</summary>
   <ul><li> Statistical analysis showed that there is no significant difference in mean solar PV capacity nor the number of people connected between conflict and non-conflict regions.</li></ul></details>
 
 <details><summary><b>Results and Interpretation</b></summary><p>
@@ -402,17 +402,21 @@ The document's narrative is structured to be both relatable and compelling:
 Our strategy focuses on two key groups:
 
 - **UNHCR (Funders):**  
-  Through a [**12-slide pitch presentation**](https://solarenergyforcommunityresilienceinsudan.my.canva.site/), we clearly communicate the project’s purpose, funding request, and the role of **Popular Committees in Sudan.**  
+  Through a [**pitch presentation**](https://solarenergyforcommunityresilienceinsudan.my.canva.site/), we clearly communicate the project’s purpose, funding request, and the role of **Popular Committees in Sudan.**  
   
 - **Popular Committees (General Public):**  
-  Local, elected groups in Sudan that manage essential services (water, electricity, sanitation, dispute resolution) in the absence of strong state institutions.  
-  They connect communities with government bodies and aid agencies, especially during crises. While solar energy is recognized as a solution, its use is mainly private; public services still rely on diesel generators.  
-  **Toolkit provided:** WhatsApp-shareable infographics, short video success stories, and fact sheets to dispel solar myths.
+Local elected groups in Sudan that provide basic services and link communities with authorities and aid agencies. Though solar is seen as a solution, public services still depend on diesel.
 
-**_By Refugees to Refugees_**
+### How We’re Getting the Message Out
 
-You can view the final proposal here: [**Proposal: Solar Energy for Community Resilience in Sudan**](./proposal.md) that fits UNHCR Refugee Fund evaluation criteria.
+- **Funders:** [Pitch deck](https://solarenergyforcommunityresilienceinsudan.my.canva.site/) and [proposal](./proposal.md) that fits UNHCR Refugee Fund evaluation criteria.
 
+
+- **Committees:** WhatsApp-ready infographics, short videos, fact sheets, and meeting templates. 
+
+- **Public:** [Blog post](https://medium.com/@ahdbasan/survival-not-just-sustainability-the-role-of-solar-in-conflict-zones-54ef59c76af4) shows how conflict-driven blackouts devastate life in Sudan and why solar energy is a lifeline for resilience, dignity, and survival.
+
+> **_By Refugees to Refugees_**
 
 <details><summary><b> Why It Matters</b></summary><p>
 
@@ -441,43 +445,12 @@ From the **public**:
 - Participate in community funding and maintenance.
 </p></details>
 
-### How We’re Getting the Message Out
-
-- **Funders:** [Pitch decks, impact infographics,](https://solarenergyforcommunityresilienceinsudan.my.canva.site/)
-- **Committees:** WhatsApp-ready infographics, short videos, fact sheets, and meeting templates.     
-- **Public:** Blog post in local languages, highlighting relatable success stories.  
-
 
 
 > For more details refer to our [Communication Strategy](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/5_communication_strategy), including our detailed process (`process.md`), public-facing summary (`readme.md`), persuasive pitch (`pitch.md`), and full proposal (`proposal.md`).
 
 
 ---
-
-```mermaid
-timeline
-    title Project Timeline
-    section May 27 - June 2
-        Cross-Cultural Collaboration :
-            Repository setup, collaboration setup, communication planning : ✅ Completed
-    section June 3 - June 16
-        Problem Identification :
-            Define the problem & research question : ✅ Completed
-    section June 17 - June 30
-        Data Collection :
-            Decide how to model our problem domain and collect data : ✅ Completed
-    section July 1 - July 21
-        Data Analysis:
-            Analyze data and interpret results : ✅ Completed
-    section July 22 - August 11
-        Communicating results:
-            Translate findings for a target audience : ✅ Completed
-    section August 12 - August 25
-        Final Presentation:
-            Present the full journey and lessons learned : 🔄 In progress
-```
----
-
 ## Repository structure
 
 ```text
@@ -498,22 +471,75 @@ project/
 
 ## Team Members
 
-<img align="right" width="350" height="auto" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czk1Mm91em13OGpzbTBxaXhpYTlpbWtyNTR0OWdiY2pwazc3aGNneCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8CtkDP78zAJ2BTGo2G/giphy.gif">
-
 _Who's behind all this? Meet the passionate minds Github driving this project:_
 
-- **ِ[Abdallah Alnajjar](https://github.com/theabdallahnjr)**
-- **[Ahd Basan](https://github.com/ahdbasan)**
-- **[Anyak](https://github.com/Anyak7)**
-- **[Mariia Ermishina](https://github.com/ermishina)**
-- **[Mohamed Altayeb](https://github.com/Mo-Altayeb)**
-- **[Mohamed Saeed](https://github.com/Tbaosman)**
-- **[Mohamed Elnajeeb](https://github.com/Mohamed-Elnageeb)**
-- **[Muhannad Assaf](https://github.com/MuhannadGTR)**
-- **[Eman Alfalouji](https://github.com/Emanfalouji)**
-- **[Zeinab Mohammed](https://github.com/Zeinab15)**
-- **[Maria Alejandra Cardeno](https://github.com/mariacommits)**
-- **[Safa Saber](https://github.com/Safa-Saber)**
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/ahdbasan.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+      <a href="https://github.com/ahdbasan" style="color:green;">Ahd Basan</a><br>
+      <sub>Sudan</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Anyak7.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+      <a href="https://github.com/Anyak7" style="color:green;">Anyak</a><br>
+      <sub>South Sudan</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ermishina.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+      <a href="https://github.com/ermishina" style="color:green;">Mariia Ermishina</a><br>
+      <sub>Russia</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Mo-Altayeb.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+      <a href="https://github.com/Mo-Altayeb" style="color:green;">Mohamed Altayeb</a><br>
+      <sub>Sudan</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Tbaosman.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+      <a href="https://github.com/Tbaosman" style="color:green;">Mohamed Saeed 👨‍💻</a><br>
+      <sub>Sudan</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Mohamed-Elnageeb.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+      <a href="https://github.com/Mohamed-Elnageeb" style="color:green;">Mohamed Elnajeeb</a><br>
+      <sub>Sudan</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Emanfalouji.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+      <a href="https://github.com/Emanfalouji" style="color:green;">Eman Alfalouji</a><br>
+      <sub>Palestine</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Zeinab15.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+      <a href="https://github.com/Zeinab15" style="color:green;">Zeinab Mohammed</a><br>
+      <sub>Sudan</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/mariacommits.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+      <a href="https://github.com/mariacommits" style="color:green;">Maria Alejandra Cardeno</a><br>
+      <sub>Venezuela</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/theabdallahnjr.png" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
+      <a href="https://github.com/theabdallahnjr" style="color:green;">Abdallah Alnajjar</a><br>
+      <sub>Palestine</sub>
+    </td>
+  </tr>
+</table>
+
+## [Tech Stack]()
+
+- **Programming Language:** Python 3.11+  
+- **Data Handling:** Pandas, NumPy  
+- **Visualization:** Matplotlib, Seaborn (optional), Plotly  
+- **Collaboration:** Git, GitHub  
+- **Documentation & Writing:** Markdown, Jupyter Notebook  
+- **Project Management:** Trello / GitHub Projects  
+- **Deployment & Sharing:** Medium (for blog post)
 
 ## [Contributing](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/CONTRIBUTING.md)
 
