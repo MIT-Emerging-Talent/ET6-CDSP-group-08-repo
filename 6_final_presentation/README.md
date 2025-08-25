@@ -4,7 +4,8 @@
 
 <!-- markdownlint-disable MD031 MD022 MD049 MD033 MD004 MD001 MD009 MD013 MD045 MD001 MD026 -->
 
-# [Final Presentation](https://docs.google.com/presentation/d/1ylyQKWaLEG2DBNjNC2kAqbokFimr2Ajq/edit?usp=sharing&ouid=106464215390283406640&rtpof=true&sd=true)  
+# [Final Presentation](https://docs.google.com/presentation/d/1ylyQKWaLEG2DBNjNC2kAqbokFimr2Ajq/edit?usp=sharing&ouid=106464215390283406640&rtpof=true&sd=true)  ![i](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDM0Z2V1NWsybzRtMnk3YWVyM3J1cnc3aHEwMXk3OG9vZDMyaXA2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7XZEvQlmM3DJm/giphy.gif)
+
 
 ## Slide 01 : Team & Title  
 - **Project Title**: *Solar Energy in Conflict Zones*  
@@ -75,3 +76,6 @@
 ## Slide 10 : Closing  
 - A journey of discovery and collaboration.  
 - > Together, we can build resilient communities!  
+
+
+![giphy](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFqaDc1OGZjeGhjdGo0bXJ4bDZvNXJkczdrM3N6MzNoanU0cHd2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8UF0EXzsc0Ckg/giphy.gif)
