@@ -410,15 +410,14 @@ Local elected groups in Sudan that provide basic services and link communities w
 ### How We’re Getting the Message Out
 
 - **Funders:** 
-- A [document](https://docs.google.com/document/d/1qtnTPDyECZFVlH4yhWlZRAuwwtspa7mvojq4XWrX1DM/edit?tab=t.0) outlining the fund, requirements, and our draft budget  
-- A [GitHub repository](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo) where our research and progress are documented  
-- A [pitch deck](https://solarenergyforcommunityresilienceinsudan.my.canva.site/) and [proposal](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/5_communication_strategy/proposal.md) aligned with the UNHCR evaluation criteria  
-
-- **Committees:** WhatsApp-ready infographics, short videos, fact sheets, and meeting templates. 
+  - A [document](https://docs.google.com/document/d/1qtnTPDyECZFVlH4yhWlZRAuwwtspa7mvojq4XWrX1DM/edit?tab=t.0) outlining the fund, requirements, and our draft budget  
+  - A [GitHub repository](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo) where our research and progress are documented  
+  - A [pitch deck](https://solarenergyforcommunityresilienceinsudan.my.canva.site/) and [proposal](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/5_communication_strategy/proposal.md) aligned with the UNHCR evaluation criteria  
 
 - **Public:**   
-- A [blog post](https://medium.com/@ahdbasan/survival-not-just-sustainability-the-role-of-solar-in-conflict-zones-54ef59c76af4) highlighting how solar energy provides resilience and dignity in conflict-driven blackouts  
+  - A [blog post](https://medium.com/@ahdbasan/survival-not-just-sustainability-the-role-of-solar-in-conflict-zones-54ef59c76af4) highlighting how solar energy provides resilience and dignity in conflict-driven blackouts  
 
+- **Committees:** WhatsApp-ready infographics, short videos, fact sheets, and meeting templates. 
 
 > **_By Refugees to Refugees_**
 
@@ -553,4 +552,5 @@ _Who's behind all this? Meet the passionate minds Github driving this project:_
 
 This project is licensed under the MIT License -
 see the [LICENSE](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/LICENSE) file for details.
+
 
