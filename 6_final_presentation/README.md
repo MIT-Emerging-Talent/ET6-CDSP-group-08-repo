@@ -2,7 +2,7 @@
 <!-- markdownlint-disable MD013 MD031 MD007 MD033 MD004 MD009 MD013 MD045 MD041 MD032 MD039 MD019 MD012-->
 
 
-<!-- markdownlint-disable MD031 MD033 MD004 MD001 MD009 MD013 MD045 MD001 MD026 -->
+<!-- markdownlint-disable MD031 MD022 MD049 MD033 MD004 MD001 MD009 MD013 MD045 MD001 MD026 -->
 
 # [Final Presentation](https://docs.google.com/presentation/d/1ylyQKWaLEG2DBNjNC2kAqbokFimr2Ajq/edit?usp=sharing&ouid=106464215390283406640&rtpof=true&sd=true)  
 
@@ -75,7 +75,3 @@
 ## Slide 10 : Closing  
 - A journey of discovery and collaboration.  
 - > Together, we can build resilient communities!  
-
-
-
-
