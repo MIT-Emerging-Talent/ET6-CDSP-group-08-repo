@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD024 -->
+
 # Retrospective
 
 ## Stop Doing
@@ -70,18 +72,21 @@
 
 ### Ahd
 
-**What Went Well**
+### **What Went Well**
+
 Started early with working on data exploration 2 and critically think how to
  work on an analysis question and use my data accordingly
 A lot of going back and forth with data and the exploration
 
-**What Didn’t Go as Planned**
+### **What Didn’t Go as Planned**
+
 Confusion of what is data analysis and what is data exploration
 Starting with dividing analysis according to datasets again but turns out
  choosing data analysis questions related to the main question regardless of the
   datasets
 
-**Did you need to add things that weren't in your strategy? Or remove extra steps?**
+### **Did you need to add things that weren't in your strategy? Or remove extra steps?**
+
 Just had a call with Evan that clarified a lot of questions and confusions
 
 ### Zeinab
@@ -111,13 +116,13 @@ Just had a call with Evan that clarified a lot of questions and confusions
 
 ### Mohamed Altayeb
 
-#### **What Went Well**
+### What Went Well
 
 - Had a better understanding of the difference between data exploration and
   data analysis.
 - Gained more experience with working with Jupyter Notebooks.
 
-#### **What Didn’t Go as Planned**
+### What Didn’t Go as Planned
 
 - Ongoing power blackout prevented me from properly contributing to the work
   this milestone>
@@ -126,7 +131,7 @@ Just had a call with Evan that clarified a lot of questions and confusions
 - I had to include only 4 countries in my analysis during the time frame
    of this milestone.
 
-#### Did You Need to Add Things That Weren’t In Your Strategy? Or Remove Extra Steps?
+**Did You Need to Add Things That Weren’t In Your Strategy? Or Remove Extra Steps?**
 
 - Divided the tasks based on analytical questions rather than data sets.
   This enabled us to work more individually and combine our results later.

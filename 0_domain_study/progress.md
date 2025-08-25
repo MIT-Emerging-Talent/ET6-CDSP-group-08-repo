@@ -1,5 +1,7 @@
 # Team Progress
 
+![infographic](../0_domain_study/groupprogress.png)
+
 ## Convergent and Divergent thinking
 
 ### Problem Identification
@@ -78,7 +80,7 @@ to solar energy?**"]
 
 ## Our Actionable Research Question
 
-> _How have armed conflicts in the past decade
+> _How have armed conflicts over the past 25 years
 affected the deployment, capacity utilization,
 and household consumption of solar photovoltaic systems in conflict‐affected communities?_
 
@@ -116,8 +118,3 @@ and household consumption of solar photovoltaic systems in conflict‐affected c
 - **Regions:** Syria, Iraq, Sudan, South Sudan, Palestine, Mali, Ethiopia,
   Ukraine, Yemen, Libya, Afghanistan, Nigeria, Central African Republic,
   Somalia,Pakistan, Mozambique and Myanmar (17 countries)
-
----
-
-You can check this [infographic](https://drive.google.com/file/d/1HOue6xAUJ7nB_g_V6YTy2cXS_Rgu8esi/view)
-for a quick and clear overview of our progress in this milestone

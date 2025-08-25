@@ -61,3 +61,17 @@ structures or algorithms
 - Gain more experience in data analysis and interpretation
 - Improve on my python skills especially in data science
 - Learn how to solve problems effective using programs
+
+### Maria Cedeño
+
+- Enhance ability to clearly communicate complex data insights
+- Seek and incorporate constructive feedback
+- Improve problem-solving skills
+- Gain practical experience on a real data science project
+
+### Zeinab Mohmmed
+
+- Strengthen my technical skills, especially in GitHub, Python, and Data Science.
+- Improve my time management and become more organized.
+- Learn from others through sharing and exchanging knowledge.
+- Apply what I’ve learned in real projects and keep learning from my mistakes.
