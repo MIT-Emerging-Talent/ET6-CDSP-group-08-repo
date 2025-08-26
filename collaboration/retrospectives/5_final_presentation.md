@@ -1,0 +1,77 @@
+<!-- markdownlint-disable MD013 MD031 MD007 MD033 MD004 MD009 MD013 MD045 MD041 MD032 MD039 MD019 -->
+
+<!-- markdownlint-disable MD031 MD033 MD004 MD001 MD009 MD013 MD045 MD001 MD012 MD022 MD036 -->
+
+# Final Retrospective  
+
+## Stop Doing  
+- Spending too much time perfecting details that delayed progress.  
+- Overextending on tasks outside our main project goals.  
+
+## Continue Doing  
+- Focusing on making an impact with our research and project outcomes.  
+- Reaching out and connecting with people who are interested in our project and research.  
+- Building on existing knowledge and “starting from where people end” to save time and add value.  
+
+## Start Doing  
+- Setting clearer timelines and sticking to them.  
+- Sharing updates more frequently within the team for alignment.  
+- Seeking feedback earlier in the process to adjust before final stages.  
+
+## Lessons Learned  
+- The Communication Strategy milestone required more time and effort than expected, showing us the importance of early planning.  
+- Creating the pitch deck was very useful and became a strong foundation for our final presentation.  
+- Collaboration and clear narrative made a big difference in how we delivered our work.  
+
+
+## Individual Retrospectives
+
+## strategy vs Board
+
+## AHD
+
+### What parts of your plan went as expected  
+The presentation trend ot as good as we wanted 
+Finding a collaborator for our application for the UNHCR RLIF
+ The pitch deck turned out to be a strong tool for presenting ideas clearly.  
+Our focus on impact and clarity helped guide the project direction.  
+
+### What parts of your plan did not work out?  
+- Collaboration and teamwork didn't flow smoothly, not everyone contributed.
+- The Communication Strategy milestone took much longer than planned.  
+- Some tasks were delayed because of spending too much time refining details.  
+- It was challenging to keep the timeline balanced with all deliverables.  
+
+### Did you need to add things that weren’t in your strategy or remove extra steps?  
+- Added extra effort on presentation design, which wasn’t originally emphasized but proved crucial.  
+- Removed or simplified smaller research details to stay focused on the main goals.  
+- Adjusted communication approaches (sharing more updates and feedback) as the project progressed.
+
+
+## Zeinab 
+
+### What parts of your plan went as expected**  
+- We reached out to the Energy Research Center to get the information needed to implement our project.
+- We also communicated with several organizations in Sudan to be our partners and help us apply for funding.  
+
+### What parts of your plan did not work out?**  
+- I spent more time working on communicating results, which prevented me from contributing to the final presentation deliverable.
+
+### Did you need to add things that weren’t in your strategy or remove extra steps?**  
+- Trying to secure funding and bring our project to reality is an important step we added,
+and it’s a great step we are working on.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
