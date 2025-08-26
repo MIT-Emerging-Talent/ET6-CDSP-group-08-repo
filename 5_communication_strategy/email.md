@@ -1,3 +1,9 @@
+
+<!-- markdownlint-disable MD013 MD031 MD007 MD033 MD004 MD009 MD013 MD045 MD041 MD032 MD039 MD019 MD012-->
+
+
+<!-- markdownlint-disable MD031 MD033 MD004 MD001 MD009 MD013 MD045 MD001 -->
+
 **Subject:** Collaboration Opportunity: Refugee-Led Innovation Fund Application  
 
 Dear Fay Magid,  
@@ -16,6 +22,8 @@ To give you more details, we have prepared:
 - A [pitch deck](https://solarenergyforcommunityresilienceinsudan.my.canva.site/) and [proposal](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/5_communication_strategy/proposal.md) aligned with the UNHCR evaluation criteria  
 - A [blog post](https://medium.com/@ahdbasan/survival-not-just-sustainability-the-role-of-solar-in-conflict-zones-54ef59c76af4) highlighting how solar energy provides resilience and dignity in conflict-driven blackouts  
 
+The application deadline is **August 31, 2025**, so we would greatly appreciate hearing back from you at your earliest convenience.
+
 We truly believe this project can make a meaningful impact, but to make it a reality, we need the support of an established organization like IEEE. If you find our work aligned with your mission, we would love to discuss possible next steps.  
 
 Thank you for taking the time to consider this. I look forward to hearing your thoughts.  
@@ -23,5 +31,5 @@ Thank you for taking the time to consider this. I look forward to hearing your t
 Warm regards,  
 **Ahd Abdelrahim**  
 MIT Emerging Talent Program – Cohort 6  
-ahdbasan2@gmail.com  
+[ahdbasan2@gmail.com](maltio:ahdbasan2@gmail.com)  
 GitHub – [ahdbasan](https://github.com/ahdbasan)  

@@ -161,7 +161,7 @@ To ground our data‑driven work in real‑world context, we've prepared a detai
 * **Potential interventions** from distributed solar micro-grids to local maintenance commit
 
 
-> For more details refer to [0_domain_study](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/0_domain_studyn) keeping more background studies, problem domain understanding and our process about how we reached our research question.
+> For more details refer to [0_domain_study](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/0_domain_study) keeping more background studies, problem domain understanding and our process about how we reached our research question.
 > 
 <!-- markdownlint-disable MD031 MD033 MD013 MD001 MD04 MD045 MD049 MD041 MD022 MD042 MD018-->
 ---
