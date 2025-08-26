@@ -454,6 +454,26 @@ From the **public**:
 
 
 ---
+
+## Key Findings
+
+- **Solar grows during conflicts:** Off-grid systems surge when central grids fail.
+- **Portable solutions matter:** Solar lamps and lithium batteries are in higher demand during crises.
+- **Community survival focus:** Solar is used primarily for essential services — clinics, water pumps, communication.
+- **Policy & wealth impact adoption:** Conflict intensity, household income, and government policy shape patterns of adoption.
+- **Data gaps exist:** Black market, second-hand use, and missing datasets can affect exact numbers.
+
+
+## Project Workflow 
+
+**Steps:**
+1. **Domain Research:** Understand energy challenges in conflict zones.
+2. **Data Collection:** Gather datasets from IRENA, UN Comtrade, etc.
+3. **Data Cleaning & Preparation:** Filter, label, and standardize datasets.
+4. **Analysis & Exploration:** Visualize deployment patterns and adoption trends.
+5. **Results & Communication:** Summarize findings and create actionable insights.
+
+
 ## Repository structure
 
 ```text
@@ -552,3 +572,4 @@ _Who's behind all this? Meet the passionate minds Github driving this project:_
 
 This project is licensed under the MIT License -
 see the [LICENSE](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/LICENSE) file for details.
+
