@@ -174,7 +174,8 @@ At the center of it all is **solar energy** — not just as a clean tech solutio
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/update_repo/1_datasets/images/1.png" width="450"/></td>
+    <td><img src="https://raw.githubusercontent.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/update_repo/1_datasets/images/3.png" width="650"/></td>
+    <td><img src="https://raw.githubusercontent.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/update_repo/1_datasets/images/2.png" width="300"/></td>
   </tr>
 </table>
 
@@ -190,7 +191,7 @@ At the center of it all is **solar energy** — not just as a clean tech solutio
       </ul>
     </td>
     <td style="vertical-align: top; width: 30%;">
-      <img src="https://raw.githubusercontent.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/update_repo/1_datasets/images/2.png" width="1000">
+      <img src="https://raw.githubusercontent.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/update_repo/1_datasets/images/1.png" width="2000">
     </td>
   </tr>
 </table>
