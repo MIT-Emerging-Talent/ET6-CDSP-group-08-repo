@@ -5,7 +5,11 @@ Imagine trying to understand how people survive in war-torn areas when the light
 
 At the center of it all is **solar energy** — not just as a clean tech solution, but as a **lifeline** when everything else fails. When power lines are bombed, families are displaced, and normal life disappears, solar can step in as **survival infrastructure** — helping people charge phones, power lights, and keep hospitals or schools running. We're looking at things like:
 
-<img src="https://raw.githubusercontent.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo-4/main/1_datasets/images/1.png" width="400"/>
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/update_repo/1_datasets/images/1.png" width="650"/></td>
+  </tr>
+</table>
 
 
 To understand how this all works, we looked at three big clues (datasets):
@@ -25,7 +29,7 @@ Our domain model focuses on three main areas:
       </ul>
     </td>
     <td style="vertical-align: top; width: 30%;">
-      <img src="https://raw.githubusercontent.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/1_datasets/1_datasets/images/2.png" width="2000">
+      <img src="https://raw.githubusercontent.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/update_repo/1_datasets/images/2.png" width="2000">
     </td>
   </tr>
 </table>
