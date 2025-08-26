@@ -45,7 +45,22 @@ Our focus on impact and clarity helped guide the project direction.
 ### Did you need to add things that weren’t in your strategy or remove extra steps?  
 - Added extra effort on presentation design, which wasn’t originally emphasized but proved crucial.  
 - Removed or simplified smaller research details to stay focused on the main goals.  
-- Adjusted communication approaches (sharing more updates and feedback) as the project progressed.  
+- Adjusted communication approaches (sharing more updates and feedback) as the project progressed.
+
+
+## Zeinab 
+
+### What parts of your plan went as expected**  
+- We reached out to the Energy Research Center to get the information needed to implement our project.
+- We also communicated with several organizations in Sudan to be our partners and help us apply for funding.  
+
+### What parts of your plan did not work out?**  
+- I spent more time working on communicating results, which prevented me from contributing to the final presentation deliverable.
+
+### Did you need to add things that weren’t in your strategy or remove extra steps?**  
+- Trying to secure funding and bring our project to reality is an important step we added,
+and it’s a great step we are working on.
+
 
 
 
