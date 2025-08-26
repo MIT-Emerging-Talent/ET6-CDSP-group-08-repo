@@ -5,12 +5,9 @@ Imagine trying to understand how people survive in war-torn areas when the light
 
 At the center of it all is **solar energy** — not just as a clean tech solution, but as a **lifeline** when everything else fails. When power lines are bombed, families are displaced, and normal life disappears, solar can step in as **survival infrastructure** — helping people charge phones, power lights, and keep hospitals or schools running. We're looking at things like:
 
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/1_datasets/1_datasets/images/1.png" width="650"/></td>
-    <td><img src="https://raw.githubusercontent.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/1_datasets/1_datasets/images/2.png" width="300"/></td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo-4/main/1_datasets/images/1.png" width="400"/>
+
+
 To understand how this all works, we looked at three big clues (datasets):
 
 - **On-Grid and Off-Grid Data** _tells us how traditional electricity drops off during conflict. It’s like tracking where the lights go out and shows how people start using solar systems when the grid fails — kind of like switching from the main power to a backup generator._
@@ -28,7 +25,7 @@ Our domain model focuses on three main areas:
       </ul>
     </td>
     <td style="vertical-align: top; width: 30%;">
-      <img src="https://raw.githubusercontent.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/1_datasets/1_datasets/images/3.png" width="2000">
+      <img src="https://raw.githubusercontent.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/1_datasets/1_datasets/images/2.png" width="2000">
     </td>
   </tr>
 </table>
