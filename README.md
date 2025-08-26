@@ -161,7 +161,7 @@ To ground our data‑driven work in real‑world context, we've prepared a detai
 * **Potential interventions** from distributed solar micro-grids to local maintenance commit
 
 
-> For more details refer to [0_domain_study](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/0_domain_studyn) keeping more background studies, problem domain understanding and our process about how we reached our research question.
+> For more details refer to [0_domain_study](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/0_domain_study) keeping more background studies, problem domain understanding and our process about how we reached our research question.
 > 
 <!-- markdownlint-disable MD031 MD033 MD013 MD001 MD04 MD045 MD049 MD041 MD022 MD042 MD018-->
 ---
@@ -174,8 +174,8 @@ At the center of it all is **solar energy** — not just as a clean tech solutio
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/1_datasets/1_datasets/images/1.png" width="650"/></td>
-    <td><img src="https://raw.githubusercontent.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/1_datasets/1_datasets/images/2.png" width="300"/></td>
+    <td><img src="https://raw.githubusercontent.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/update_repo/1_datasets/images/3.png" width="650"/></td>
+    <td><img src="https://raw.githubusercontent.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/update_repo/1_datasets/images/2.png" width="300"/></td>
   </tr>
 </table>
 
@@ -191,7 +191,7 @@ At the center of it all is **solar energy** — not just as a clean tech solutio
       </ul>
     </td>
     <td style="vertical-align: top; width: 30%;">
-      <img src="https://raw.githubusercontent.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/1_datasets/1_datasets/images/3.png" width="2000">
+      <img src="https://raw.githubusercontent.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/update_repo/1_datasets/images/1.png" width="2000">
     </td>
   </tr>
 </table>
@@ -409,12 +409,15 @@ Local elected groups in Sudan that provide basic services and link communities w
 
 ### How We’re Getting the Message Out
 
-- **Funders:** [Pitch deck](https://solarenergyforcommunityresilienceinsudan.my.canva.site/) and [proposal](./proposal.md) that fits UNHCR Refugee Fund evaluation criteria.
+- **Funders:** 
+  - A [document](https://docs.google.com/document/d/1qtnTPDyECZFVlH4yhWlZRAuwwtspa7mvojq4XWrX1DM/edit?tab=t.0) outlining the fund, requirements, and our draft budget  
+  - A [GitHub repository](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo) where our research and progress are documented  
+  - A [pitch deck](https://solarenergyforcommunityresilienceinsudan.my.canva.site/) and [proposal](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/5_communication_strategy/proposal.md) aligned with the UNHCR evaluation criteria  
 
+- **Public:**   
+  - A [blog post](https://medium.com/@ahdbasan/survival-not-just-sustainability-the-role-of-solar-in-conflict-zones-54ef59c76af4) highlighting how solar energy provides resilience and dignity in conflict-driven blackouts  
 
 - **Committees:** WhatsApp-ready infographics, short videos, fact sheets, and meeting templates. 
-
-- **Public:** [Blog post](https://medium.com/@ahdbasan/survival-not-just-sustainability-the-role-of-solar-in-conflict-zones-54ef59c76af4) shows how conflict-driven blackouts devastate life in Sudan and why solar energy is a lifeline for resilience, dignity, and survival.
 
 > **_By Refugees to Refugees_**
 
@@ -451,6 +454,28 @@ From the **public**:
 
 
 ---
+
+## Key Findings
+
+- **Solar grows during conflicts:** Off-grid systems surge when central grids fail.
+- **Portable solutions matter:** Solar lamps and lithium batteries are in higher demand during crises.
+- **Community survival focus:** Solar is used primarily for essential services — clinics, water pumps, communication.
+- **Policy & wealth impact adoption:** Conflict intensity, household income, and government policy shape patterns of adoption.
+- **Data gaps exist:** Black market, second-hand use, and missing datasets can affect exact numbers.
+
+---
+
+## Project Workflow 
+
+**Steps:**
+1. **Domain Research:** Understand energy challenges in conflict zones.
+2. **Data Collection:** Gather datasets from IRENA, UN Comtrade, etc.
+3. **Data Cleaning & Preparation:** Filter, label, and standardize datasets.
+4. **Analysis & Exploration:** Visualize deployment patterns and adoption trends.
+5. **Results & Communication:** Summarize findings and create actionable insights.
+
+---
+
 ## Repository structure
 
 ```text
@@ -531,6 +556,8 @@ _Who's behind all this? Meet the passionate minds Github driving this project:_
   </tr>
 </table>
 
+---
+
 ## [Tech Stack]()
 
 - **Programming Language:** Python 3.11+  
@@ -549,3 +576,5 @@ _Who's behind all this? Meet the passionate minds Github driving this project:_
 
 This project is licensed under the MIT License -
 see the [LICENSE](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/LICENSE) file for details.
+
+
