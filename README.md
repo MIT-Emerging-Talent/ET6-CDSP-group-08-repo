@@ -454,7 +454,7 @@ From the **public**:
 
 
 ---
-## [M8 Final Presentation](https://docs.google.com/presentation/d/1ylyQKWaLEG2DBNjNC2kAqbokFimr2Ajq/edit)
+## [M5: Final Presentation](https://docs.google.com/presentation/d/1ylyQKWaLEG2DBNjNC2kAqbokFimr2Ajq/edit)
 > For more details refer to our [final presentation](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/6_final_presentation), including our script and final presentation slides readme.
 
 ---
@@ -580,6 +580,7 @@ _Who's behind all this? Meet the passionate minds Github driving this project:_
 
 This project is licensed under the MIT License -
 see the [LICENSE](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/LICENSE) file for details.
+
 
 
 
