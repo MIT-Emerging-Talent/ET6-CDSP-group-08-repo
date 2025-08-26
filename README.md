@@ -463,6 +463,7 @@ From the **public**:
 - **Policy & wealth impact adoption:** Conflict intensity, household income, and government policy shape patterns of adoption.
 - **Data gaps exist:** Black market, second-hand use, and missing datasets can affect exact numbers.
 
+---
 
 ## Project Workflow 
 
@@ -473,6 +474,7 @@ From the **public**:
 4. **Analysis & Exploration:** Visualize deployment patterns and adoption trends.
 5. **Results & Communication:** Summarize findings and create actionable insights.
 
+---
 
 ## Repository structure
 
@@ -554,6 +556,8 @@ _Who's behind all this? Meet the passionate minds Github driving this project:_
   </tr>
 </table>
 
+---
+
 ## [Tech Stack]()
 
 - **Programming Language:** Python 3.11+  
@@ -572,4 +576,5 @@ _Who's behind all this? Meet the passionate minds Github driving this project:_
 
 This project is licensed under the MIT License -
 see the [LICENSE](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/LICENSE) file for details.
+
 
