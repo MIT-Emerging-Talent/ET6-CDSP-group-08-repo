@@ -454,6 +454,10 @@ From the **public**:
 
 
 ---
+## [M5: Final Presentation](https://docs.google.com/presentation/d/1ylyQKWaLEG2DBNjNC2kAqbokFimr2Ajq/edit)
+> For more details refer to our [final presentation](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/tree/main/6_final_presentation), including our script and final presentation slides readme.
+
+---
 
 ## Key Findings
 
@@ -465,16 +469,6 @@ From the **public**:
 
 ---
 
-## Project Workflow 
-
-**Steps:**
-1. **Domain Research:** Understand energy challenges in conflict zones.
-2. **Data Collection:** Gather datasets from IRENA, UN Comtrade, etc.
-3. **Data Cleaning & Preparation:** Filter, label, and standardize datasets.
-4. **Analysis & Exploration:** Visualize deployment patterns and adoption trends.
-5. **Results & Communication:** Summarize findings and create actionable insights.
-
----
 
 ## Repository structure
 
@@ -491,8 +485,18 @@ project/
 ├── /4_data_analysis/           # Scripts for in-depth analysis
 ├── /5_communication_strategy/  # Materials for communicating findings
 └── /6_final_presentation/      # Final presentation materials
-
 ```
+
+## Project Workflow 
+
+**Steps:**
+1. **Domain Research:** Understand energy challenges in conflict zones.
+2. **Data Collection:** Gather datasets from IRENA, UN Comtrade, etc.
+3. **Data Cleaning & Preparation:** Filter, label, and standardize datasets.
+4. **Analysis & Exploration:** Visualize deployment patterns and adoption trends.
+5. **Results & Communication:** Summarize findings and create actionable insights.
+
+---
 
 ## Team Members
 
@@ -576,5 +580,7 @@ _Who's behind all this? Meet the passionate minds Github driving this project:_
 
 This project is licensed under the MIT License -
 see the [LICENSE](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-08-repo/blob/main/LICENSE) file for details.
+
+
 
 
